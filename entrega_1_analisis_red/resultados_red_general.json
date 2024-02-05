@@ -1,0 +1,24 @@
+{
+    "Es dirigida": true,
+    "N\u00famero nodos": 2719,
+    "N\u00famero de aristas": 5076,
+    "Reciprocidad de la red": 0.001182033096926714,
+    "asortatividad": 0.10930819264866778,
+    "densidad": 0.000686851661961814,
+    "fuertemente conectada": false,
+    "est\u00e1 conectada": false,
+    "di\u00e1metro": "Puede ser porque sea dirigida o porque hay m\u00e1s de una componente",
+    "estad\u00edsticas de los componentes": {
+        "0": 2674,
+        "1": 11,
+        "2": 6,
+        "3": 6,
+        "4": 6,
+        "5": 4,
+        "6": 3,
+        "7": 3,
+        "8": 2,
+        "9": 2,
+        "10": 2
+    }
+}
