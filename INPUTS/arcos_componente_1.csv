@@ -1,0 +1,4158 @@
+Id,SOURCE,TARGET,LabelSource,LabelTarget
+0,1969,1043,Tencent,IDG Capital
+1,426,1043,SenseTime,IDG Capital
+2,487,1043,WeRide,IDG Capital
+3,1468,1043,Shein,IDG Capital
+4,245,1043,NIO,IDG Capital
+5,597,1043,Razer,IDG Capital
+6,54,1043,Meituan,IDG Capital
+7,1777,1043,KuCoin,IDG Capital
+8,277,1043,iQiyi,IDG Capital
+9,1140,1043,Pinduoduo,IDG Capital
+10,1827,1043,Ripple,IDG Capital
+11,2117,1043,Matrixport,IDG Capital
+12,2086,1043,Animoca Brands,IDG Capital
+13,1614,1043,CertiK,IDG Capital
+14,1154,1043,Fastly,IDG Capital
+15,809,1043,Course Hero,IDG Capital
+16,506,1043,Bizongo,IDG Capital
+17,1316,1043,Farfetch,IDG Capital
+18,157,1043,Bitmain,IDG Capital
+19,788,1043,Baidu,IDG Capital
+20,1969,1874,Tencent,Prosus & Naspers
+21,935,1874,Foodpanda,Prosus & Naspers
+22,1757,1874,DST Global,Prosus & Naspers
+23,1969,145,Tencent,Lippo Group
+24,1969,836,Tencent,PCCW
+25,426,367,SenseTime,Tiger Global Management
+26,1468,367,Shein,Tiger Global Management
+27,2117,367,Matrixport,Tiger Global Management
+28,506,367,Bizongo,Tiger Global Management
+29,1515,367,Helium,Tiger Global Management
+30,1166,367,Roblox,Tiger Global Management
+31,1658,367,Komodo Health,Tiger Global Management
+32,960,367,AngelList,Tiger Global Management
+33,219,367,CoinSwitch Kuber,Tiger Global Management
+34,1533,367,Current,Tiger Global Management
+35,1045,367,Aptos,Tiger Global Management
+36,118,367,ByteDance,Tiger Global Management
+37,1189,367,Wealthfront,Tiger Global Management
+38,859,367,Scale AI,Tiger Global Management
+39,207,367,Viz,Tiger Global Management
+40,198,367,slice,Tiger Global Management
+41,1435,367,Qonto,Tiger Global Management
+42,250,367,MURAL,Tiger Global Management
+43,904,367,SafetyCulture,Tiger Global Management
+44,919,367,Apna,Tiger Global Management
+45,1607,367,6sense,Tiger Global Management
+46,1016,367,Dataiku,Tiger Global Management
+47,869,367,Automattic,Tiger Global Management
+48,177,367,CRED,Tiger Global Management
+49,878,367,Checkout.com,Tiger Global Management
+50,824,367,Aviatrix,Tiger Global Management
+51,176,367,TrueLayer,Tiger Global Management
+52,1384,367,PhonePe,Tiger Global Management
+53,1031,367,Ola,Tiger Global Management
+54,1118,367,Hike,Tiger Global Management
+55,1782,367,MercadoLibre,Tiger Global Management
+56,150,367,Ola Electric,Tiger Global Management
+57,391,367,OfBusiness,Tiger Global Management
+58,1153,367,blinkit,Tiger Global Management
+59,1396,367,Alibaba Group,Tiger Global Management
+60,2034,367,LinkedIn,Tiger Global Management
+61,607,367,Blockdaemon,Tiger Global Management
+62,412,367,Spring Health,Tiger Global Management
+63,717,367,Xendit,Tiger Global Management
+64,1142,367,Squire,Tiger Global Management
+65,1430,367,Veriff,Tiger Global Management
+66,1280,367,GrubMarket,Tiger Global Management
+67,650,367,OpenPhone,Tiger Global Management
+68,631,367,Lattice,Tiger Global Management
+69,835,367,Razorpay,Tiger Global Management
+70,1583,367,Brex,Tiger Global Management
+71,1898,367,Go1,Tiger Global Management
+72,1238,367,Zomato,Tiger Global Management
+73,2041,367,UrbanPiper,Tiger Global Management
+74,2087,367,Yandex,Tiger Global Management
+75,1477,367,SoftBank,Tiger Global Management
+76,1042,367,waresix,Tiger Global Management
+77,204,367,ServiceTitan,Tiger Global Management
+78,2093,367,Socure,Tiger Global Management
+79,746,367,Wasoko,Tiger Global Management
+80,898,367,Spinny,Tiger Global Management
+81,40,367,Vedantu,Tiger Global Management
+82,347,367,Thumbtack,Tiger Global Management
+83,1557,367,Vestiaire Collective,Tiger Global Management
+84,1090,367,Squarespace,Tiger Global Management
+85,1666,367,Yotpo,Tiger Global Management
+86,464,367,Starry,Tiger Global Management
+87,473,367,Wiz Freight,Tiger Global Management
+88,485,367,Veho,Tiger Global Management
+89,1475,367,Wheel,Tiger Global Management
+90,1306,367,Upstox,Tiger Global Management
+91,2098,367,Meta,Tiger Global Management
+92,837,367,GupShup,Tiger Global Management
+93,1105,367,NEAR Protocol,Tiger Global Management
+94,1695,367,SaltPay,Tiger Global Management
+95,42,367,ITILITE,Tiger Global Management
+96,503,367,Oxyzo,Tiger Global Management
+97,1193,367,Moveworks,Tiger Global Management
+98,1399,367,Rupifi,Tiger Global Management
+99,680,367,NoBroker,Tiger Global Management
+100,1974,367,Osso VR,Tiger Global Management
+101,1333,367,OPEN,Tiger Global Management
+102,786,367,Multiplier,Tiger Global Management
+103,818,367,GreyOrange,Tiger Global Management
+104,1947,367,Infra.Market,Tiger Global Management
+105,90,367,Redis,Tiger Global Management
+106,1046,367,Money View,Tiger Global Management
+107,983,367,Procore,Tiger Global Management
+108,758,367,Productboard,Tiger Global Management
+109,335,367,Revolut,Tiger Global Management
+110,843,367,Moglix,Tiger Global Management
+111,447,367,JD.com,Tiger Global Management
+112,998,367,Ignition,Tiger Global Management
+113,713,367,Innovaccer,Tiger Global Management
+114,616,367,Amber Group,Tiger Global Management
+115,1966,367,Classplus,Tiger Global Management
+116,1856,367,Built Robotics,Tiger Global Management
+117,2109,367,Games24x7,Tiger Global Management
+118,1908,367,Captain Fresh,Tiger Global Management
+119,958,367,Diligent Robotics,Tiger Global Management
+120,1443,367,Ather Energy,Tiger Global Management
+121,1403,367,Delhivery,Tiger Global Management
+122,1602,367,Cogoport,Tiger Global Management
+123,2078,367,Arcadia,Tiger Global Management
+124,1144,367,Ascend.io,Tiger Global Management
+125,34,367,AgentSync,Tiger Global Management
+126,123,367,Cialfo,Tiger Global Management
+127,20,367,Glassdoor,Tiger Global Management
+128,925,367,BlockFi,Tiger Global Management
+129,426,1962,SenseTime,Silver Lake
+130,1793,1962,Zynga,Silver Lake
+131,559,1962,Groupon,Silver Lake
+132,110,1962,Fanatics,Silver Lake
+133,433,1962,Foursquare,Silver Lake
+134,923,1962,Airbnb,Silver Lake
+135,1927,1962,SoFi,Silver Lake
+136,1957,1962,Didi,Silver Lake
+137,1057,1962,WME,Silver Lake
+138,1396,1962,Alibaba Group,Silver Lake
+139,258,1962,Zuora,Silver Lake
+140,1309,1962,Genies,Silver Lake
+141,1229,1962,Clari,Silver Lake
+142,106,1962,Iterable,Silver Lake
+143,2042,1962,Reliance Jio,Silver Lake
+144,802,1962,GoDaddy,Silver Lake
+145,1487,1962,Talend,Silver Lake
+146,1756,1962,Reliance Retail,Silver Lake
+147,932,1962,Splunk,Silver Lake
+148,895,1962,TAL Education Group,Silver Lake
+149,89,1962,Motorola Solutions,Silver Lake
+150,297,1962,AMC Theatres,Silver Lake
+151,426,716,SenseTime,CICC
+152,1030,716,Circle,CICC
+153,1816,716,Nreal,CICC
+154,1449,716,LanzaTech,CICC
+155,426,2101,SenseTime,Qualcomm
+156,911,2101,OneWeb,Qualcomm
+157,622,2101,Team8,Qualcomm
+158,487,426,WeRide,SenseTime
+159,487,593,WeRide,The Carlyle Group
+160,1403,593,Delhivery,The Carlyle Group
+161,1529,593,Ampere Computing,The Carlyle Group
+162,487,146,WeRide,Bosch
+163,487,1253,WeRide,Qiming Venture Partners
+164,981,1253,LetsGetChecked,Qiming Venture Partners
+165,1449,1253,LanzaTech,Qiming Venture Partners
+166,1468,661,Shein,General Atlantic
+167,1764,661,BuzzFeed,General Atlantic
+168,422,661,Staffbase,General Atlantic
+169,267,661,Delivery Hero,General Atlantic
+170,1434,661,QuintoAndar,General Atlantic
+171,496,661,Clip,General Atlantic
+172,680,661,NoBroker,General Atlantic
+173,1934,661,Renren,General Atlantic
+174,1187,661,CrowdStrike,General Atlantic
+175,186,661,Doctolib,General Atlantic
+176,1849,661,JumpCloud,General Atlantic
+177,214,661,Adyen,General Atlantic
+178,1465,661,Typeform,General Atlantic
+179,483,661,o9 Solutions,General Atlantic
+180,2113,661,Gympass,General Atlantic
+181,1756,661,Reliance Retail,General Atlantic
+182,1645,661,unico IDtech,General Atlantic
+183,840,661,Lenovo,General Atlantic
+184,1186,661,IIFL Wealth Management,General Atlantic
+185,1656,661,NET1 UEPS Technologies Inc.,General Atlantic
+186,1859,661,Crehana,General Atlantic
+187,1652,661,Evisort,General Atlantic
+188,1468,1197,Shein,Sequoia Capital China
+189,1140,1197,Pinduoduo,Sequoia Capital China
+190,157,1197,Bitmain,Sequoia Capital China
+191,428,1197,JD Logistics,Sequoia Capital China
+192,1100,1197,Airwallex,Sequoia Capital China
+193,447,1197,JD.com,Sequoia Capital China
+194,893,1197,DJI,Sequoia Capital China
+195,1816,1197,Nreal,Sequoia Capital China
+196,2103,1197,Laiye,Sequoia Capital China
+197,1732,1197,Lianluo,Sequoia Capital China
+198,1468,279,Shein,JAFCO Asia
+199,245,1969,NIO,Tencent
+200,54,1969,Meituan,Tencent
+201,1140,1969,Pinduoduo,Tencent
+202,1316,1969,Farfetch,Tencent
+203,1757,1969,DST Global,Tencent
+204,928,1969,Lyft,Tencent
+205,754,1969,Jeeves,Tencent
+206,1166,1969,Roblox,Tencent
+207,418,1969,Tesla,Tencent
+208,1968,1969,Flipkart,Tencent
+209,1435,1969,Qonto,Tencent
+210,1597,1969,Ubisoft,Tencent
+211,375,1969,Swiggy,Tencent
+212,1828,1969,Xiaohongshu,Tencent
+213,1938,1969,Satellogic,Tencent
+214,331,1969,Uber,Tencent
+215,176,1969,TrueLayer,Tencent
+216,926,1969,Voyager Innovations,Tencent
+217,530,1969,Tile,Tencent
+218,21,1969,Spotify,Tencent
+219,1650,1969,Voodoo,Tencent
+220,1726,1969,Yintai Group,Tencent
+221,1384,1969,PhonePe,Tencent
+222,1196,1969,Omnipresent,Tencent
+223,668,1969,Riot Games,Tencent
+224,458,1969,Lunar,Tencent
+225,1121,1969,Rakuten,Tencent
+226,2099,1969,Krafton,Tencent
+227,1981,1969,GoTo Group,Tencent
+228,428,1969,JD Logistics,Tencent
+229,1031,1969,Ola,Tencent
+230,564,1969,Pocket FM,Tencent
+231,256,1969,GoStudent,Tencent
+232,1561,1969,GrowSari,Tencent
+233,768,1969,Practo,Tencent
+234,1434,1969,QuintoAndar,Tencent
+235,747,1969,Lilium,Tencent
+236,1118,1969,Hike,Tencent
+237,792,1969,Epic Games,Tencent
+238,1100,1969,Airwallex,Tencent
+239,716,1969,CICC,Tencent
+240,1818,1969,Afterpay,Tencent
+241,1339,1969,Blockstream,Tencent
+242,1957,1969,Didi,Tencent
+243,1114,1969,Gojek,Tencent
+244,245,1636,NIO,Baillie Gifford
+245,54,1636,Meituan,Baillie Gifford
+246,263,1636,Tanium,Baillie Gifford
+247,1357,1636,Workrise,Baillie Gifford
+248,2111,1636,Affirm,Baillie Gifford
+249,1817,1636,Grammarly,Baillie Gifford
+250,965,1636,Funding Circle,Baillie Gifford
+251,704,1636,HelloFresh,Baillie Gifford
+252,747,1636,Lilium,Baillie Gifford
+253,792,1636,Epic Games,Baillie Gifford
+254,1339,1636,Blockstream,Baillie Gifford
+255,865,1636,Northvolt,Baillie Gifford
+256,1583,1636,Brex,Baillie Gifford
+257,1891,1636,Ginkgo Bioworks,Baillie Gifford
+258,1338,1636,BillionToOne,Baillie Gifford
+259,347,1636,Thumbtack,Baillie Gifford
+260,1403,1636,Delhivery,Baillie Gifford
+261,38,1636,Cohesity,Baillie Gifford
+262,1098,1636,Blockchain.com,Baillie Gifford
+263,1358,1636,Carbon,Baillie Gifford
+264,1249,1636,SpaceX,Baillie Gifford
+265,563,1636,PropertyGuru Group,Baillie Gifford
+266,1248,1636,Anaplan,Baillie Gifford
+267,1951,1636,ChargePoint,Baillie Gifford
+268,842,1636,Climeworks,Baillie Gifford
+269,1979,1636,Gojo & Company,Baillie Gifford
+270,245,773,NIO,Hillhouse Capital Group
+271,277,773,iQiyi,Hillhouse Capital Group
+272,1140,773,Pinduoduo,Hillhouse Capital Group
+273,1614,773,CertiK,Hillhouse Capital Group
+274,177,773,CRED,Hillhouse Capital Group
+275,267,773,Delivery Hero,Hillhouse Capital Group
+276,428,773,JD Logistics,Hillhouse Capital Group
+277,1100,773,Airwallex,Hillhouse Capital Group
+278,447,773,JD.com,Hillhouse Capital Group
+279,1800,773,Traveloka,Hillhouse Capital Group
+280,415,773,GirnarSoft,Hillhouse Capital Group
+281,245,840,NIO,Lenovo
+282,1614,840,CertiK,Lenovo
+283,597,494,Razer,Accel
+284,506,494,Bizongo,Accel
+285,161,494,Mux,Accel
+286,1642,494,PagerDuty,Accel
+287,559,494,Groupon,Accel
+288,859,494,Scale AI,Accel
+289,1415,494,Etsy,Accel
+290,965,494,Funding Circle,Accel
+291,1888,494,UserTesting,Accel
+292,1050,494,Hootsuite,Accel
+293,1886,494,DocuSign,Accel
+294,730,494,Carto,Accel
+295,21,494,Spotify,Accel
+296,1897,494,Sorare,Accel
+297,1032,494,Ethos,Accel
+298,1609,494,Deserve,Accel
+299,1439,494,Snorkel AI,Accel
+300,717,494,Xendit,Accel
+301,1430,494,Veriff,Accel
+302,1595,494,Truora,Accel
+303,87,494,Podium,Accel
+304,1366,494,Checkr,Accel
+305,491,494,Airbyte,Accel
+306,1347,494,Algolia,Accel
+307,1125,494,Drip Capital,Accel
+308,1373,494,Gem,Accel
+309,1651,494,CaptivateIQ,Accel
+310,2093,494,Socure,Accel
+311,898,494,Spinny,Accel
+312,40,494,Vedantu,Accel
+313,1090,494,Squarespace,Accel
+314,2098,494,Meta,Accel
+315,1947,494,Infra.Market,Accel
+316,1046,494,Money View,Accel
+317,843,494,Moglix,Accel
+318,1908,494,Captain Fresh,Accel
+319,1602,494,Cogoport,Accel
+320,1144,494,Ascend.io,Accel
+321,1510,494,Stanza Living,Accel
+322,484,494,Xero,Accel
+323,1008,494,Vectra,Accel
+324,424,494,trica,Accel
+325,2032,494,Netskope,Accel
+326,872,494,LetsVenture,Accel
+327,413,494,Heavybit,Accel
+328,1934,494,Renren,Accel
+329,1187,494,CrowdStrike,Accel
+330,1148,494,Atlassian,Accel
+331,397,494,Chief,Accel
+332,722,494,BookMyShow,Accel
+333,186,494,Doctolib,Accel
+334,893,494,DJI,Accel
+335,1514,494,AgroStar,Accel
+336,1364,494,G2,Accel
+337,572,494,Axonius,Accel
+338,1245,494,Bird,Accel
+339,38,494,Cohesity,Accel
+340,1410,494,Birchbox,Accel
+341,264,494,Bounce,Accel
+342,261,494,Cyera,Accel
+343,69,494,Aura,Accel
+344,329,494,Causal,Accel
+345,1916,494,Amagi Media Labs,Accel
+346,1593,494,Cloudera,Accel
+347,1200,494,Couchbase,Accel
+348,1107,494,FRVR,Accel
+349,1161,494,Amplify.LA,Accel
+350,597,614,Razer,Intel Capital
+351,1121,614,Rakuten,Intel Capital
+352,1408,614,Exo,Intel Capital
+353,366,614,Lilt,Intel Capital
+354,540,614,Gro Intelligence,Intel Capital
+355,1771,614,Trace,Intel Capital
+356,1273,614,IndiaMART,Intel Capital
+357,597,332,Razer,Horizons Ventures
+358,1275,332,Improbable,Horizons Ventures
+359,365,332,Deepcell,Horizons Ventures
+360,2037,332,FIDEL API,Horizons Ventures
+361,1994,332,Ajaib,Horizons Ventures
+362,1613,332,Zoom,Horizons Ventures
+363,1590,332,Eat Just,Horizons Ventures
+364,597,1732,Razer,Lianluo
+365,54,906,Meituan,Temasek Holdings
+366,157,906,Bitmain,Temasek Holdings
+367,1275,906,Improbable,Temasek Holdings
+368,82,906,Duck Creek Technologies,Temasek Holdings
+369,1828,906,Xiaohongshu,Temasek Holdings
+370,176,906,TrueLayer,Temasek Holdings
+371,1981,906,GoTo Group,Temasek Holdings
+372,150,906,Ola Electric,Temasek Holdings
+373,1396,906,Alibaba Group,Temasek Holdings
+374,697,906,PayPal,Temasek Holdings
+375,599,906,Snapdeal,Temasek Holdings
+376,362,906,SambaNova Systems,Temasek Holdings
+377,1575,906,Pine Labs,Temasek Holdings
+378,1042,906,waresix,Temasek Holdings
+379,1333,906,OPEN,Temasek Holdings
+380,616,906,Amber Group,Temasek Holdings
+381,1770,906,Zilingo,Temasek Holdings
+382,541,906,Forge,Temasek Holdings
+383,1358,906,Carbon,Temasek Holdings
+384,1513,906,Orca Security,Temasek Holdings
+385,950,906,UpGrad,Temasek Holdings
+386,1555,906,The EVERY Company,Temasek Holdings
+387,298,906,SparkCognition,Temasek Holdings
+388,868,906,UST,Temasek Holdings
+389,417,906,SES,Temasek Holdings
+390,796,906,Licious,Temasek Holdings
+391,218,906,Rent the Runway,Temasek Holdings
+392,1422,906,Info Edge,Temasek Holdings
+393,1431,906,Helix,Temasek Holdings
+394,338,906,LeapFrog Investments,Temasek Holdings
+395,1455,906,Bayer,Temasek Holdings
+396,214,906,Adyen,Temasek Holdings
+397,633,906,FTX US,Temasek Holdings
+398,977,906,Gogoro,Temasek Holdings
+399,1716,906,BlueVoyant,Temasek Holdings
+400,54,1983,Meituan,Coatue
+401,157,1983,Bitmain,Coatue
+402,1604,1983,SpotOn,Coatue
+403,161,1983,Mux,Coatue
+404,294,1983,Mercury,Coatue
+405,686,1983,Box,Coatue
+406,508,1983,SiFive,Coatue
+407,859,1983,Scale AI,Coatue
+408,131,1983,Niantic,Coatue
+409,1798,1983,Handshake,Coatue
+410,1527,1983,Upgrade,Coatue
+411,94,1983,Postman,Coatue
+412,77,1983,Choco,Coatue
+413,177,1983,CRED,Coatue
+414,878,1983,Checkout.com,Coatue
+415,256,1983,GoStudent,Coatue
+416,1818,1983,Afterpay,Coatue
+417,1191,1983,PlayVS,Coatue
+418,2012,1983,Rebel Foods,Coatue
+419,1360,1983,Rivian,Coatue
+420,1366,1983,Checkr,Coatue
+421,491,1983,Airbyte,Coatue
+422,40,1983,Vedantu,Coatue
+423,1475,1983,Wheel,Coatue
+424,329,1983,Causal,Coatue
+425,407,1983,Grafana Labs,Coatue
+426,2075,1983,Rec Room,Coatue
+427,1248,1983,Anaplan,Coatue
+428,1151,1983,Sweep,Coatue
+429,839,1983,Careem,Coatue
+430,2022,1983,Panther Labs,Coatue
+431,588,1983,Pleo,Coatue
+432,1777,459,KuCoin,Matrix Partners
+433,156,459,Oculus,Matrix Partners
+434,2004,459,Fivetran,Matrix Partners
+435,768,459,Practo,Matrix Partners
+436,1924,459,Zendesk,Matrix Partners
+437,42,459,ITILITE,Matrix Partners
+438,503,459,Oxyzo,Matrix Partners
+439,1510,459,Stanza Living,Matrix Partners
+440,1008,459,Vectra,Matrix Partners
+441,537,459,HubSpot,Matrix Partners
+442,1954,459,Apple,Matrix Partners
+443,1071,459,Chalo,Matrix Partners
+444,2055,459,Fuzzy,Matrix Partners
+445,1901,459,Apartment List,Matrix Partners
+446,1777,1767,KuCoin,NEO Global Capital (NGC)
+447,2003,1767,Ankr,NEO Global Capital (NGC)
+448,277,1345,iQiyi,Sequoia Capital
+449,1614,1345,CertiK,Sequoia Capital
+450,957,1345,Stripe,Sequoia Capital
+451,1504,1345,Okta,Sequoia Capital
+452,1270,1345,LayerZero Labs,Sequoia Capital
+453,236,1345,Robinhood,Sequoia Capital
+454,1009,1345,Protocol Labs,Sequoia Capital
+455,1783,1345,Capitolis,Sequoia Capital
+456,923,1345,Airbnb,Sequoia Capital
+457,118,1345,ByteDance,Sequoia Capital
+458,1490,1345,Clipboard Health,Sequoia Capital
+459,1661,1345,MongoDB,Sequoia Capital
+460,109,1345,Wiz,Sequoia Capital
+461,1838,1345,Island,Sequoia Capital
+462,1080,1345,Docker,Sequoia Capital
+463,331,1345,Uber,Sequoia Capital
+464,768,1345,Practo,Sequoia Capital
+465,1100,1345,Airwallex,Sequoia Capital
+466,1153,1345,blinkit,Sequoia Capital
+467,2012,1345,Rebel Foods,Sequoia Capital
+468,697,1345,PayPal,Sequoia Capital
+469,2034,1345,LinkedIn,Sequoia Capital
+470,1032,1345,Ethos,Sequoia Capital
+471,167,1345,Apollo.io,Sequoia Capital
+472,945,1345,DoorDash,Sequoia Capital
+473,1651,1345,CaptivateIQ,Sequoia Capital
+474,1478,1345,Clever,Sequoia Capital
+475,1238,1345,Zomato,Sequoia Capital
+476,347,1345,Thumbtack,Sequoia Capital
+477,758,1345,Productboard,Sequoia Capital
+478,1144,1345,Ascend.io,Sequoia Capital
+479,1510,1345,Stanza Living,Sequoia Capital
+480,1245,1345,Bird,Sequoia Capital
+481,38,1345,Cohesity,Sequoia Capital
+482,261,1345,Cyera,Sequoia Capital
+483,1800,1345,Traveloka,Sequoia Capital
+484,1084,1345,StarkWare Industries,Sequoia Capital
+485,1770,1345,Zilingo,Sequoia Capital
+486,929,1345,Yokoy,Sequoia Capital
+487,1613,1345,Zoom,Sequoia Capital
+488,1502,1345,SecurityScorecard,Sequoia Capital
+489,888,1345,Watershed,Sequoia Capital
+490,527,1345,Streamlit,Sequoia Capital
+491,1386,1345,Skiff,Sequoia Capital
+492,2100,1345,Snowflake,Sequoia Capital
+493,1474,1345,Yahoo,Sequoia Capital
+494,896,1345,ServiceNow,Sequoia Capital
+495,2000,1345,NVIDIA,Sequoia Capital
+496,407,1345,Grafana Labs,Sequoia Capital
+497,366,1345,Lilt,Sequoia Capital
+498,537,1345,HubSpot,Sequoia Capital
+499,2075,1345,Rec Room,Sequoia Capital
+500,2114,1345,Nazara Technologies,Sequoia Capital
+501,1747,1345,Houzz,Sequoia Capital
+502,989,1345,Natera,Sequoia Capital
+503,1564,1345,Maven Clinic,Sequoia Capital
+504,645,1345,Magic Eden,Sequoia Capital
+505,555,1345,Insider,Sequoia Capital
+506,1689,1345,Remote,Sequoia Capital
+507,658,1345,Oracle,Sequoia Capital
+508,1545,1345,Green Dot,Sequoia Capital
+509,1954,1345,Apple,Sequoia Capital
+510,226,1345,Google,Sequoia Capital
+511,1229,1345,Clari,Sequoia Capital
+512,252,1345,DataStax,Sequoia Capital
+513,673,1345,Citizen,Sequoia Capital
+514,1358,1345,Carbon,Sequoia Capital
+515,725,1345,Binance,Sequoia Capital
+516,949,1345,Bolt,Sequoia Capital
+517,1277,1345,Cisco,Sequoia Capital
+518,415,1345,GirnarSoft,Sequoia Capital
+519,1560,1345,Electronic Arts,Sequoia Capital
+520,277,724,iQiyi,Shunwei Capital
+521,230,724,Rapido,Shunwei Capital
+522,1816,724,Nreal,Shunwei Capital
+523,277,1139,iQiyi,Boyu Capital
+524,1140,951,Pinduoduo,Cathay Innovation
+525,550,951,54gene,Cathay Innovation
+526,812,951,FinAccel,Cathay Innovation
+527,2103,951,Laiye,Cathay Innovation
+528,1827,215,Ripple,Andreessen Horowitz
+529,1673,215,Twitter,Andreessen Horowitz
+530,482,215,Solana,Andreessen Horowitz
+531,406,215,Substack,Andreessen Horowitz
+532,957,215,Stripe,Andreessen Horowitz
+533,259,215,Wonderschool,Andreessen Horowitz
+534,1870,215,Worldcoin,Andreessen Horowitz
+535,1604,215,SpotOn,Andreessen Horowitz
+536,1053,215,Spring,Andreessen Horowitz
+537,1495,215,Season Health,Andreessen Horowitz
+538,263,215,Tanium,Andreessen Horowitz
+539,1357,215,Workrise,Andreessen Horowitz
+540,138,215,Whatnot,Andreessen Horowitz
+541,1416,215,Sift,Andreessen Horowitz
+542,1522,215,Trunk,Andreessen Horowitz
+543,1793,215,Zynga,Andreessen Horowitz
+544,11,215,Yield Guild Games,Andreessen Horowitz
+545,1718,215,Slack,Andreessen Horowitz
+546,928,215,Lyft,Andreessen Horowitz
+547,1504,215,Okta,Andreessen Horowitz
+548,1270,215,LayerZero Labs,Andreessen Horowitz
+549,1515,215,Helium,Andreessen Horowitz
+550,1275,215,Improbable,Andreessen Horowitz
+551,754,215,Jeeves,Andreessen Horowitz
+552,236,215,Robinhood,Andreessen Horowitz
+553,1166,215,Roblox,Andreessen Horowitz
+554,930,215,Hadrian,Andreessen Horowitz
+555,1543,215,Greenlight,Andreessen Horowitz
+556,479,215,Health IQ,Andreessen Horowitz
+557,688,215,Overwolf,Andreessen Horowitz
+558,156,215,Oculus,Andreessen Horowitz
+559,46,215,Pindrop,Andreessen Horowitz
+560,59,215,Optimism,Andreessen Horowitz
+561,1072,215,Jumio,Andreessen Horowitz
+562,691,215,OpenSea,Andreessen Horowitz
+563,1029,215,Rutter,Andreessen Horowitz
+564,161,215,Mux,Andreessen Horowitz
+565,1254,215,People.ai,Andreessen Horowitz
+566,1642,215,PagerDuty,Andreessen Horowitz
+567,1658,215,Komodo Health,Andreessen Horowitz
+568,1727,215,Rigetti Computing,Andreessen Horowitz
+569,1302,215,Hex Technologies,Andreessen Horowitz
+570,1701,215,Payrails,Andreessen Horowitz
+571,559,215,Groupon,Andreessen Horowitz
+572,72,215,Omada Health,Andreessen Horowitz
+573,294,215,Mercury,Andreessen Horowitz
+574,497,215,Reforge,Andreessen Horowitz
+575,1097,215,Polychain,Andreessen Horowitz
+576,1728,215,Latitud,Andreessen Horowitz
+577,1009,215,Protocol Labs,Andreessen Horowitz
+578,178,215,Coinbase,Andreessen Horowitz
+579,960,215,AngelList,Andreessen Horowitz
+580,219,215,CoinSwitch Kuber,Andreessen Horowitz
+581,1669,215,DFINITY,Andreessen Horowitz
+582,110,215,Fanatics,Andreessen Horowitz
+583,269,215,Ava Labs,Andreessen Horowitz
+584,402,215,Anchorage,Andreessen Horowitz
+585,1533,215,Current,Andreessen Horowitz
+586,1783,215,Capitolis,Andreessen Horowitz
+587,686,215,Box,Andreessen Horowitz
+588,984,215,DigitalOcean,Andreessen Horowitz
+589,1764,215,BuzzFeed,Andreessen Horowitz
+590,1052,215,BlockTower Capital,Andreessen Horowitz
+591,1649,215,Dapper Labs,Andreessen Horowitz
+592,1045,215,Aptos,Andreessen Horowitz
+593,1763,215,Flexport,Andreessen Horowitz
+594,2004,215,Fivetran,Andreessen Horowitz
+595,1244,215,Freenome,Andreessen Horowitz
+596,1374,215,Flock Homes,Andreessen Horowitz
+597,433,215,Foursquare,Andreessen Horowitz
+598,1500,215,ChartHop,Andreessen Horowitz
+599,875,215,Firstbase,Andreessen Horowitz
+600,1608,215,Arweave,Andreessen Horowitz
+601,365,215,Deepcell,Andreessen Horowitz
+602,2007,215,Astranis,Andreessen Horowitz
+603,775,215,Everlaw,Andreessen Horowitz
+604,1141,215,Cross River,Andreessen Horowitz
+605,923,215,Airbnb,Andreessen Horowitz
+606,1233,215,Datanomik,Andreessen Horowitz
+607,1279,215,FundersClub,Andreessen Horowitz
+608,2111,215,Affirm,Andreessen Horowitz
+609,166,215,BlocPower,Andreessen Horowitz
+610,1346,215,Everyrealm,Andreessen Horowitz
+611,1827,1203,Ripple,Digital Currency Group
+612,1870,1203,Worldcoin,Digital Currency Group
+613,1009,1203,Protocol Labs,Digital Currency Group
+614,178,1203,Coinbase,Digital Currency Group
+615,1649,1203,Dapper Labs,Digital Currency Group
+616,1512,1203,eToro,Digital Currency Group
+617,627,1203,Lightning Labs,Digital Currency Group
+618,1821,1203,BitPay,Digital Currency Group
+619,1324,1203,Polygon,Digital Currency Group
+620,850,1203,BitGo,Digital Currency Group
+621,425,1203,Yield Guild Games Southeast Asia,Digital Currency Group
+622,1914,1203,CoinList,Digital Currency Group
+623,1785,1203,Wyre,Digital Currency Group
+624,1035,1203,Ledger,Digital Currency Group
+625,1993,1203,OXIO,Digital Currency Group
+626,376,1203,Kraken,Digital Currency Group
+627,159,1203,Ripio,Digital Currency Group
+628,1030,1203,Circle,Digital Currency Group
+629,696,1203,Decentraland,Digital Currency Group
+630,1003,1203,Figure,Digital Currency Group
+631,251,1203,Abra,Digital Currency Group
+632,1098,1203,Blockchain.com,Digital Currency Group
+633,1827,940,Ripple,Blockchain Capital
+634,691,940,OpenSea,Blockchain Capital
+635,178,940,Coinbase,Blockchain Capital
+636,402,940,Anchorage,Blockchain Capital
+637,1339,940,Blockstream,Blockchain Capital
+638,850,940,BitGo,Blockchain Capital
+639,208,940,Parallel Finance,Blockchain Capital
+640,1914,940,CoinList,Blockchain Capital
+641,592,940,Securitize,Blockchain Capital
+642,1785,940,Wyre,Blockchain Capital
+643,376,940,Kraken,Blockchain Capital
+644,1030,940,Circle,Blockchain Capital
+645,251,940,Abra,Blockchain Capital
+646,1314,940,Aave,Blockchain Capital
+647,1827,1725,Ripple,Accenture
+648,1647,1725,SkyHive,Accenture
+649,622,1725,Team8,Accenture
+650,1099,1725,Youth Business International,Accenture
+651,2117,1097,Matrixport,Polychain
+652,482,1097,Solana,Polychain
+653,178,1097,Coinbase,Polychain
+654,1669,1097,DFINITY,Polychain
+655,269,1097,Ava Labs,Polychain
+656,616,1097,Amber Group,Polychain
+657,2023,1097,Terra,Polychain
+658,1084,1097,StarkWare Industries,Polychain
+659,208,1097,Parallel Finance,Polychain
+660,1825,1097,CoinDCX,Polychain
+661,1309,1097,Genies,Polychain
+662,1914,1097,CoinList,Polychain
+663,2117,782,Matrixport,Paradigm
+664,59,782,Optimism,Paradigm
+665,219,782,CoinSwitch Kuber,Paradigm
+666,616,782,Amber Group,Paradigm
+667,248,782,Mina,Paradigm
+668,645,782,Magic Eden,Paradigm
+669,633,782,FTX US,Paradigm
+670,2117,1861,Matrixport,Dragonfly Capital Partners
+671,269,1861,Ava Labs,Dragonfly Capital Partners
+672,390,1861,ParaFi Capital,Dragonfly Capital Partners
+673,2086,830,Animoca Brands,500 Startups
+674,482,830,Solana,500 Startups
+675,294,830,Mercury,500 Startups
+676,960,830,AngelList,500 Startups
+677,130,830,Twilio,500 Startups
+678,1301,830,Shippo,500 Startups
+679,2046,830,Pipefy,500 Startups
+680,250,830,MURAL,500 Startups
+681,2095,830,Grab,500 Startups
+682,496,830,Clip,500 Startups
+683,1873,830,GitLab,500 Startups
+684,1864,830,Kin Insurance,500 Startups
+685,2037,830,FIDEL API,500 Startups
+686,196,830,ShearShare,500 Startups
+687,811,830,Thrive Agric,500 Startups
+688,1834,830,Goldbelly,500 Startups
+689,1347,830,Algolia,500 Startups
+690,1338,830,BillionToOne,500 Startups
+691,713,830,Innovaccer,500 Startups
+692,810,830,Axie Infinity,500 Startups
+693,1039,830,EquityZen,500 Startups
+694,555,830,Insider,500 Startups
+695,1178,830,Intercom,500 Startups
+696,736,830,Carousell,500 Startups
+697,609,830,Funding Societies,500 Startups
+698,1851,830,The Family,500 Startups
+699,170,830,Shiprocket,500 Startups
+700,106,830,Iterable,500 Startups
+701,83,830,RiseUp,500 Startups
+702,1171,830,Revolution,500 Startups
+703,608,830,FarMart,500 Startups
+704,1092,830,CircleCI,500 Startups
+705,812,830,FinAccel,500 Startups
+706,1164,830,Blavity,500 Startups
+707,1562,830,Golden Gate,500 Startups
+708,2086,938,Animoca Brands,Mirae Asset Global Investments
+709,383,938,Figment,Mirae Asset Global Investments
+710,183,938,Shadowfax,Mirae Asset Global Investments
+711,812,938,FinAccel,Mirae Asset Global Investments
+712,122,938,Naver,Mirae Asset Global Investments
+713,2086,1597,Animoca Brands,Ubisoft
+714,688,1597,Overwolf,Ubisoft
+715,1614,936,CertiK,Goldman Sachs
+716,259,936,Wonderschool,Goldman Sachs
+717,46,936,Pindrop,Goldman Sachs
+718,402,936,Anchorage,Goldman Sachs
+719,166,936,BlocPower,Goldman Sachs
+720,418,936,Tesla,Goldman Sachs
+721,76,936,Sabre Corporation,Goldman Sachs
+722,118,936,ByteDance,Goldman Sachs
+723,1661,936,MongoDB,Goldman Sachs
+724,436,936,WeWork,Goldman Sachs
+725,1511,936,Lightricks,Goldman Sachs
+726,1080,936,Docker,Goldman Sachs
+727,375,936,Swiggy,Goldman Sachs
+728,21,936,Spotify,Goldman Sachs
+729,1650,936,Voodoo,Goldman Sachs
+730,315,936,Xerox,Goldman Sachs
+731,576,936,Saudi Arabia's Public Investment Fund,Goldman Sachs
+732,1782,936,MercadoLibre,Goldman Sachs
+733,1396,936,Alibaba Group,Goldman Sachs
+734,1924,936,Zendesk,Goldman Sachs
+735,67,936,ZestMoney,Goldman Sachs
+736,619,936,Starling Bank,Goldman Sachs
+737,1685,936,Terran Orbital,Goldman Sachs
+738,866,936,Unqork,Goldman Sachs
+739,901,936,Trulioo,Goldman Sachs
+740,1569,936,Pensando,Goldman Sachs
+741,2012,936,Rebel Foods,Goldman Sachs
+742,334,936,Nasuni,Goldman Sachs
+743,57,936,Hopper,Goldman Sachs
+744,865,936,Northvolt,Goldman Sachs
+745,733,936,Remitly,Goldman Sachs
+746,679,936,Purplle,Goldman Sachs
+747,938,936,Mirae Asset Global Investments,Goldman Sachs
+748,1262,936,Livspace,Goldman Sachs
+749,1074,936,Homebound,Goldman Sachs
+750,697,936,PayPal,Goldman Sachs
+751,2034,936,LinkedIn,Goldman Sachs
+752,607,936,Blockdaemon,Goldman Sachs
+753,1873,936,GitLab,Goldman Sachs
+754,625,936,Beqom,Goldman Sachs
+755,1032,936,Ethos,Goldman Sachs
+756,1609,936,Deserve,Goldman Sachs
+757,1580,936,Fundrise,Goldman Sachs
+758,287,936,ElasticRun,Goldman Sachs
+759,1154,546,Fastly,Sorenson Capital
+760,1200,546,Couchbase,Sorenson Capital
+761,366,546,Lilt,Sorenson Capital
+762,1506,546,Uniphore,Sorenson Capital
+763,1154,637,Fastly,Battery Ventures
+764,94,637,Postman,Battery Ventures
+765,1463,637,HackerRank,Battery Ventures
+766,2002,637,Theta Lake,Battery Ventures
+767,1452,637,Coupa Software,Battery Ventures
+768,410,637,Compt,Battery Ventures
+769,1154,1960,Fastly,Amplify Partners
+770,1180,1960,Datadog,Amplify Partners
+771,809,832,Course Hero,Maveron
+772,1218,832,Zume,Maveron
+773,1720,832,eBay,Maveron
+774,809,2018,Course Hero,TPG
+775,263,2018,Tanium,TPG
+776,686,2018,Box,TPG
+777,1415,2018,Etsy,TPG
+778,1584,2018,Kaseya,TPG
+779,21,2018,Spotify,TPG
+780,716,2018,CICC,TPG
+781,563,2018,PropertyGuru Group,TPG
+782,1756,2018,Reliance Retail,TPG
+783,840,2018,Lenovo,TPG
+784,809,1964,Course Hero,Interplay
+785,1787,1964,TemperPack,Interplay
+786,148,1964,Black Crow AI,Interplay
+787,809,1351,Course Hero,Innovation Endeavors
+788,1666,1351,Yotpo,Innovation Endeavors
+789,2022,1351,Panther Labs,Innovation Endeavors
+790,1176,1351,DataRails,Innovation Endeavors
+791,506,538,Bizongo,International Finance Corporation
+792,927,538,Andela,International Finance Corporation
+793,1561,538,GrowSari,International Finance Corporation
+794,183,538,Shadowfax,International Finance Corporation
+795,950,538,UpGrad,International Finance Corporation
+796,456,538,Sayurbox,International Finance Corporation
+797,165,538,Navi Technologies,International Finance Corporation
+798,379,538,RBL Bank,International Finance Corporation
+799,199,538,Bandhan Bank,International Finance Corporation
+800,506,305,Bizongo,B Capital Group
+801,875,305,Firstbase,B Capital Group
+802,653,305,Flutterwave,B Capital Group
+803,1607,305,6sense,B Capital Group
+804,695,305,CredAvenue,B Capital Group
+805,713,305,Innovaccer,B Capital Group
+806,1245,305,Bird,B Capital Group
+807,264,305,Bounce,B Capital Group
+808,1825,305,CoinDCX,B Capital Group
+809,1229,305,Clari,B Capital Group
+810,1559,305,fabric,B Capital Group
+811,678,305,Icertis,B Capital Group
+812,71,305,Zipmex,B Capital Group
+813,1316,1396,Farfetch,Alibaba Group
+814,928,1396,Lyft,Alibaba Group
+815,110,1396,Fanatics,Alibaba Group
+816,806,1396,Optibus,Alibaba Group
+817,1828,1396,Xiaohongshu,Alibaba Group
+818,599,1396,Snapdeal,Alibaba Group
+819,665,1396,Xpressbees,Alibaba Group
+820,1816,1396,Nreal,Alibaba Group
+821,1316,1286,Farfetch,Eurazeo
+822,1435,1286,Qonto,Eurazeo
+823,1016,1286,Dataiku,Eurazeo
+824,1696,1286,PPRO,Eurazeo
+825,1897,1286,Sorare,Eurazeo
+826,625,1286,Beqom,Eurazeo
+827,1557,1286,Vestiaire Collective,Eurazeo
+828,186,1286,Doctolib,Eurazeo
+829,602,1286,Onfido,Eurazeo
+830,1414,1286,Avi Medical,Eurazeo
+831,157,1344,Bitmain,EDBI
+832,1591,1344,WalkMe,EDBI
+833,969,1344,Druva,EDBI
+834,1809,1344,Bolttech,EDBI
+835,788,226,Baidu,Google
+836,957,226,Stripe,Google
+837,1793,226,Zynga,Google
+838,418,226,Tesla,Google
+839,131,226,Niantic,Google
+840,1272,226,Cloudflare,Google
+841,1981,226,GoTo Group,Google
+842,1114,226,Gojek,Google
+843,2019,226,Planet,Google
+844,521,226,Airtel,Google
+845,1333,226,OPEN,Google
+846,447,226,JD.com,Google
+847,1249,226,SpaceX,Google
+848,254,226,Glance,Google
+849,1688,226,AOL,Google
+850,788,66,Baidu,Threshold
+851,1402,66,Good Technology,Threshold
+852,1092,66,CircleCI,Threshold
+853,1686,66,Brightline,Threshold
+854,1182,66,Shift,Threshold
+855,997,66,Alchemist Accelerator,Threshold
+856,935,267,Foodpanda,Delivery Hero
+857,1633,267,tabby,Delivery Hero
+858,935,1690,Foodpanda,Rocket Internet
+859,965,1690,Funding Circle,Rocket Internet
+860,704,1690,HelloFresh,Rocket Internet
+861,267,1690,Delivery Hero,Rocket Internet
+862,731,1690,Goodlord,Rocket Internet
+863,353,1690,Nium,Rocket Internet
+864,935,1791,Foodpanda,Kinnevik
+865,704,1791,HelloFresh,Kinnevik
+866,935,657,Foodpanda,Phenomen
+867,1673,636,Twitter,Morgan Stanley
+868,1793,636,Zynga,Morgan Stanley
+869,433,636,Foursquare,Morgan Stanley
+870,2111,636,Affirm,Morgan Stanley
+871,418,636,Tesla,Morgan Stanley
+872,195,636,Zebra Technologies,Morgan Stanley
+873,1927,636,SoFi,Morgan Stanley
+874,742,636,Workday,Morgan Stanley
+875,737,636,Tikehau Capital,Morgan Stanley
+876,589,636,NYDIG,Morgan Stanley
+877,844,636,Hourwork,Morgan Stanley
+878,1826,636,Lineage Logistics,Morgan Stanley
+879,452,636,ID.me,Morgan Stanley
+880,76,636,Sabre Corporation,Morgan Stanley
+881,1968,636,Flipkart,Morgan Stanley
+882,118,636,ByteDance,Morgan Stanley
+883,1673,1406,Twitter,Spark Capital
+884,1416,1406,Sift,Spark Capital
+885,1718,1406,Slack,Spark Capital
+886,156,1406,Oculus,Spark Capital
+887,1783,1406,Capitolis,Spark Capital
+888,433,1406,Foursquare,Spark Capital
+889,1279,1406,FundersClub,Spark Capital
+890,2111,1406,Affirm,Spark Capital
+891,508,1406,SiFive,Spark Capital
+892,1189,1406,Wealthfront,Spark Capital
+893,32,1406,TravelPerk,Spark Capital
+894,262,1406,SmartRent,Spark Capital
+895,859,1406,Scale AI,Spark Capital
+896,1967,1406,Sonder,Spark Capital
+897,1288,1406,Ramp,Spark Capital
+898,1765,1406,Liquidity,Spark Capital
+899,131,1406,Niantic,Spark Capital
+900,1798,1406,Handshake,Spark Capital
+901,827,1406,Justworks,Spark Capital
+902,1,1406,Hivemapper,Spark Capital
+903,1817,1406,Grammarly,Spark Capital
+904,927,1406,Andela,Spark Capital
+905,1512,1406,eToro,Spark Capital
+906,1490,1406,Clipboard Health,Spark Capital
+907,2006,1406,Clarify Health Solutions,Spark Capital
+908,753,1406,Cruise,Spark Capital
+909,1673,1987,Twitter,Union Square Ventures
+910,1416,1987,Sift,Union Square Ventures
+911,1793,1987,Zynga,Union Square Ventures
+912,1515,1987,Helium,Union Square Ventures
+913,1097,1987,Polychain,Union Square Ventures
+914,1009,1987,Protocol Labs,Union Square Ventures
+915,1052,1987,BlockTower Capital,Union Square Ventures
+916,1608,1987,Arweave,Union Square Ventures
+917,827,1987,Justworks,Union Square Ventures
+918,130,1987,Twilio,Union Square Ventures
+919,1301,1987,Shippo,Union Square Ventures
+920,1527,1987,Upgrade,Union Square Ventures
+921,169,1987,SmartHop,Union Square Ventures
+922,1123,1987,Slope,Union Square Ventures
+923,1661,1987,MongoDB,Union Square Ventures
+924,107,1987,Algorand,Union Square Ventures
+925,1272,1987,Cloudflare,Union Square Ventures
+926,1415,1987,Etsy,Union Square Ventures
+927,965,1987,Funding Circle,Union Square Ventures
+928,729,1987,Fiveable,Union Square Ventures
+929,1617,1987,CircleUp,Union Square Ventures
+930,1673,1165,Twitter,Insight Partners
+931,1416,1165,Sift,Insight Partners
+932,688,1165,Overwolf,Insight Partners
+933,497,1165,Reforge,Insight Partners
+934,110,1165,Fanatics,Insight Partners
+935,2006,1165,Clarify Health Solutions,Insight Partners
+936,436,1165,WeWork,Insight Partners
+937,2024,1165,Thunes,Insight Partners
+938,1784,1165,Shopify,Insight Partners
+939,133,1165,Tractable,Insight Partners
+940,207,1165,Viz,Insight Partners
+941,2068,1165,Socotra,Insight Partners
+942,422,1165,Staffbase,Insight Partners
+943,2031,1165,Shipium,Insight Partners
+944,109,1165,Wiz,Insight Partners
+945,1888,1165,UserTesting,Insight Partners
+946,198,1165,slice,Insight Partners
+947,2043,1165,Smartsheet,Insight Partners
+948,1129,1165,SmartBear,Insight Partners
+949,278,1165,Snappt,Insight Partners
+950,1591,1165,WalkMe,Insight Partners
+951,1681,1165,Vela,Insight Partners
+952,1584,1165,Kaseya,Insight Partners
+953,2046,1165,Pipefy,Insight Partners
+954,1435,1165,Qonto,Insight Partners
+955,250,1165,MURAL,Insight Partners
+956,94,1165,Postman,Insight Partners
+957,1264,1165,Kpler,Insight Partners
+958,1838,1165,Island,Insight Partners
+959,848,1165,Moonfare,Insight Partners
+960,349,1165,Rattle,Insight Partners
+961,704,1165,HelloFresh,Insight Partners
+962,1779,1165,Nearpod,Insight Partners
+963,1511,1165,Lightricks,Insight Partners
+964,1342,1165,LaunchDarkly,Insight Partners
+965,429,1165,Leapsome,Insight Partners
+966,904,1165,SafetyCulture,Insight Partners
+967,1611,1165,OpenWeb,Insight Partners
+968,531,1165,monday.com,Insight Partners
+969,1050,1165,Hootsuite,Insight Partners
+970,806,1165,Optibus,Insight Partners
+971,303,1165,Indiegogo,Insight Partners
+972,1202,1165,LawVu,Insight Partners
+973,77,1165,Choco,Insight Partners
+974,779,1165,Builder.ai,Insight Partners
+975,1080,1165,Docker,Insight Partners
+976,653,1165,Flutterwave,Insight Partners
+977,1723,1165,Coda Payments,Insight Partners
+978,1401,1165,Darktrace,Insight Partners
+979,919,1165,Apna,Insight Partners
+980,1607,1165,6sense,Insight Partners
+981,1886,1165,DocuSign,Insight Partners
+982,1016,1165,Dataiku,Insight Partners
+983,838,1165,Esper,Insight Partners
+984,1427,1165,Alteryx,Insight Partners
+985,1792,1165,Bubble,Insight Partners
+986,886,1165,BlueOcean,Insight Partners
+987,113,1165,Beewise,Insight Partners
+988,869,1165,Automattic,Insight Partners
+989,2017,1165,FloQast,Insight Partners
+990,82,1165,Duck Creek Technologies,Insight Partners
+991,730,1165,Carto,Insight Partners
+992,177,1165,CRED,Insight Partners
+993,267,1165,Delivery Hero,Insight Partners
+994,878,1165,Checkout.com,Insight Partners
+995,695,1165,CredAvenue,Insight Partners
+996,824,1165,Aviatrix,Insight Partners
+997,482,1052,Solana,BlockTower Capital
+998,11,1052,Yield Guild Games,BlockTower Capital
+999,1649,1052,Dapper Labs,BlockTower Capital
+1000,1045,1052,Aptos,BlockTower Capital
+1001,1671,1052,Enjin,BlockTower Capital
+1002,482,1550,Solana,Slow Ventures
+1003,236,1550,Robinhood,Slow Ventures
+1004,960,1550,AngelList,Slow Ventures
+1005,1189,1550,Wealthfront,Slow Ventures
+1006,1301,1550,Shippo,Slow Ventures
+1007,530,1550,Tile,Slow Ventures
+1008,650,1550,OpenPhone,Slow Ventures
+1009,1410,1550,Birchbox,Slow Ventures
+1010,627,1550,Lightning Labs,Slow Ventures
+1011,208,1550,Parallel Finance,Slow Ventures
+1012,673,1550,Citizen,Slow Ventures
+1013,1020,1550,Pandora,Slow Ventures
+1014,1638,1550,Embark,Slow Ventures
+1015,406,126,Substack,Y Combinator
+1016,957,126,Stripe,Y Combinator
+1017,1053,126,Spring,Y Combinator
+1018,138,126,Whatnot,Y Combinator
+1019,691,126,OpenSea,Y Combinator
+1020,1029,126,Rutter,Y Combinator
+1021,161,126,Mux,Y Combinator
+1022,1254,126,People.ai,Y Combinator
+1023,1642,126,PagerDuty,Y Combinator
+1024,1727,126,Rigetti Computing,Y Combinator
+1025,2004,126,Fivetran,Y Combinator
+1026,2007,126,Astranis,Y Combinator
+1027,1279,126,FundersClub,Y Combinator
+1028,859,126,Scale AI,Y Combinator
+1029,1490,126,Clipboard Health,Y Combinator
+1030,753,126,Cruise,Y Combinator
+1031,1080,126,Docker,Y Combinator
+1032,2062,126,ShipBob,Y Combinator
+1033,937,126,Eight Sleep,Y Combinator
+1034,1873,126,GitLab,Y Combinator
+1035,717,126,Xendit,Y Combinator
+1036,934,126,Twitch,Y Combinator
+1037,632,126,Wefunder,Y Combinator
+1038,2067,126,Treinta,Y Combinator
+1039,1142,126,Squire,Y Combinator
+1040,720,126,WorkRamp,Y Combinator
+1041,196,126,ShearShare,Y Combinator
+1042,1430,126,Veriff,Y Combinator
+1043,1595,126,Truora,Y Combinator
+1044,2016,126,Skill Lync,Y Combinator
+1045,1000,126,Stilt,Y Combinator
+1046,1387,126,Shipper,Y Combinator
+1047,785,126,ZeroStorefront,Y Combinator
+1048,811,126,Thrive Agric,Y Combinator
+1049,1424,126,Volopay,Y Combinator
+1050,1965,126,Trestle,Y Combinator
+1051,1280,126,GrubMarket,Y Combinator
+1052,719,126,OpenAI,Y Combinator
+1053,1463,126,HackerRank,Y Combinator
+1054,650,126,OpenPhone,Y Combinator
+1055,631,126,Lattice,Y Combinator
+1056,101,126,Nova Credit,Y Combinator
+1057,431,126,Gotrade,Y Combinator
+1058,65,126,Jerry,Y Combinator
+1059,240,126,Heap,Y Combinator
+1060,2085,126,Raptor Maps,Y Combinator
+1061,87,126,Podium,Y Combinator
+1062,2071,126,Mesh,Y Combinator
+1063,694,126,Observe.AI,Y Combinator
+1064,835,126,Razorpay,Y Combinator
+1065,1211,126,Paragon,Y Combinator
+1066,1566,126,Convoy,Y Combinator
+1067,1366,126,Checkr,Y Combinator
+1068,1583,126,Brex,Y Combinator
+1069,491,126,Airbyte,Y Combinator
+1070,1891,126,Ginkgo Bioworks,Y Combinator
+1071,499,126,Biobot Analytics,Y Combinator
+1072,270,126,Credpal,Y Combinator
+1073,1834,126,Goldbelly,Y Combinator
+1074,1898,126,Go1,Y Combinator
+1075,1347,126,Algolia,Y Combinator
+1076,167,126,Apollo.io,Y Combinator
+1077,1338,126,BillionToOne,Y Combinator
+1078,1125,126,Drip Capital,Y Combinator
+1079,243,126,dyte,Y Combinator
+1080,945,126,DoorDash,Y Combinator
+1081,550,126,54gene,Y Combinator
+1082,1373,126,Gem,Y Combinator
+1083,1651,126,CaptivateIQ,Y Combinator
+1084,1478,126,Clever,Y Combinator
+1085,553,126,D-ID,Y Combinator
+1086,1994,126,Ajaib,Y Combinator
+1087,406,1743,Substack,Garage Capital
+1088,1522,1743,Trunk,Garage Capital
+1089,2007,1743,Astranis,Garage Capital
+1090,650,1743,OpenPhone,Garage Capital
+1091,406,1279,Substack,FundersClub
+1092,259,1279,Wonderschool,FundersClub
+1093,1053,1279,Spring,FundersClub
+1094,1718,1279,Slack,FundersClub
+1095,1009,1279,Protocol Labs,FundersClub
+1096,1763,1279,Flexport,FundersClub
+1097,1279,1279,FundersClub,FundersClub
+1098,1301,1279,Shippo,FundersClub
+1099,2046,1279,Pipefy,FundersClub
+1100,2062,1279,ShipBob,FundersClub
+1101,1857,1279,Arcus,FundersClub
+1102,65,1279,Jerry,FundersClub
+1103,1211,1279,Paragon,FundersClub
+1104,1834,1279,Goldbelly,FundersClub
+1105,1898,1279,Go1,FundersClub
+1106,945,1279,DoorDash,FundersClub
+1107,159,1279,Ripio,FundersClub
+1108,1454,1279,Octane,FundersClub
+1109,841,1279,Grin,FundersClub
+1110,406,2089,Substack,VentureSouq
+1111,1424,2089,Volopay,VentureSouq
+1112,361,2089,what3words,VentureSouq
+1113,1664,2089,Sary,VentureSouq
+1114,1633,2089,tabby,VentureSouq
+1115,259,1054,Wonderschool,Citi
+1116,1783,1054,Capitolis,Citi
+1117,923,1054,Airbnb,Citi
+1118,418,1054,Tesla,Citi
+1119,1288,1054,Ramp,Citi
+1120,331,1054,Uber,Citi
+1121,1957,1054,Didi,Citi
+1122,315,1054,Xerox,Citi
+1123,57,1054,Hopper,Citi
+1124,1453,1054,Upwork,Citi
+1125,2042,1054,Reliance Jio,Citi
+1126,1007,1054,Advantage Capital,Citi
+1127,259,766,Wonderschool,Gaingels
+1128,754,766,Jeeves,Gaingels
+1129,1254,766,People.ai,Gaingels
+1130,1435,766,Qonto,Gaingels
+1131,838,766,Esper,Gaingels
+1132,1339,766,Blockstream,Gaingels
+1133,444,766,Bambee,Gaingels
+1134,937,766,Eight Sleep,Gaingels
+1135,1074,766,Homebound,Gaingels
+1136,232,766,Capchase,Gaingels
+1137,780,766,Thirty Madison,Gaingels
+1138,1280,766,GrubMarket,Gaingels
+1139,958,766,Diligent Robotics,Gaingels
+1140,925,766,BlockFi,Gaingels
+1141,142,766,Binance.US,Gaingels
+1142,1309,766,Genies,Gaingels
+1143,2057,766,Republic,Gaingels
+1144,1391,766,Unstoppable Domains,Gaingels
+1145,1689,766,Remote,Gaingels
+1146,1299,766,Pacaso,Gaingels
+1147,2055,766,Fuzzy,Gaingels
+1148,170,766,Shiprocket,Gaingels
+1149,771,766,Cleo,Gaingels
+1150,1686,766,Brightline,Gaingels
+1151,1157,766,Yieldstreet,Gaingels
+1152,1735,766,Natural Fiber Welding,Gaingels
+1153,1454,766,Octane,Gaingels
+1154,1913,766,Cart.com,Gaingels
+1155,1870,1961,Worldcoin,Hashed
+1156,1045,1961,Aptos,Hashed
+1157,1346,1961,Everyrealm,Hashed
+1158,1105,1961,NEAR Protocol,Hashed
+1159,2023,1961,Terra,Hashed
+1160,201,1961,Stockal,Hashed
+1161,425,1961,Yield Guild Games Southeast Asia,Hashed
+1162,501,1961,Unbound Finance,Hashed
+1163,15,1961,GuildFi,Hashed
+1164,810,1961,Axie Infinity,Hashed
+1165,2097,1961,Community Gaming,Hashed
+1166,1671,1961,Enjin,Hashed
+1167,693,1961,Dfns,Hashed
+1168,1870,1691,Worldcoin,Coinbase Ventures
+1169,219,1691,CoinSwitch Kuber,Coinbase Ventures
+1170,1608,1691,Arweave,Coinbase Ventures
+1171,67,1691,ZestMoney,Coinbase Ventures
+1172,1105,1691,NEAR Protocol,Coinbase Ventures
+1173,616,1691,Amber Group,Coinbase Ventures
+1174,2023,1691,Terra,Coinbase Ventures
+1175,15,1691,GuildFi,Coinbase Ventures
+1176,1084,1691,StarkWare Industries,Coinbase Ventures
+1177,208,1691,Parallel Finance,Coinbase Ventures
+1178,1825,1691,CoinDCX,Coinbase Ventures
+1179,592,1691,Securitize,Coinbase Ventures
+1180,1391,1691,Unstoppable Domains,Coinbase Ventures
+1181,248,1691,Mina,Coinbase Ventures
+1182,738,1691,Rarible,Coinbase Ventures
+1183,93,1691,bitsCrunch,Coinbase Ventures
+1184,1870,1997,Worldcoin,Fifty Years
+1185,365,1997,Deepcell,Fifty Years
+1186,1338,1997,BillionToOne,Fifty Years
+1187,550,1997,54gene,Fifty Years
+1188,1604,33,SpotOn,Mubadala
+1189,1962,33,Silver Lake,Mubadala
+1190,1633,33,tabby,Mubadala
+1191,1756,33,Reliance Retail,Mubadala
+1192,1210,33,Evotec,Mubadala
+1193,1604,2060,SpotOn,Franklin Templeton Investments
+1194,128,2060,Simpl,Franklin Templeton Investments
+1195,218,2060,Rent the Runway,Franklin Templeton Investments
+1196,1185,2060,CAIS,Franklin Templeton Investments
+1197,1815,2060,Sweetgreen,Franklin Templeton Investments
+1198,1604,1563,SpotOn,Wellington Management
+1199,1696,1563,PPRO,Wellington Management
+1200,1797,1563,Span.IO,Wellington Management
+1201,2036,1563,Digit Insurance,Wellington Management
+1202,435,1563,Perella Weinberg Partners,Wellington Management
+1203,1053,815,Spring,Initialized Capital
+1204,1522,815,Trunk,Initialized Capital
+1205,1718,815,Slack,Initialized Capital
+1206,269,815,Ava Labs,Initialized Capital
+1207,1490,815,Clipboard Health,Initialized Capital
+1208,753,815,Cruise,Initialized Capital
+1209,720,815,WorkRamp,Initialized Capital
+1210,240,815,Heap,Initialized Capital
+1211,1347,815,Algolia,Initialized Capital
+1212,1125,815,Drip Capital,Initialized Capital
+1213,1478,815,Clever,Initialized Capital
+1214,711,815,Wave,Initialized Capital
+1215,1648,815,IUNU,Initialized Capital
+1216,1053,1239,Spring,Acequia Capital (AceCap)
+1217,133,1239,Tractable,Acequia Capital (AceCap)
+1218,2075,1239,Rec Room,Acequia Capital (AceCap)
+1219,602,1239,Onfido,Acequia Capital (AceCap)
+1220,1495,1250,Season Health,Company Ventures
+1221,1495,858,Season Health,LRVHealth
+1222,209,858,IntelyCare,LRVHealth
+1223,263,1450,Tanium,Fidelity Management and Research Company
+1224,619,1450,Starling Bank,Fidelity Management and Research Company
+1225,1360,1450,Rivian,Fidelity Management and Research Company
+1226,1090,1450,Squarespace,Fidelity Management and Research Company
+1227,837,1450,GupShup,Fidelity Management and Research Company
+1228,218,1450,Rent the Runway,Fidelity Management and Research Company
+1229,707,1450,LifeMine Therapeutics,Fidelity Management and Research Company
+1230,1536,1450,The Honest Company,Fidelity Management and Research Company
+1231,1182,1450,Shift,Fidelity Management and Research Company
+1232,1055,1450,Somatus,Fidelity Management and Research Company
+1233,615,1450,Nykaa,Fidelity Management and Research Company
+1234,435,1450,Perella Weinberg Partners,Fidelity Management and Research Company
+1235,263,1266,Tanium,T. Rowe Price
+1236,1642,1266,PagerDuty,T. Rowe Price
+1237,1244,1266,Freenome,T. Rowe Price
+1238,1141,1266,Cross River,T. Rowe Price
+1239,742,1266,Workday,T. Rowe Price
+1240,1661,1266,MongoDB,T. Rowe Price
+1241,792,1266,Epic Games,T. Rowe Price
+1242,1360,1266,Rivian,T. Rowe Price
+1243,1366,1266,Checkr,T. Rowe Price
+1244,1891,1266,Ginkgo Bioworks,T. Rowe Price
+1245,204,1266,ServiceTitan,T. Rowe Price
+1246,2093,1266,Socure,T. Rowe Price
+1247,1090,1266,Squarespace,T. Rowe Price
+1248,20,1266,Glassdoor,T. Rowe Price
+1249,1148,1266,Atlassian,T. Rowe Price
+1250,1593,1266,Cloudera,T. Rowe Price
+1251,1502,1266,SecurityScorecard,T. Rowe Price
+1252,1747,1266,Houzz,T. Rowe Price
+1253,1453,1266,Upwork,T. Rowe Price
+1254,1815,1266,Sweetgreen,T. Rowe Price
+1255,1452,1266,Coupa Software,T. Rowe Price
+1256,1357,360,Workrise,BoxGroup
+1257,1302,360,Hex Technologies,BoxGroup
+1258,1374,360,Flock Homes,BoxGroup
+1259,452,360,ID.me,BoxGroup
+1260,1301,360,Shippo,BoxGroup
+1261,1792,360,Bubble,BoxGroup
+1262,232,360,Capchase,BoxGroup
+1263,2078,360,Arcadia,BoxGroup
+1264,397,360,Chief,BoxGroup
+1265,1936,360,Novo,BoxGroup
+1266,1564,360,Maven Clinic,BoxGroup
+1267,1899,360,ClassPass,BoxGroup
+1268,877,360,Dataminr,BoxGroup
+1269,138,1929,Whatnot,Liquid 2 Ventures
+1270,1029,1929,Rutter,Liquid 2 Ventures
+1271,161,1929,Mux,Liquid 2 Ventures
+1272,1873,1929,GitLab,Liquid 2 Ventures
+1273,720,1929,WorkRamp,Liquid 2 Ventures
+1274,65,1929,Jerry,Liquid 2 Ventures
+1275,2071,1929,Mesh,Liquid 2 Ventures
+1276,694,1929,Observe.AI,Liquid 2 Ventures
+1277,499,1929,Biobot Analytics,Liquid 2 Ventures
+1278,1125,1929,Drip Capital,Liquid 2 Ventures
+1279,1373,1929,Gem,Liquid 2 Ventures
+1280,1689,1929,Remote,Liquid 2 Ventures
+1281,1648,1929,IUNU,Liquid 2 Ventures
+1282,138,1040,Whatnot,CapitalG
+1283,775,1040,Everlaw,CapitalG
+1284,20,1040,Glassdoor,CapitalG
+1285,1187,1040,CrowdStrike,CapitalG
+1286,415,1040,GirnarSoft,CapitalG
+1287,1749,1040,FanDuel,CapitalG
+1288,709,1040,Zscaler,CapitalG
+1289,1416,20,Sift,Glassdoor
+1290,1522,457,Trunk,Haystack
+1291,1029,457,Rutter,Haystack
+1292,838,457,Esper,Haystack
+1293,1120,457,Lumafield,Haystack
+1294,11,2086,Yield Guild Games,Animoca Brands
+1295,691,2086,OpenSea,Animoca Brands
+1296,1649,2086,Dapper Labs,Animoca Brands
+1297,1346,2086,Everyrealm,Animoca Brands
+1298,1417,2086,ConsenSys,Animoca Brands
+1299,1324,2086,Polygon,Animoca Brands
+1300,1972,2086,GOQii,Animoca Brands
+1301,425,2086,Yield Guild Games Southeast Asia,Animoca Brands
+1302,15,2086,GuildFi,Animoca Brands
+1303,810,2086,Axie Infinity,Animoca Brands
+1304,2097,2086,Community Gaming,Animoca Brands
+1305,93,2086,bitsCrunch,Animoca Brands
+1306,1035,2086,Ledger,Animoca Brands
+1307,696,2086,Decentraland,Animoca Brands
+1308,1524,2086,Nothing,Animoca Brands
+1309,1568,2086,Yuga Labs,Animoca Brands
+1310,11,752,Yield Guild Games,BITKRAFT Ventures
+1311,2097,752,Community Gaming,BITKRAFT Ventures
+1312,1718,469,Slack,GV
+1313,1515,469,Helium,GV
+1314,236,469,Robinhood,GV
+1315,46,469,Pindrop,GV
+1316,960,469,AngelList,GV
+1317,1244,469,Freenome,GV
+1318,1,469,Hivemapper,GV
+1319,927,469,Andela,GV
+1320,1617,469,CircleUp,GV
+1321,207,469,Viz,GV
+1322,349,469,Rattle,GV
+1323,1886,469,DocuSign,GV
+1324,1074,469,Homebound,GV
+1325,1873,469,GitLab,GV
+1326,1032,469,Ethos,GV
+1327,1439,469,Snorkel AI,GV
+1328,362,469,SambaNova Systems,GV
+1329,1117,469,Puppet,GV
+1330,87,469,Podium,GV
+1331,1366,469,Checkr,GV
+1332,1478,469,Clever,GV
+1333,38,469,Cohesity,GV
+1334,1593,469,Cloudera,GV
+1335,1098,469,Blockchain.com,GV
+1336,1502,469,SecurityScorecard,GV
+1337,537,469,HubSpot,GV
+1338,1358,469,Carbon,GV
+1339,1178,469,Intercom,GV
+1340,1899,469,ClassPass,GV
+1341,1164,469,Blavity,GV
+1342,1146,469,Turo,GV
+1343,1745,469,SpinLaunch,GV
+1344,1524,469,Nothing,GV
+1345,310,469,Obsidian Security,GV
+1346,707,469,LifeMine Therapeutics,GV
+1347,249,469,Digits,GV
+1348,1686,469,Brightline,GV
+1349,1766,469,DNAnexus,GV
+1350,928,442,Lyft,M13
+1351,1245,442,Bird,M13
+1352,627,442,Lightning Labs,M13
+1353,1149,442,Northstar,M13
+1354,1899,442,ClassPass,M13
+1355,573,442,Ring,M13
+1356,1536,442,The Honest Company,M13
+1357,1978,442,Boba Network,M13
+1358,928,1121,Lyft,Rakuten
+1359,736,1121,Carousell,Rakuten
+1360,839,1121,Careem,Rakuten
+1361,378,1121,Azimo,Rakuten
+1362,1504,1610,Okta,Khosla Ventures
+1363,303,1610,Indiegogo,Khosla Ventures
+1364,530,1610,Tile,Khosla Ventures
+1365,1380,1610,Rocket Lab,Khosla Ventures
+1366,719,1610,OpenAI,Khosla Ventures
+1367,1463,1610,HackerRank,Khosla Ventures
+1368,1008,1610,Vectra,Khosla Ventures
+1369,1354,1610,Forward,Khosla Ventures
+1370,594,1610,Veev,Khosla Ventures
+1371,778,1610,Mojo Vision,Khosla Ventures
+1372,1590,1610,Eat Just,Khosla Ventures
+1373,675,1610,ThoughtSpot,Khosla Ventures
+1374,997,1610,Alchemist Accelerator,Khosla Ventures
+1375,81,1610,Canary,Khosla Ventures
+1376,1017,1610,Tarana Wireless,Khosla Ventures
+1377,757,1610,SWORD Health,Khosla Ventures
+1378,1449,1610,LanzaTech,Khosla Ventures
+1379,1504,2040,Okta,Greylock
+1380,1166,2040,Roblox,Greylock
+1381,479,2040,Health IQ,Greylock
+1382,559,2040,Groupon,Greylock
+1383,742,2040,Workday,Greylock
+1384,1189,2040,Wealthfront,Greylock
+1385,1967,2040,Sonder,Greylock
+1386,1080,2040,Docker,Greylock
+1387,2034,2040,LinkedIn,Greylock
+1388,1439,2040,Snorkel AI,Greylock
+1389,258,2040,Zuora,Greylock
+1390,1566,2040,Convoy,Greylock
+1391,1373,2040,Gem,Greylock
+1392,2098,2040,Meta,Greylock
+1393,1593,2040,Cloudera,Greylock
+1394,896,2040,ServiceNow,Greylock
+1395,645,2040,Magic Eden,Greylock
+1396,525,2040,AiFi,Greylock
+1397,1020,2040,Pandora,Greylock
+1398,771,2040,Cleo,Greylock
+1399,310,2040,Obsidian Security,Greylock
+1400,1504,1438,Okta,Floodgate
+1401,551,1438,Pantheon,Floodgate
+1402,291,1438,Studio,Floodgate
+1403,1270,601,LayerZero Labs,Gemini
+1404,1270,1324,LayerZero Labs,Polygon
+1405,1270,1649,LayerZero Labs,Dapper Labs
+1406,1346,1649,Everyrealm,Dapper Labs
+1407,15,1649,GuildFi,Dapper Labs
+1408,2097,1649,Community Gaming,Dapper Labs
+1409,1309,1649,Genies,Dapper Labs
+1410,1515,1356,Helium,Liberty Global
+1411,1275,769,Improbable,SoftBank Vision Fund
+1412,118,769,ByteDance,SoftBank Vision Fund
+1413,927,769,Andela,SoftBank Vision Fund
+1414,2006,769,Clarify Health Solutions,SoftBank Vision Fund
+1415,753,769,Cruise,SoftBank Vision Fund
+1416,1607,769,6sense,SoftBank Vision Fund
+1417,256,769,GoStudent,SoftBank Vision Fund
+1418,2062,769,ShipBob,SoftBank Vision Fund
+1419,1598,769,OYO,SoftBank Vision Fund
+1420,391,769,OfBusiness,SoftBank Vision Fund
+1421,1153,769,blinkit,SoftBank Vision Fund
+1422,1096,769,Fair,SoftBank Vision Fund
+1423,287,769,ElasticRun,SoftBank Vision Fund
+1424,362,769,SambaNova Systems,SoftBank Vision Fund
+1425,1269,769,Roofstock,SoftBank Vision Fund
+1426,1605,769,Forto,SoftBank Vision Fund
+1427,694,769,Observe.AI,SoftBank Vision Fund
+1428,1898,769,Go1,SoftBank Vision Fund
+1429,945,769,DoorDash,SoftBank Vision Fund
+1430,1557,769,Vestiaire Collective,SoftBank Vision Fund
+1431,485,769,Veho,SoftBank Vision Fund
+1432,90,769,Redis,SoftBank Vision Fund
+1433,335,769,Revolut,SoftBank Vision Fund
+1434,1403,769,Delhivery,SoftBank Vision Fund
+1435,38,769,Cohesity,SoftBank Vision Fund
+1436,1203,769,Digital Currency Group,SoftBank Vision Fund
+1437,551,769,Pantheon,SoftBank Vision Fund
+1438,2000,769,NVIDIA,SoftBank Vision Fund
+1439,1845,769,Sendoso,SoftBank Vision Fund
+1440,1354,769,Forward,SoftBank Vision Fund
+1441,1159,769,Esusu Financial,SoftBank Vision Fund
+1442,1299,769,Pacaso,SoftBank Vision Fund
+1443,453,769,Whatfix,SoftBank Vision Fund
+1444,609,769,Funding Societies,SoftBank Vision Fund
+1445,1559,769,fabric,SoftBank Vision Fund
+1446,1218,769,Zume,SoftBank Vision Fund
+1447,325,769,Zeta,SoftBank Vision Fund
+1448,651,769,Yanolja,SoftBank Vision Fund
+1449,47,769,Pax8,SoftBank Vision Fund
+1450,2113,769,Gympass,SoftBank Vision Fund
+1451,678,769,Icertis,SoftBank Vision Fund
+1452,369,769,Neuron23,SoftBank Vision Fund
+1453,374,769,OurCrowd,SoftBank Vision Fund
+1454,1508,769,Clearco,SoftBank Vision Fund
+1455,908,769,Extend,SoftBank Vision Fund
+1456,1638,769,Embark,SoftBank Vision Fund
+1457,1026,769,Apollo Agriculture,SoftBank Vision Fund
+1458,1275,127,Improbable,NetEase
+1459,754,925,Jeeves,BlockFi
+1460,236,613,Robinhood,LAUNCH
+1461,251,613,Abra,LAUNCH
+1462,1120,613,Lumafield,LAUNCH
+1463,841,613,Grin,LAUNCH
+1464,1166,139,Roblox,Warner Music Group
+1465,688,139,Overwolf,Warner Music Group
+1466,930,1641,Hadrian,Lux Capital
+1467,1727,1641,Rigetti Computing,Lux Capital
+1468,402,1641,Anchorage,Lux Capital
+1469,2007,1641,Astranis,Lux Capital
+1470,653,1641,Flutterwave,Lux Capital
+1471,2019,1641,Planet,Lux Capital
+1472,1564,1641,Maven Clinic,Lux Capital
+1473,673,1641,Citizen,Lux Capital
+1474,1875,1641,Hugging Face,Lux Capital
+1475,596,1641,Umba,Lux Capital
+1476,1120,1641,Lumafield,Lux Capital
+1477,930,1466,Hadrian,Caffeinated Capital
+1478,1490,1466,Clipboard Health,Caffeinated Capital
+1479,2068,1466,Socotra,Caffeinated Capital
+1480,232,1466,Capchase,Caffeinated Capital
+1481,34,1466,AgentSync,Caffeinated Capital
+1482,1543,994,Greenlight,JP Morgan Chase
+1483,436,994,WeWork,JP Morgan Chase
+1484,1597,994,Ubisoft,JP Morgan Chase
+1485,315,994,Xerox,JP Morgan Chase
+1486,870,994,The Boeing Company,JP Morgan Chase
+1487,576,994,Saudi Arabia's Public Investment Fund,JP Morgan Chase
+1488,1782,994,MercadoLibre,JP Morgan Chase
+1489,1696,994,PPRO,JP Morgan Chase
+1490,1739,994,Bitwise Industries,JP Morgan Chase
+1491,1417,994,ConsenSys,JP Morgan Chase
+1492,1543,1881,Greenlight,Goodwater Capital
+1493,564,1881,Pocket FM,Goodwater Capital
+1494,2067,1881,Treinta,Goodwater Capital
+1495,65,1881,Jerry,Goodwater Capital
+1496,673,1881,Citizen,Goodwater Capital
+1497,1543,301,Greenlight,Wells Fargo
+1498,1763,301,Flexport,Wells Fargo
+1499,509,301,Notarize,Wells Fargo
+1500,2002,301,Theta Lake,Wells Fargo
+1501,1285,301,Cushman & Wakefield,Wells Fargo
+1502,1543,988,Greenlight,Evolution VC Partners
+1503,1735,988,Natural Fiber Welding,Evolution VC Partners
+1504,312,988,DailyPay,Evolution VC Partners
+1505,1385,988,Future Family,Evolution VC Partners
+1506,479,1409,Health IQ,Ribbit Capital
+1507,1141,1409,Cross River,Ribbit Capital
+1508,589,1409,NYDIG,Ribbit Capital
+1509,1527,1409,Upgrade,Ribbit Capital
+1510,878,1409,Checkout.com,Ribbit Capital
+1511,731,1409,Goodlord,Ribbit Capital
+1512,1994,1409,Ajaib,Ribbit Capital
+1513,1046,1409,Money View,Ribbit Capital
+1514,1407,1409,Juniper Square,Ribbit Capital
+1515,1925,1409,Tomo,Ribbit Capital
+1516,479,587,Health IQ,Menlo Ventures
+1517,775,587,Everlaw,Menlo Ventures
+1518,694,587,Observe.AI,Menlo Ventures
+1519,1821,587,BitPay,Menlo Ventures
+1520,310,587,Obsidian Security,Menlo Ventures
+1521,598,587,Affinity,Menlo Ventures
+1522,1388,587,Sure,Menlo Ventures
+1523,2027,587,Roku,Menlo Ventures
+1524,708,587,EdCast,Menlo Ventures
+1525,688,535,Overwolf,Griffin Gaming Partners
+1526,741,535,WinZO,Griffin Gaming Partners
+1527,156,411,Oculus,Formation 8
+1528,46,1733,Pindrop,Redpoint
+1529,1302,1733,Hex Technologies,Redpoint
+1530,827,1733,Justworks,Redpoint
+1531,130,1733,Twilio,Redpoint
+1532,1342,1733,LaunchDarkly,Redpoint
+1533,2017,1733,FloQast,Redpoint
+1534,1924,1733,Zendesk,Redpoint
+1535,258,1733,Zuora,Redpoint
+1536,240,1733,Heap,Redpoint
+1537,413,1733,Heavybit,Redpoint
+1538,972,1733,Knock,Redpoint
+1539,2100,1733,Snowflake,Redpoint
+1540,366,1733,Lilt,Redpoint
+1541,225,1733,Guild Education,Redpoint
+1542,986,1733,Sonos,Redpoint
+1543,1407,1733,Juniper Square,Redpoint
+1544,1513,1733,Orca Security,Redpoint
+1545,829,1733,DraftKings,Redpoint
+1546,1559,1733,fabric,Redpoint
+1547,46,1369,Pindrop,Vitruvian Partners
+1548,1591,1369,WalkMe,Vitruvian Partners
+1549,848,1369,Moonfare,Vitruvian Partners
+1550,1401,1369,Darktrace,Vitruvian Partners
+1551,1557,1369,Vestiaire Collective,Vitruvian Partners
+1552,59,181,Optimism,IDEO CoLab Ventures
+1553,1072,1882,Jumio,Citi Ventures
+1554,1729,1882,ChargeAfter,Citi Ventures
+1555,1072,239,Jumio,Centana Growth Partners
+1556,1072,55,Jumio,Great Hill Partners
+1557,691,2057,OpenSea,Republic
+1558,1825,2057,CoinDCX,Republic
+1559,1329,2057,Pipe,Republic
+1560,1254,1863,People.ai,Index Ventures
+1561,1415,1863,Etsy,Index Ventures
+1562,109,1863,Wiz,Index Ventures
+1563,904,1863,SafetyCulture,Index Ventures
+1564,1924,1863,Zendesk,Index Ventures
+1565,258,1863,Zuora,Index Ventures
+1566,101,1863,Nova Credit,Index Ventures
+1567,204,1863,ServiceTitan,Index Ventures
+1568,1090,1863,Squarespace,Index Ventures
+1569,758,1863,Productboard,Index Ventures
+1570,1180,1863,Datadog,Index Ventures
+1571,2107,1863,Base,Index Ventures
+1572,2075,1863,Rec Room,Index Ventures
+1573,1178,1863,Intercom,Index Ventures
+1574,2015,1863,Elastic,Index Ventures
+1575,1851,1863,The Family,Index Ventures
+1576,106,1863,Iterable,Index Ventures
+1577,986,1863,Sonos,Index Ventures
+1578,214,1863,Adyen,Index Ventures
+1579,1465,1863,Typeform,Index Ventures
+1580,1592,1863,SESO,Index Ventures
+1581,943,1863,Montonio,Index Ventures
+1582,1523,1863,Fast,Index Ventures
+1583,849,1863,Credit Benchmark,Index Ventures
+1584,1254,1152,People.ai,Shasta Ventures
+1585,1202,1152,LawVu,Shasta Ventures
+1586,631,1152,Lattice,Shasta Ventures
+1587,1144,1152,Ascend.io,Shasta Ventures
+1588,1248,1152,Anaplan,Shasta Ventures
+1589,1146,1152,Turo,Shasta Ventures
+1590,1192,1152,Tonal,Shasta Ventures
+1591,78,1152,Data.world,Shasta Ventures
+1592,1642,676,PagerDuty,Bessemer Venture Partners
+1593,589,676,NYDIG,Bessemer Venture Partners
+1594,1784,676,Shopify,Bessemer Venture Partners
+1595,1342,676,LaunchDarkly,Bessemer Venture Partners
+1596,806,676,Optibus,Bessemer Venture Partners
+1597,77,676,Choco,Bessemer Venture Partners
+1598,530,676,Tile,Bessemer Venture Partners
+1599,1262,676,Livspace,Bessemer Venture Partners
+1600,1380,676,Rocket Lab,Bessemer Venture Partners
+1601,934,676,Twitch,Bessemer Venture Partners
+1602,1651,676,CaptivateIQ,Bessemer Venture Partners
+1603,204,676,ServiceTitan,Bessemer Venture Partners
+1604,1666,676,Yotpo,Bessemer Venture Partners
+1605,1399,676,Rupifi,Bessemer Venture Partners
+1606,983,676,Procore,Bessemer Venture Partners
+1607,758,676,Productboard,Bessemer Venture Partners
+1608,843,676,Moglix,Bessemer Venture Partners
+1609,572,676,Axonius,Bessemer Venture Partners
+1610,921,676,Subject,Bessemer Venture Partners
+1611,1178,676,Intercom,Bessemer Venture Partners
+1612,225,676,Guild Education,Bessemer Venture Partners
+1613,1169,676,Optimal Dynamics,Bessemer Venture Partners
+1614,905,676,Mindbody,Bessemer Venture Partners
+1615,1639,676,MediBuddy,Bessemer Venture Partners
+1616,663,676,Rev.com,Bessemer Venture Partners
+1617,43,676,Alloy,Bessemer Venture Partners
+1618,1348,676,ComboCurve,Bessemer Venture Partners
+1619,1124,676,Auth0,Bessemer Venture Partners
+1620,980,676,Electric,Bessemer Venture Partners
+1621,1402,676,Good Technology,Bessemer Venture Partners
+1622,1658,1958,Komodo Health,Oak HC/FT
+1623,1974,1958,Osso VR,Oak HC/FT
+1624,1845,1958,Sendoso,Oak HC/FT
+1625,1686,1958,Brightline,Oak HC/FT
+1626,1508,1958,Clearco,Oak HC/FT
+1627,1913,1958,Cart.com,Oak HC/FT
+1628,1658,1553,Komodo Health,SVB Capital
+1629,574,1553,Hello Alice,SVB Capital
+1630,1925,1553,Tomo,SVB Capital
+1631,1658,372,Komodo Health,Casdin Capital
+1632,365,372,Deepcell,Casdin Capital
+1633,1431,372,Helix,Casdin Capital
+1634,981,372,LetsGetChecked,Casdin Capital
+1635,1341,372,Arzeda,Casdin Capital
+1636,1727,1529,Rigetti Computing,Ampere Computing
+1637,1302,1719,Hex Technologies,XYZ Venture Capital
+1638,1112,1719,Vontive,XYZ Venture Capital
+1639,1302,2100,Hex Technologies,Snowflake
+1640,1701,1751,Payrails,HV Capital
+1641,704,1751,HelloFresh,HV Capital
+1642,1690,1751,Rocket Internet,HV Capital
+1643,1067,1751,FINN,HV Capital
+1644,143,1751,Dialogue,HV Capital
+1645,1903,1751,Habyt,HV Capital
+1646,967,1751,IONIQ,HV Capital
+1647,72,141,Omada Health,Founder Collective
+1648,1764,141,BuzzFeed,Founder Collective
+1649,1,141,Hivemapper,Founder Collective
+1650,927,141,Andela,Founder Collective
+1651,2093,141,Socure,Founder Collective
+1652,551,141,Pantheon,Founder Collective
+1653,1638,141,Embark,Founder Collective
+1654,72,102,Omada Health,Kaiser Permanente
+1655,898,102,Spinny,Kaiser Permanente
+1656,72,440,Omada Health,Norwest Venture Partners
+1657,2017,440,FloQast,Norwest Venture Partners
+1658,391,440,OfBusiness,Norwest Venture Partners
+1659,287,440,ElasticRun,Norwest Venture Partners
+1660,1338,440,BillionToOne,Norwest Venture Partners
+1661,503,440,Oxyzo,Norwest Venture Partners
+1662,1916,440,Amagi Media Labs,Norwest Venture Partners
+1663,1635,440,Celona,Norwest Venture Partners
+1664,343,440,Policygenius,Norwest Venture Partners
+1665,1559,440,fabric,Norwest Venture Partners
+1666,665,440,Xpressbees,Norwest Venture Partners
+1667,310,440,Obsidian Security,Norwest Venture Partners
+1668,1201,440,Singular,Norwest Venture Partners
+1669,72,543,Omada Health,Humana
+1670,497,1310,Reforge,Bossa Nova Investimentos
+1671,1142,1310,Squire,Bossa Nova Investimentos
+1672,142,1310,Binance.US,Bossa Nova Investimentos
+1673,921,1310,Subject,Bossa Nova Investimentos
+1674,1033,1310,Sherpa,Bossa Nova Investimentos
+1675,1516,1310,Trell,Bossa Nova Investimentos
+1676,540,1310,Gro Intelligence,Bossa Nova Investimentos
+1677,596,1310,Umba,Bossa Nova Investimentos
+1678,1664,1310,Sary,Bossa Nova Investimentos
+1679,953,1310,Hack VC,Bossa Nova Investimentos
+1680,144,1310,Everli,Bossa Nova Investimentos
+1681,16,1310,Encantos,Bossa Nova Investimentos
+1682,1830,1310,Altibbi,Bossa Nova Investimentos
+1683,1876,1310,BoostUp.ai,Bossa Nova Investimentos
+1684,497,1256,Reforge,TCV
+1685,824,1256,Aviatrix,TCV
+1686,901,1256,Trulioo,TCV
+1687,1027,1256,Genesys,TCV
+1688,498,1256,Envestnet,TCV
+1689,484,1256,Xero,TCV
+1690,1934,1256,Renren,TCV
+1691,1545,1256,Green Dot,TCV
+1692,1560,1256,Electronic Arts,TCV
+1693,802,1256,GoDaddy,TCV
+1694,1076,1256,Zillow,TCV
+1695,932,1256,Splunk,TCV
+1696,1070,1256,Netflix,TCV
+1697,49,1256,Rapid7,TCV
+1698,432,1256,Datto,TCV
+1699,497,1267,Reforge,NextView Ventures
+1700,672,1267,Strive,NextView Ventures
+1701,1097,689,Polychain,DCM Ventures
+1702,590,689,fuboTV,DCM Ventures
+1703,1201,689,Singular,DCM Ventures
+1704,1097,1663,Polychain,Pantera Capital
+1705,159,1663,Ripio,Pantera Capital
+1706,1624,1663,Wintermute Trading,Pantera Capital
+1707,601,1663,Gemini,Pantera Capital
+1708,2003,1663,Ankr,Pantera Capital
+1709,1097,552,Polychain,DHVC
+1710,2003,552,Ankr,DHVC
+1711,1728,1741,Latitud,FJ Labs
+1712,886,1741,BlueOcean,FJ Labs
+1713,972,1741,Knock,FJ Labs
+1714,128,1741,Simpl,FJ Labs
+1715,629,1741,Route,FJ Labs
+1716,1749,1741,FanDuel,FJ Labs
+1717,1218,1741,Zume,FJ Labs
+1718,1157,1741,Yieldstreet,FJ Labs
+1719,1728,1715,Latitud,NFX
+1720,1925,1715,Tomo,NFX
+1721,1486,1715,Triple Whale,NFX
+1722,1578,1715,Finrise,NFX
+1723,1728,2033,Latitud,Endeavor
+1724,1411,2033,Dolado,Endeavor
+1725,355,2033,2TM,Endeavor
+1726,1728,81,Latitud,Canary
+1727,1233,81,Datanomik,Canary
+1728,219,1091,CoinSwitch Kuber,Sequoia Capital India
+1729,349,1091,Rattle,Sequoia Capital India
+1730,919,1091,Apna,Sequoia Capital India
+1731,695,1091,CredAvenue,Sequoia Capital India
+1732,768,1091,Practo,Sequoia Capital India
+1733,2012,1091,Rebel Foods,Sequoia Capital India
+1734,679,1091,Purplle,Sequoia Capital India
+1735,1387,1091,Shipper,Sequoia Capital India
+1736,835,1091,Razorpay,Sequoia Capital India
+1737,1125,1091,Drip Capital,Sequoia Capital India
+1738,2041,1091,UrbanPiper,Sequoia Capital India
+1739,786,1091,Multiplier,Sequoia Capital India
+1740,843,1091,Moglix,Sequoia Capital India
+1741,713,1091,Innovaccer,Sequoia Capital India
+1742,1966,1091,Classplus,Sequoia Capital India
+1743,1510,1091,Stanza Living,Sequoia Capital India
+1744,264,1091,Bounce,Sequoia Capital India
+1745,555,1091,Insider,Sequoia Capital India
+1746,453,1091,Whatfix,Sequoia Capital India
+1747,1516,1091,Trell,Sequoia Capital India
+1748,493,1091,LambdaTest,Sequoia Capital India
+1749,121,1091,Qure AI,Sequoia Capital India
+1750,105,1091,MobiKwik,Sequoia Capital India
+1751,129,1091,Last9,Sequoia Capital India
+1752,1746,1091,Near,Sequoia Capital India
+1753,2090,1091,Mamaearth,Sequoia Capital India
+1754,2036,1091,Digit Insurance,Sequoia Capital India
+1755,736,1091,Carousell,Sequoia Capital India
+1756,969,1091,Druva,Sequoia Capital India
+1757,609,1091,Funding Societies,Sequoia Capital India
+1758,1768,1091,Emeritus,Sequoia Capital India
+1759,1669,1446,DFINITY,CoinFund
+1760,738,1446,Rarible,CoinFund
+1761,1669,690,DFINITY,IOSG Ventures
+1762,110,600,Fanatics,Neuberger Berman Group
+1763,82,600,Duck Creek Technologies,Neuberger Berman Group
+1764,1380,600,Rocket Lab,Neuberger Berman Group
+1765,1951,600,ChargePoint,Neuberger Berman Group
+1766,969,600,Druva,Neuberger Berman Group
+1767,269,1228,Ava Labs,Galaxy Digital
+1768,925,1228,BlockFi,Galaxy Digital
+1769,2023,1228,Terra,Galaxy Digital
+1770,1324,1228,Polygon,Galaxy Digital
+1771,1972,1228,GOQii,Galaxy Digital
+1772,383,1228,Figment,Galaxy Digital
+1773,1444,1228,Chingari,Galaxy Digital
+1774,850,1228,BitGo,Galaxy Digital
+1775,831,1228,Argo Blockchain,Galaxy Digital
+1776,402,253,Anchorage,Apollo
+1777,923,253,Airbnb,Apollo
+1778,1765,253,Liquidity,Apollo
+1779,1003,253,Figure,Apollo
+1780,1185,253,CAIS,Apollo
+1781,1533,1520,Current,QED Investors
+1782,1927,1520,SoFi,QED Investors
+1783,1617,1520,CircleUp,QED Investors
+1784,1434,1520,QuintoAndar,QED Investors
+1785,444,1520,Bambee,QED Investors
+1786,733,1520,Remitly,QED Investors
+1787,1623,1520,Wagestream,QED Investors
+1788,1328,1520,Wayflyer,QED Investors
+1789,667,1520,TransUnion,QED Investors
+1790,1269,1520,Roofstock,QED Investors
+1791,574,1520,Hello Alice,QED Investors
+1792,1864,1520,Kin Insurance,QED Investors
+1793,1970,1520,Payhawk,QED Investors
+1794,1717,1520,Financepeer,QED Investors
+1795,232,1520,Capchase,QED Investors
+1796,2037,1520,FIDEL API,QED Investors
+1797,731,1520,Goodlord,QED Investors
+1798,1533,603,Current,Avenir Growth Capital
+1799,47,603,Pax8,Avenir Growth Capital
+1800,1533,1470,Current,Bienville Capital
+1801,550,1470,54gene,Bienville Capital
+1802,983,1470,Procore,Bienville Capital
+1803,1783,1349,Capitolis,JP Morgan
+1804,1328,1349,Wayflyer,JP Morgan
+1805,1566,1349,Convoy,JP Morgan
+1806,1475,1349,Wheel,JP Morgan
+1807,1003,1349,Figure,JP Morgan
+1808,407,1349,Grafana Labs,JP Morgan
+1809,1913,1349,Cart.com,JP Morgan
+1810,409,1349,Proxymity,JP Morgan
+1811,846,1349,Saphyre,JP Morgan
+1812,686,685,Box,Telstra
+1813,686,180,Box,Telefonica
+1814,984,1554,DigitalOcean,Techstars
+1815,1608,1554,Arweave,Techstars
+1816,130,1554,Twilio,Techstars
+1817,169,1554,SmartHop,Techstars
+1818,331,1554,Uber,Techstars
+1819,733,1554,Remitly,Techstars
+1820,485,1554,Veho,Techstars
+1821,1634,1554,Tive,Techstars
+1822,1936,1554,Novo,Techstars
+1823,1849,1554,JumpCloud,Techstars
+1824,861,1554,Slingshot Aerospace,Techstars
+1825,1596,1554,Arena.im,Techstars
+1826,43,1554,Alloy,Techstars
+1827,1574,1554,Vested Finance,Techstars
+1828,2011,1554,Upsie,Techstars
+1829,1503,1554,TradeLanes,Techstars
+1830,1014,1554,Pixxel,Techstars
+1831,560,1554,Preply,Techstars
+1832,828,1554,Nautilus Labs,Techstars
+1833,705,1554,Dapio,Techstars
+1834,1899,1554,ClassPass,Techstars
+1835,1207,1554,EnrichHER,Techstars
+1836,522,1554,Gig Wage,Techstars
+1837,984,914,DigitalOcean,Right Side Capital Management
+1838,1596,914,Arena.im,Right Side Capital Management
+1839,2011,914,Upsie,Right Side Capital Management
+1840,984,1332,DigitalOcean,Trinity Capital
+1841,1280,1332,GrubMarket,Trinity Capital
+1842,1764,95,BuzzFeed,RRE Ventures
+1843,412,95,Spring Health,RRE Ventures
+1844,1554,95,Techstars,RRE Ventures
+1845,1634,95,Tive,RRE Ventures
+1846,223,95,Maude,RRE Ventures
+1847,972,95,Knock,RRE Ventures
+1848,627,95,Lightning Labs,RRE Ventures
+1849,1936,95,Novo,RRE Ventures
+1850,489,95,Palantir Technologies,RRE Ventures
+1851,1149,95,Northstar,RRE Ventures
+1852,1203,95,Digital Currency Group,RRE Ventures
+1853,1180,95,Datadog,RRE Ventures
+1854,142,95,Binance.US,RRE Ventures
+1855,1821,95,BitPay,RRE Ventures
+1856,2107,95,Base,RRE Ventures
+1857,2116,95,Arca,RRE Ventures
+1858,1764,917,BuzzFeed,Lerer Hippeau
+1859,607,917,Blockdaemon,Lerer Hippeau
+1860,1410,917,Birchbox,Lerer Hippeau
+1861,1309,917,Genies,Lerer Hippeau
+1862,155,917,Kaiyo,Lerer Hippeau
+1863,1052,918,BlockTower Capital,Blue Collective
+1864,1763,1931,Flexport,8VC
+1865,2068,1931,Socotra,8VC
+1866,937,1931,Eight Sleep,8VC
+1867,491,1931,Airbyte,8VC
+1868,1144,1931,Ascend.io,8VC
+1869,1564,1931,Maven Clinic,8VC
+1870,673,1931,Citizen,8VC
+1871,1716,1931,BlueVoyant,8VC
+1872,778,1931,Mojo Vision,8VC
+1873,92,1931,Forethought,8VC
+1874,1998,1931,Evernow,8VC
+1875,1508,1931,Clearco,8VC
+1876,371,1931,Twingate,8VC
+1877,1321,1931,Yugabyte,8VC
+1878,1112,1931,Vontive,8VC
+1879,1665,1931,Omni,8VC
+1880,1943,1931,Hive,8VC
+1881,598,1931,Affinity,8VC
+1882,1763,1784,Flexport,Shopify
+1883,1666,1784,Yotpo,Shopify
+1884,1329,1784,Pipe,Shopify
+1885,1244,756,Freenome,Novartis
+1886,393,756,Roche,Novartis
+1887,1244,393,Freenome,Roche
+1888,1374,247,Flock Homes,Human Capital
+1889,101,247,Nova Credit,Human Capital
+1890,2100,247,Snowflake,Human Capital
+1891,291,247,Studio,Human Capital
+1892,1374,275,Flock Homes,Primary Venture Partners
+1893,397,275,Chief,Primary Venture Partners
+1894,43,275,Alloy,Primary Venture Partners
+1895,980,275,Electric,Primary Venture Partners
+1896,148,275,Black Crow AI,Primary Venture Partners
+1897,1374,1227,Flock Homes,Susa Ventures
+1898,1794,1227,Cottage,Susa Ventures
+1899,433,282,Foursquare,Microsoft
+1900,1968,282,Flipkart,Microsoft
+1901,753,282,Cruise,Microsoft
+1902,1886,282,DocuSign,Microsoft
+1903,1417,282,ConsenSys,Microsoft
+1904,1598,282,OYO,Microsoft
+1905,2095,282,Grab,Microsoft
+1906,719,282,OpenAI,Microsoft
+1907,2098,282,Meta,Microsoft
+1908,1954,282,Apple,Microsoft
+1909,1766,282,DNAnexus,Microsoft
+1910,2103,282,Laiye,Microsoft
+1911,622,282,Team8,Microsoft
+1912,1500,7,ChartHop,Shrug Capital
+1913,1592,7,SESO,Shrug Capital
+1914,1500,37,ChartHop,Flybridge
+1915,334,37,Nasuni,Flybridge
+1916,397,37,Chief,Flybridge
+1917,829,37,DraftKings,Flybridge
+1918,1665,37,Omni,Flybridge
+1919,1500,1086,ChartHop,Cowboy Ventures
+1920,1220,1086,Drata,Cowboy Ventures
+1921,2029,1086,Branch,Cowboy Ventures
+1922,875,1103,Firstbase,Kleiner Perkins
+1923,303,1103,Indiegogo,Kleiner Perkins
+1924,1117,1103,Puppet,Kleiner Perkins
+1925,1193,1103,Moveworks,Kleiner Perkins
+1926,888,1103,Watershed,Kleiner Perkins
+1927,1747,1103,Houzz,Kleiner Perkins
+1928,226,1103,Google,Kleiner Perkins
+1929,252,1103,DataStax,Kleiner Perkins
+1930,1560,1103,Electronic Arts,Kleiner Perkins
+1931,1688,1103,AOL,Kleiner Perkins
+1932,921,1103,Subject,Kleiner Perkins
+1933,1159,1103,Esusu Financial,Kleiner Perkins
+1934,573,1103,Ring,Kleiner Perkins
+1935,218,1103,Rent the Runway,Kleiner Perkins
+1936,2056,1103,Juniper Networks,Kleiner Perkins
+1937,1745,1103,SpinLaunch,Kleiner Perkins
+1938,369,1103,Neuron23,Kleiner Perkins
+1939,1378,1103,Plex,Kleiner Perkins
+1940,114,1103,Interos,Kleiner Perkins
+1941,698,1103,Amazon,Kleiner Perkins
+1942,875,1405,Firstbase,Forum Ventures
+1943,1494,1405,ExecOnline,Forum Ventures
+1944,365,1736,Deepcell,DCVC
+1945,1380,1736,Rocket Lab,DCVC
+1946,2085,1736,Raptor Maps,DCVC
+1947,1891,1736,Ginkgo Bioworks,DCVC
+1948,499,1736,Biobot Analytics,DCVC
+1949,413,1736,Heavybit,DCVC
+1950,1613,1736,Zoom,DCVC
+1951,1354,1736,Forward,DCVC
+1952,2015,1736,Elastic,DCVC
+1953,1092,1736,CircleCI,DCVC
+1954,540,1736,Gro Intelligence,DCVC
+1955,1120,1736,Lumafield,DCVC
+1956,171,1736,On Deck,DCVC
+1957,2007,897,Astranis,Koch Industries
+1958,775,1085,Everlaw,TPG Growth
+1959,722,1085,BookMyShow,TPG Growth
+1960,709,1085,Zscaler,TPG Growth
+1961,615,1085,Nykaa,TPG Growth
+1962,775,2020,Everlaw,Ulu Ventures
+1963,785,2020,ZeroStorefront,Ulu Ventures
+1964,489,2020,Palantir Technologies,Ulu Ventures
+1965,1797,2020,Span.IO,Ulu Ventures
+1966,1385,2020,Future Family,Ulu Ventures
+1967,1141,449,Cross River,LionTree
+1968,590,449,fuboTV,LionTree
+1969,1233,1728,Datanomik,Latitud
+1970,2111,1134,Affirm,Craft Ventures
+1971,1,1134,Hivemapper,Craft Ventures
+1972,1050,1134,Hootsuite,Craft Ventures
+1973,1074,1134,Homebound,Craft Ventures
+1974,650,1134,OpenPhone,Craft Ventures
+1975,758,1134,Productboard,Craft Ventures
+1976,34,1134,AgentSync,Craft Ventures
+1977,850,1134,BitGo,Craft Ventures
+1978,1249,1134,SpaceX,Craft Ventures
+1979,1845,1134,Sendoso,Craft Ventures
+1980,184,1134,Northspyre,Craft Ventures
+1981,629,1134,Route,Craft Ventures
+1982,1596,1134,Arena.im,Craft Ventures
+1983,166,714,BlocPower,Kapor Capital
+1984,1739,714,Bitwise Industries,Kapor Capital
+1985,2011,714,Upsie,Kapor Capital
+1986,16,714,Encantos,Kapor Capital
+1987,708,714,EdCast,Kapor Capital
+1988,672,714,Strive,Kapor Capital
+1989,1312,714,Aclima,Kapor Capital
+1990,166,2108,BlocPower,Cleo Capital
+1991,92,2108,Forethought,Cleo Capital
+1992,166,1150,BlocPower,Elemental Excelerator
+1993,195,356,Zebra Technologies,North Coast Ventures
+1994,175,356,Vytalize Health,North Coast Ventures
+1995,195,336,Zebra Technologies,Deutsche Bank
+1996,938,336,Mirae Asset Global Investments,Deutsche Bank
+1997,697,336,PayPal,Deutsche Bank
+1998,1647,336,SkyHive,Deutsche Bank
+1999,409,336,Proxymity,Deutsche Bank
+2000,195,1585,Zebra Technologies,Plymouth Growth
+2001,1927,1477,SoFi,SoftBank
+2002,452,1477,ID.me,SoftBank
+2003,436,1477,WeWork,SoftBank
+2004,1401,1477,Darktrace,SoftBank
+2005,375,1477,Swiggy,SoftBank
+2006,1031,1477,Ola,SoftBank
+2007,1434,1477,QuintoAndar,SoftBank
+2008,1118,1477,Hike,SoftBank
+2009,1957,1477,Didi,SoftBank
+2010,1897,1477,Sorare,SoftBank
+2011,115,1477,Zimperium,SoftBank
+2012,1683,1477,Treasure Data,SoftBank
+2013,2062,1477,ShipBob,SoftBank
+2014,1713,1477,Solarisbank,SoftBank
+2015,1057,1477,WME,SoftBank
+2016,150,1477,Ola Electric,SoftBank
+2017,1598,1477,OYO,SoftBank
+2018,1191,1477,PlayVS,SoftBank
+2019,393,1477,Roche,SoftBank
+2020,391,1477,OfBusiness,SoftBank
+2021,911,1477,OneWeb,SoftBank
+2022,2095,1477,Grab,SoftBank
+2023,1153,1477,blinkit,SoftBank
+2024,444,1477,Bambee,SoftBank
+2025,937,1477,Eight Sleep,SoftBank
+2026,1096,1477,Fair,SoftBank
+2027,518,1477,ada,SoftBank
+2028,891,1477,Bear Robotics,SoftBank
+2029,1857,1477,Arcus,SoftBank
+2030,496,1477,Clip,SoftBank
+2031,1396,1477,Alibaba Group,SoftBank
+2032,742,446,Workday,New Enterprise Associates
+2033,1191,446,PlayVS,New Enterprise Associates
+2034,1856,446,Built Robotics,New Enterprise Associates
+2035,1747,446,Houzz,New Enterprise Associates
+2036,1402,446,Good Technology,New Enterprise Associates
+2037,2015,446,Elastic,New Enterprise Associates
+2038,200,446,NODAR,New Enterprise Associates
+2039,1453,446,Upwork,New Enterprise Associates
+2040,665,446,Xpressbees,New Enterprise Associates
+2041,1506,446,Uniphore,New Enterprise Associates
+2042,778,446,Mojo Vision,New Enterprise Associates
+2043,1676,446,HackerOne,New Enterprise Associates
+2044,2056,446,Juniper Networks,New Enterprise Associates
+2045,2029,446,Branch,New Enterprise Associates
+2046,92,446,Forethought,New Enterprise Associates
+2047,771,446,Cleo,New Enterprise Associates
+2048,1546,446,ForAllSecure,New Enterprise Associates
+2049,1998,446,Evernow,New Enterprise Associates
+2050,1811,446,Canopy,New Enterprise Associates
+2051,742,1949,Workday,Kalaari Capital
+2052,287,1949,ElasticRun,Kalaari Capital
+2053,599,1949,Snapdeal,Kalaari Capital
+2054,1306,1949,Upstox,Kalaari Capital
+2055,1071,1949,Chalo,Kalaari Capital
+2056,1915,1949,Vogo,Kalaari Capital
+2057,741,1949,WinZO,Kalaari Capital
+2058,364,1949,PhableCare,Kalaari Capital
+2059,589,2111,NYDIG,Affirm
+2060,589,974,NYDIG,MassMutual
+2061,844,974,Hourwork,MassMutual
+2062,343,974,Policygenius,MassMutual
+2063,844,721,Hourwork,MassVentures
+2064,1891,721,Ginkgo Bioworks,MassVentures
+2065,417,721,SES,MassVentures
+2066,844,111,Hourwork,OneValley
+2067,1826,687,Lineage Logistics,Rabobank
+2068,452,923,ID.me,Airbnb
+2069,1598,923,OYO,Airbnb
+2070,452,928,ID.me,Lyft
+2071,853,928,Argo AI,Lyft
+2072,76,435,Sabre Corporation,Perella Weinberg Partners
+2073,1968,1968,Flipkart,Flipkart
+2074,1384,1968,PhonePe,Flipkart
+2075,1575,1968,Pine Labs,Flipkart
+2076,818,1968,GreyOrange,Flipkart
+2077,183,1968,Shadowfax,Flipkart
+2078,1968,1350,Flipkart,Axis Bank
+2079,2042,1350,Reliance Jio,Axis Bank
+2080,508,1156,SiFive,Qualcomm Ventures
+2081,1272,1156,Cloudflare,Qualcomm Ventures
+2082,1434,1156,QuintoAndar,Qualcomm Ventures
+2083,911,1156,OneWeb,Qualcomm Ventures
+2084,1569,1156,Pensando,Qualcomm Ventures
+2085,697,1156,PayPal,Qualcomm Ventures
+2086,264,1156,Bounce,Qualcomm Ventures
+2087,1634,1156,Tive,Qualcomm Ventures
+2088,1613,1156,Zoom,Qualcomm Ventures
+2089,183,1156,Shadowfax,Qualcomm Ventures
+2090,573,1156,Ring,Qualcomm Ventures
+2091,525,1156,AiFi,Qualcomm Ventures
+2092,1635,1156,Celona,Qualcomm Ventures
+2093,508,2021,SiFive,Khaira Capital
+2094,57,2021,Hopper,Khaira Capital
+2095,1908,2021,Captain Fresh,Khaira Capital
+2096,1229,2021,Clari,Khaira Capital
+2097,525,2021,AiFi,Khaira Capital
+2098,851,2021,Skims,Khaira Capital
+2099,508,1693,SiFive,Samsung Ventures
+2100,1516,1693,Trell,Samsung Ventures
+2101,1189,289,Wealthfront,Science
+2102,1191,289,PlayVS,Science
+2103,32,1922,TravelPerk,Felix Capital
+2104,1700,1922,re:cap,Felix Capital
+2105,32,1694,TravelPerk,LocalGlobe
+2106,1083,1694,Seedcamp,LocalGlobe
+2107,903,1694,Ark Kapital,LocalGlobe
+2108,262,1068,SmartRent,Fifth Wall
+2109,1074,1068,Homebound,Fifth Wall
+2110,1856,1068,Built Robotics,Fifth Wall
+2111,1634,1068,Tive,Fifth Wall
+2112,1797,1068,Span.IO,Fifth Wall
+2113,1630,1068,Turntide Technologies,Fifth Wall
+2114,594,1068,Veev,Fifth Wall
+2115,1299,1068,Pacaso,Fifth Wall
+2116,509,1068,Notarize,Fifth Wall
+2117,1794,1068,Cottage,Fifth Wall
+2118,262,468,SmartRent,UDR
+2119,262,1890,SmartRent,Energy Impact Partners
+2120,562,1890,Grover,Energy Impact Partners
+2121,1481,1890,Sense,Energy Impact Partners
+2122,1528,1890,GridX,Energy Impact Partners
+2123,1530,1890,Attivo Networks,Energy Impact Partners
+2124,262,41,SmartRent,Bain Capital Ventures
+2125,1193,41,Moveworks,Bain Capital Ventures
+2126,1229,41,Clari,Bain Capital Ventures
+2127,588,41,Pleo,Bain Capital Ventures
+2128,49,41,Rapid7,Bain Capital Ventures
+2129,1530,41,Attivo Networks,Bain Capital Ventures
+2130,390,41,ParaFi Capital,Bain Capital Ventures
+2131,1967,188,Sonder,BlackRock
+2132,1817,188,Grammarly,BlackRock
+2133,2006,188,Clarify Health Solutions,BlackRock
+2134,965,188,Funding Circle,BlackRock
+2135,869,188,Automattic,BlackRock
+2136,747,188,Lilium,BlackRock
+2137,792,188,Epic Games,BlackRock
+2138,866,188,Unqork,BlackRock
+2139,1623,188,Wagestream,BlackRock
+2140,599,188,Snapdeal,BlackRock
+2141,1842,188,Volocopter,BlackRock
+2142,1439,188,Snorkel AI,BlackRock
+2143,362,188,SambaNova Systems,BlackRock
+2144,258,188,Zuora,BlackRock
+2145,1575,188,Pine Labs,BlackRock
+2146,1117,188,Puppet,BlackRock
+2147,1380,188,Rocket Lab,BlackRock
+2148,2019,188,Planet,BlackRock
+2149,1360,188,Rivian,BlackRock
+2150,521,188,Airtel,BlackRock
+2151,339,188,Chewy,BlackRock
+2152,1027,188,Genesys,BlackRock
+2153,498,188,Envestnet,BlackRock
+2154,1408,188,Exo,BlackRock
+2155,1967,1535,Sonder,Valor Equity Partners
+2156,1096,1535,Fair,Valor Equity Partners
+2157,34,1535,AgentSync,Valor Equity Partners
+2158,2057,1535,Republic,Valor Equity Partners
+2159,861,1535,Slingshot Aerospace,Valor Equity Partners
+2160,1676,1535,HackerOne,Valor Equity Partners
+2161,877,1535,Dataminr,Valor Equity Partners
+2162,1288,1954,Ramp,Apple
+2163,1957,1954,Didi,Apple
+2164,1238,1954,Zomato,Apple
+2165,2070,1954,Corning,Apple
+2166,1420,1954,Adobe,Apple
+2167,1288,957,Ramp,Stripe
+2168,176,957,TrueLayer,Stripe
+2169,1523,957,Fast,Stripe
+2170,1549,957,Stellar Development Foundation,Stripe
+2171,1288,1763,Ramp,Flexport
+2172,1765,1426,Liquidity,MUFG Bank
+2173,1765,2047,Liquidity,MUFG Innovation Partners
+2174,131,300,Niantic,Nintendo
+2175,1798,2014,Handshake,Lightspeed Venture Partners
+2176,564,2014,Pocket FM,Lightspeed Venture Partners
+2177,1569,2014,Pensando,Lightspeed Venture Partners
+2178,1439,2014,Snorkel AI,Lightspeed Venture Partners
+2179,1269,2014,Roofstock,Lightspeed Venture Partners
+2180,1970,2014,Payhawk,Lightspeed Venture Partners
+2181,196,2014,ShearShare,Lightspeed Venture Partners
+2182,1387,2014,Shipper,Lightspeed Venture Partners
+2183,1475,2014,Wheel,Lightspeed Venture Partners
+2184,1193,2014,Moveworks,Lightspeed Venture Partners
+2185,713,2014,Innovaccer,Lightspeed Venture Partners
+2186,1966,2014,Classplus,Lightspeed Venture Partners
+2187,2032,2014,Netskope,Lightspeed Venture Partners
+2188,572,2014,Axonius,Lightspeed Venture Partners
+2189,208,2014,Parallel Finance,Lightspeed Venture Partners
+2190,1098,2014,Blockchain.com,Lightspeed Venture Partners
+2191,407,2014,Grafana Labs,Lightspeed Venture Partners
+2192,989,2014,Natera,Lightspeed Venture Partners
+2193,252,2014,DataStax,Lightspeed Venture Partners
+2194,43,2014,Alloy,Lightspeed Venture Partners
+2195,1014,2014,Pixxel,Lightspeed Venture Partners
+2196,1635,2014,Celona,Lightspeed Venture Partners
+2197,633,2014,FTX US,Lightspeed Venture Partners
+2198,709,2014,Zscaler,Lightspeed Venture Partners
+2199,16,2014,Encantos,Lightspeed Venture Partners
+2200,1536,2014,The Honest Company,Lightspeed Venture Partners
+2201,675,2014,ThoughtSpot,Lightspeed Venture Partners
+2202,2002,2014,Theta Lake,Lightspeed Venture Partners
+2203,1321,2014,Yugabyte,Lightspeed Venture Partners
+2204,1624,2014,Wintermute Trading,Lightspeed Venture Partners
+2205,2103,2014,Laiye,Lightspeed Venture Partners
+2206,2022,2014,Panther Labs,Lightspeed Venture Partners
+2207,1732,2014,Lianluo,Lightspeed Venture Partners
+2208,1798,516,Handshake,EQT Ventures
+2209,1676,516,HackerOne,EQT Ventures
+2210,1524,516,Nothing,EQT Ventures
+2211,1798,31,Handshake,Reach Capital
+2212,1779,31,Nearpod,Reach Capital
+2213,1739,31,Bitwise Industries,Reach Capital
+2214,827,58,Justworks,FirstMark
+2215,1527,58,Upgrade,FirstMark
+2216,1784,58,Shopify,FirstMark
+2217,1016,58,Dataiku,FirstMark
+2218,668,58,Riot Games,FirstMark
+2219,464,58,Starry,FirstMark
+2220,1078,58,EvolutionIQ,FirstMark
+2221,829,58,DraftKings,FirstMark
+2222,1453,58,Upwork,FirstMark
+2223,827,1867,Justworks,Bain Capital
+2224,1269,1867,Roofstock,Bain Capital
+2225,1193,1867,Moveworks,Bain Capital
+2226,1186,1867,IIFL Wealth Management,Bain Capital
+2227,1530,1867,Attivo Networks,Bain Capital
+2228,1350,1867,Axis Bank,Bain Capital
+2229,1817,1101,Grammarly,SignalFire
+2230,1792,1101,Bubble,SignalFire
+2231,1974,1101,Osso VR,SignalFire
+2232,1218,1101,Zume,SignalFire
+2233,371,1101,Twingate,SignalFire
+2234,1512,763,eToro,Anthemis Group
+2235,176,763,TrueLayer,Anthemis Group
+2236,34,763,AgentSync,Anthemis Group
+2237,1026,763,Apollo Agriculture,Anthemis Group
+2238,1083,763,Seedcamp,Anthemis Group
+2239,962,763,Skuad,Anthemis Group
+2240,1866,763,Sydecar,Anthemis Group
+2241,378,763,Azimo,Anthemis Group
+2242,1512,1765,eToro,Liquidity
+2243,1512,174,eToro,Ping An
+2244,2006,1361,Clarify Health Solutions,StartX (Stanford-StartX Fund)
+2245,525,1361,AiFi,StartX (Stanford-StartX Fund)
+2246,708,1361,EdCast,StartX (Stanford-StartX Fund)
+2247,1527,1261,Upgrade,G Squared
+2248,77,1261,Choco,G Squared
+2249,1096,1261,Fair,G Squared
+2250,347,1261,Thumbtack,G Squared
+2251,1523,1261,Fast,G Squared
+2252,29,1261,LinkSquares,G Squared
+2253,169,1722,SmartHop,Equal Ventures
+2254,1123,1018,Slope,Global Founders Capital
+2255,731,1018,Goodlord,Global Founders Capital
+2256,1605,1018,Forto,Global Founders Capital
+2257,1211,1018,Paragon,Global Founders Capital
+2258,1834,1018,Goldbelly,Global Founders Capital
+2259,335,1018,Revolut,Global Founders Capital
+2260,1800,1018,Traveloka,Global Founders Capital
+2261,642,1018,Novelship,Global Founders Capital
+2262,842,1018,Climeworks,Global Founders Capital
+2263,1523,1018,Fast,Global Founders Capital
+2264,1633,1018,tabby,Global Founders Capital
+2265,562,1018,Grover,Global Founders Capital
+2266,1447,1018,Shares,Global Founders Capital
+2267,1690,1018,Rocket Internet,Global Founders Capital
+2268,1411,1018,Dolado,Global Founders Capital
+2269,1123,132,Slope,Monashees
+2270,1993,132,OXIO,Monashees
+2271,107,1330,Algorand,ICONIUM
+2272,1671,1330,Enjin,ICONIUM
+2273,1941,1330,Huobi,ICONIUM
+2274,107,1884,Algorand,Lemniscap
+2275,1272,448,Cloudflare,Venrock
+2276,726,448,Quiq,Venrock
+2277,738,448,Rarible,Venrock
+2278,1954,448,Apple,Venrock
+2279,1674,448,Bristol Myers Squibb,Venrock
+2280,114,448,Interos,Venrock
+2281,817,448,Intel,Venrock
+2282,1415,1457,Etsy,Breyer Capital
+2283,746,1457,Wasoko,Breyer Capital
+2284,78,1457,Data.world,Breyer Capital
+2285,1026,1457,Apollo Agriculture,Breyer Capital
+2286,1480,1457,Yoco,Breyer Capital
+2287,729,1526,Fiveable,Serena Ventures
+2288,574,1526,Hello Alice,Serena Ventures
+2289,1159,1526,Esusu Financial,Serena Ventures
+2290,1192,1526,Tonal,Serena Ventures
+2291,729,439,Fiveable,AT&T
+2292,622,439,Team8,AT&T
+2293,1361,439,StartX (Stanford-StartX Fund),AT&T
+2294,729,1507,Fiveable,gener8tor
+2295,729,1789,Fiveable,BBG Ventures
+2296,1617,2051,CircleUp,Clocktower Technology Ventures
+2297,1411,2051,Dolado,Clocktower Technology Ventures
+2298,801,2051,Carmoola,Clocktower Technology Ventures
+2299,1617,1079,CircleUp,Rose Park Advisors
+2300,436,1285,WeWork,Cushman & Wakefield
+2301,2024,1179,Thunes,GGV Capital
+2302,1828,1179,Xiaohongshu,GGV Capital
+2303,1924,1179,Zendesk,GGV Capital
+2304,527,1179,Streamlit,GGV Capital
+2305,1747,1179,Houzz,GGV Capital
+2306,980,1179,Electric,GGV Capital
+2307,1220,1179,Drata,GGV Capital
+2308,1513,1179,Orca Security,GGV Capital
+2309,829,1179,DraftKings,GGV Capital
+2310,540,1179,Gro Intelligence,GGV Capital
+2311,1020,1179,Pandora,GGV Capital
+2312,2024,878,Thunes,Checkout.com
+2313,2024,293,Thunes,Future Shape
+2314,1151,293,Sweep,Future Shape
+2315,2024,1298,Thunes,Helios Investment Partners
+2316,1784,1625,Shopify,OMERS Ventures
+2317,1050,1625,Hootsuite,OMERS Ventures
+2318,57,1625,Hopper,OMERS Ventures
+2319,720,1625,WorkRamp,OMERS Ventures
+2320,1203,1625,Digital Currency Group,OMERS Ventures
+2321,711,1625,Wave,OMERS Ventures
+2322,1631,1625,League,OMERS Ventures
+2323,1784,887,Shopify,Felicis Ventures
+2324,214,887,Adyen,Felicis Ventures
+2325,1986,887,Origin,Felicis Ventures
+2326,133,1075,Tractable,Plug and Play Tech Center
+2327,730,1075,Carto,Plug and Play Tech Center
+2328,901,1075,Trulioo,Plug and Play Tech Center
+2329,745,1075,Credit Kudos,Plug and Play Tech Center
+2330,632,1075,Wefunder,Plug and Play Tech Center
+2331,431,1075,Gotrade,Plug and Play Tech Center
+2332,65,1075,Jerry,Plug and Play Tech Center
+2333,1033,1075,Sherpa,Plug and Play Tech Center
+2334,857,1075,Paysend,Plug and Play Tech Center
+2335,200,1075,NODAR,Plug and Play Tech Center
+2336,602,1075,Onfido,Plug and Play Tech Center
+2337,1159,1075,Esusu Financial,Plug and Play Tech Center
+2338,1078,1075,EvolutionIQ,Plug and Play Tech Center
+2339,1729,1075,ChargeAfter,Plug and Play Tech Center
+2340,1327,1075,Bigblue,Plug and Play Tech Center
+2341,133,1051,Tractable,Zetta Venture Partners
+2342,207,1083,Viz,Seedcamp
+2343,1897,1083,Sorare,Seedcamp
+2344,335,1083,Revolut,Seedcamp
+2345,588,1083,Pleo,Seedcamp
+2346,562,1083,Grover,Seedcamp
+2347,207,1812,Viz,Scale Venture Partners
+2348,1591,1812,WalkMe,Scale Venture Partners
+2349,838,1812,Esper,Scale Venture Partners
+2350,1683,1812,Treasure Data,Scale Venture Partners
+2351,551,1812,Pantheon,Scale Venture Partners
+2352,537,1812,HubSpot,Scale Venture Partners
+2353,252,1812,DataStax,Scale Venture Partners
+2354,1092,1812,CircleCI,Scale Venture Partners
+2355,1048,1812,Demandbase,Scale Venture Partners
+2356,2068,664,Socotra,Vulcan Capital
+2357,1713,664,Solarisbank,Vulcan Capital
+2358,123,664,Cialfo,Vulcan Capital
+2359,1178,664,Intercom,Vulcan Capital
+2360,1590,664,Eat Just,Vulcan Capital
+2361,422,1392,Staffbase,Capnamic Ventures
+2362,2031,2050,Shipium,Good Friends
+2363,148,2050,Black Crow AI,Good Friends
+2364,2031,536,Shipium,Trilogy Equity Partners
+2365,109,803,Wiz,Cyberstarts
+2366,1838,803,Island,Cyberstarts
+2367,261,803,Cyera,Cyberstarts
+2368,1888,1362,UserTesting,Scottish Enterprise
+2369,1888,217,UserTesting,Greenspring Associates
+2370,1591,217,WalkMe,Greenspring Associates
+2371,339,217,Chewy,Greenspring Associates
+2372,1321,217,Yugabyte,Greenspring Associates
+2373,2118,217,Cyara,Greenspring Associates
+2374,198,814,slice,Northern Arc
+2375,1822,814,ReshaMandi,Northern Arc
+2376,1919,814,Aye Finance,Northern Arc
+2377,23,814,UpScalio,Northern Arc
+2378,198,1754,slice,Vivriti Capital
+2379,1947,1754,Infra.Market,Vivriti Capital
+2380,198,318,slice,InCred
+2381,2043,1786,Smartsheet,Top Tier Capital Partners
+2382,1465,1786,Typeform,Top Tier Capital Partners
+2383,2043,1848,Smartsheet,Summit Partners
+2384,1401,1848,Darktrace,Summit Partners
+2385,87,1848,Podium,Summit Partners
+2386,53,1848,Bigpoint,Summit Partners
+2387,748,1848,Infor,Summit Partners
+2388,1002,1848,Optimove,Summit Partners
+2389,1255,1848,McAfee,Summit Partners
+2390,584,1848,Akeneo,Summit Partners
+2391,2043,25,Smartsheet,Madrona Venture Group
+2392,2043,344,Smartsheet,Sutter Hill Ventures
+2393,278,1552,Snappt,Moderne Ventures
+2394,155,1552,Kaiyo,Moderne Ventures
+2395,278,978,Snappt,K50 Ventures
+2396,2046,313,Pipefy,Asymmetry Ventures
+2397,1078,313,EvolutionIQ,Asymmetry Ventures
+2398,705,313,Dapio,Asymmetry Ventures
+2399,250,1920,MURAL,Gradient Ventures
+2400,527,1920,Streamlit,Gradient Ventures
+2401,778,1920,Mojo Vision,Gradient Ventures
+2402,1835,1920,Sona,Gradient Ventures
+2403,94,351,Postman,Nexus Venture Partners
+2404,167,351,Apollo.io,Nexus Venture Partners
+2405,243,351,dyte,Nexus Venture Partners
+2406,969,351,Druva,Nexus Venture Partners
+2407,230,351,Rapido,Nexus Venture Partners
+2408,1464,351,OneCode,Nexus Venture Partners
+2409,1742,351,Newton School,Nexus Venture Partners
+2410,1838,909,Island,Stripes
+2411,531,909,monday.com,Stripes
+2412,1016,909,Dataiku,Stripes
+2413,722,909,BookMyShow,Stripes
+2414,572,909,Axonius,Stripes
+2415,1936,909,Novo,Stripes
+2416,1513,909,Orca Security,Stripes
+2417,1559,909,fabric,Stripes
+2418,1453,909,Upwork,Stripes
+2419,588,909,Pleo,Stripes
+2420,1850,909,Spectro Cloud,Stripes
+2421,848,1853,Moonfare,Fidelity International Strategic Ventures
+2422,2083,1853,Moneybox,Fidelity International Strategic Ventures
+2423,1779,1352,Nearpod,Storm Ventures
+2424,1845,1352,Sendoso,Storm Ventures
+2425,1779,1194,Nearpod,Miami Angels
+2426,1779,1199,Nearpod,Emerson Collective
+2427,225,1199,Guild Education,Emerson Collective
+2428,1312,1199,Aclima,Emerson Collective
+2429,1511,1160,Lightricks,Goldman Sachs Asset Management
+2430,521,1160,Airtel,Goldman Sachs Asset Management
+2431,240,1160,Heap,Goldman Sachs Asset Management
+2432,78,1160,Data.world,Goldman Sachs Asset Management
+2433,48,1160,Zilch,Goldman Sachs Asset Management
+2434,1787,1160,TemperPack,Goldman Sachs Asset Management
+2435,966,1160,TriplePoint Venture Growth,Goldman Sachs Asset Management
+2436,529,1160,Accel-KKR,Goldman Sachs Asset Management
+2437,1511,387,Lightricks,Viola Ventures
+2438,90,387,Redis,Viola Ventures
+2439,1511,1127,Lightricks,Hanaco Venture Capital
+2440,1342,91,LaunchDarkly,Vertex Ventures
+2441,1666,91,Yotpo,Vertex Ventures
+2442,572,91,Axonius,Vertex Ventures
+2443,725,91,Binance,Vertex Ventures
+2444,417,91,SES,Vertex Ventures
+2445,796,91,Licious,Vertex Ventures
+2446,665,91,Xpressbees,Vertex Ventures
+2447,353,91,Nium,Vertex Ventures
+2448,1652,91,Evisort,Vertex Ventures
+2449,1176,91,DataRails,Vertex Ventures
+2450,1342,997,LaunchDarkly,Alchemist Accelerator
+2451,570,997,MoEngage,Alchemist Accelerator
+2452,429,1467,Leapsome,Creandum
+2453,949,1467,Bolt,Creandum
+2454,588,1467,Pleo,Creandum
+2455,903,1467,Ark Kapital,Creandum
+2456,429,1303,Leapsome,Visionaries Club
+2457,904,26,SafetyCulture,Morpheus Ventures
+2458,1611,1581,OpenWeb,AltaIR Capital
+2459,1142,1581,Squire,AltaIR Capital
+2460,1611,1577,OpenWeb,Samsung NEXT
+2461,115,1577,Zimperium,Samsung NEXT
+2462,319,1577,Prime Trust,Samsung NEXT
+2463,1611,2106,OpenWeb,The New York Times
+2464,531,1534,monday.com,HarbourVest Partners
+2465,711,1534,Wave,HarbourVest Partners
+2466,772,1534,Stax,HarbourVest Partners
+2467,976,1534,Vestar Capital Partners,HarbourVest Partners
+2468,1923,1534,Lucid,HarbourVest Partners
+2469,531,1613,monday.com,Zoom
+2470,1027,1613,Genesys,Zoom
+2471,694,1613,Observe.AI,Zoom
+2472,2002,1613,Theta Lake,Zoom
+2473,806,1215,Optibus,Pitango Venture Capital
+2474,553,1215,D-ID,Pitango Venture Capital
+2475,806,1944,Optibus,New Era Capital Partners
+2476,303,1847,Indiegogo,Draper Associates
+2477,934,1847,Twitch,Draper Associates
+2478,1834,1847,Goldbelly,Draper Associates
+2479,347,1847,Thumbtack,Draper Associates
+2480,1391,1847,Unstoppable Domains,Draper Associates
+2481,1785,1847,Wyre,Draper Associates
+2482,1035,1847,Ledger,Draper Associates
+2483,159,1847,Ripio,Draper Associates
+2484,1770,1847,Zilingo,Draper Associates
+2485,861,1847,Slingshot Aerospace,Draper Associates
+2486,62,1847,Crowdcube,Draper Associates
+2487,541,1847,Forge,Draper Associates
+2488,1039,1847,EquityZen,Draper Associates
+2489,303,1025,Indiegogo,ff Venture Capital
+2490,943,1025,Montonio,ff Venture Capital
+2491,1388,1025,Sure,ff Venture Capital
+2492,1202,2104,LawVu,AirTree Ventures
+2493,1898,2104,Go1,AirTree Ventures
+2494,1102,2104,Zepto,AirTree Ventures
+2495,77,1460,Choco,Atlantic Labs
+2496,779,1421,Builder.ai,WndrCo
+2497,69,1421,Aura,WndrCo
+2498,371,1421,Twingate,WndrCo
+2499,1388,1421,Sure,WndrCo
+2500,779,621,Builder.ai,Jungle Ventures
+2501,1262,621,Livspace,Jungle Ventures
+2502,843,621,Moglix,Jungle Ventures
+2503,812,621,FinAccel,Jungle Ventures
+2504,779,1887,Builder.ai,IFC
+2505,779,1022,Builder.ai,Revo Capital
+2506,653,97,Flutterwave,Mastercard
+2507,1100,97,Airwallex,Mastercard
+2508,1609,97,Deserve,Mastercard
+2509,1575,97,Pine Labs,Mastercard
+2510,835,97,Razorpay,Mastercard
+2511,1203,97,Digital Currency Group,Mastercard
+2512,325,97,Zeta,Mastercard
+2513,653,1852,Flutterwave,LoftyInc Capital Management
+2514,1723,1684,Coda Payments,GIC
+2515,878,1684,Checkout.com,GIC
+2516,362,1684,SambaNova Systems,GIC
+2517,835,1684,Razorpay,GIC
+2518,407,1684,Grafana Labs,GIC
+2519,1951,1684,ChargePoint,GIC
+2520,842,1684,Climeworks,GIC
+2521,651,1684,Yanolja,GIC
+2522,1055,1684,Somatus,GIC
+2523,199,1684,Bandhan Bank,GIC
+2524,702,1684,Refinitiv,GIC
+2525,1723,461,Coda Payments,MDI Ventures
+2526,1042,461,waresix,MDI Ventures
+2527,812,461,FinAccel,MDI Ventures
+2528,353,461,Nium,MDI Ventures
+2529,1723,1562,Coda Payments,Golden Gate
+2530,786,1562,Multiplier,Golden Gate
+2531,1723,820,Coda Payments,Google Launchpad Accelerator
+2532,500,820,QueQ,Google Launchpad Accelerator
+2533,1401,354,Darktrace,Kohlberg Kravis Roberts
+2534,1561,354,GrowSari,Kohlberg Kravis Roberts
+2535,464,354,Starry,Kohlberg Kravis Roberts
+2536,563,354,PropertyGuru Group,Kohlberg Kravis Roberts
+2537,343,354,Policygenius,Kohlberg Kravis Roberts
+2538,986,354,Sonos,Kohlberg Kravis Roberts
+2539,1020,354,Pandora,Kohlberg Kravis Roberts
+2540,483,354,o9 Solutions,Kohlberg Kravis Roberts
+2541,1305,354,KnowBe4,Kohlberg Kravis Roberts
+2542,802,354,GoDaddy,Kohlberg Kravis Roberts
+2543,1749,354,FanDuel,Kohlberg Kravis Roberts
+2544,919,2064,Apna,Maverick Ventures
+2545,1857,2064,Arcus,Maverick Ventures
+2546,632,2064,Wefunder,Maverick Ventures
+2547,553,2064,D-ID,Maverick Ventures
+2548,970,2064,ConcertAI,Maverick Ventures
+2549,919,813,Apna,Owl Ventures
+2550,19,813,Welcome Tech,Owl Ventures
+2551,1886,723,DocuSign,Visa
+2552,1713,723,Solarisbank,Visa
+2553,1474,723,Yahoo,Visa
+2554,1729,723,ChargeAfter,Visa
+2555,1913,723,Cart.com,Visa
+2556,838,314,Esper,Tech Coast Angels
+2557,983,314,Procore,Tech Coast Angels
+2558,1545,314,Green Dot,Tech Coast Angels
+2559,905,314,Mindbody,Tech Coast Angels
+2560,314,314,Tech Coast Angels,Tech Coast Angels
+2561,1427,2088,Alteryx,Toba Capital
+2562,2017,2088,FloQast,Toba Capital
+2563,1771,2088,Trace,Toba Capital
+2564,1750,2088,Conversica,Toba Capital
+2565,1427,1752,Alteryx,Meritech Capital Partners
+2566,358,1752,Filevine,Meritech Capital Partners
+2567,1427,734,Alteryx,ICONIQ Capital
+2568,214,734,Adyen,ICONIQ Capital
+2569,1427,373,Alteryx,Sapphire Ventures
+2570,990,373,Five9,Sapphire Ventures
+2571,886,1337,BlueOcean,Global Venture Capital
+2572,113,168,Beewise,lool Ventures
+2573,1296,168,Home365,lool Ventures
+2574,113,1678,Beewise,Corner Ventures
+2575,83,1678,RiseUp,Corner Ventures
+2576,113,73,Beewise,Fortissimo Capital
+2577,869,234,Automattic,True Ventures
+2578,1033,234,Sherpa,True Ventures
+2579,1038,234,Emitwise,True Ventures
+2580,869,1297,Automattic,Salesforce Ventures
+2581,1048,1297,Demandbase,Salesforce Ventures
+2582,748,1297,Infor,Salesforce Ventures
+2583,584,1297,Akeneo,Salesforce Ventures
+2584,2017,744,FloQast,Wavemaker Partners
+2585,1561,744,GrowSari,Wavemaker Partners
+2586,1770,744,Zilingo,Wavemaker Partners
+2587,905,744,Mindbody,Wavemaker Partners
+2588,289,744,Science,Wavemaker Partners
+2589,182,744,PLDT,Wavemaker Partners
+2590,830,744,500 Startups,Wavemaker Partners
+2591,82,759,Duck Creek Technologies,Dragoneer Investment Group
+2592,1782,759,MercadoLibre,Dragoneer Investment Group
+2593,1148,759,Atlassian,Dragoneer Investment Group
+2594,1348,759,ComboCurve,Dragoneer Investment Group
+2595,1676,759,HackerOne,Dragoneer Investment Group
+2596,730,1697,Carto,Earlybird Venture Capital
+2597,1970,1697,Payhawk,Earlybird Venture Capital
+2598,267,789,Delivery Hero,Altos Ventures
+2599,2099,789,Krafton,Altos Ventures
+2600,1048,789,Demandbase,Altos Ventures
+2601,695,581,CredAvenue,Lightrock
+2602,747,581,Lilium,Lightrock
+2603,1639,581,MediBuddy,Lightrock
+2604,1071,581,Chalo,Lightrock
+2605,1915,581,Vogo,Lightrock
+2606,1754,581,Vivriti Capital,Lightrock
+2607,1919,581,Aye Finance,Lightrock
+2608,695,177,CredAvenue,CRED
+2609,824,1214,Aviatrix,CRV
+2610,837,1214,GupShup,CRV
+2611,184,1214,Northspyre,CRV
+2612,1596,1214,Arena.im,CRV
+2613,1044,1214,Tinybird,CRV
+2614,677,1214,ProtonMail,CRV
+2615,1597,193,Ubisoft,Ontario Teachers' Pension Plan
+2616,1597,1560,Ubisoft,Electronic Arts
+2617,375,54,Swiggy,Meituan
+2618,1114,54,Gojek,Meituan
+2619,375,899,Swiggy,Invesco
+2620,2095,899,Grab,Invesco
+2621,1575,899,Pine Labs,Invesco
+2622,232,899,Capchase,Invesco
+2623,1828,64,Xiaohongshu,GSR Ventures
+2624,1974,64,Osso VR,GSR Ventures
+2625,642,64,Novelship,GSR Ventures
+2626,353,64,Nium,GSR Ventures
+2627,1621,64,PolySign,GSR Ventures
+2628,1938,1217,Satellogic,SoftBank Capital
+2629,911,1217,OneWeb,SoftBank Capital
+2630,1934,1217,Renren,SoftBank Capital
+2631,1474,1217,Yahoo,SoftBank Capital
+2632,127,1217,NetEase,SoftBank Capital
+2633,1938,385,Satellogic,Cantor Fitzgerald
+2634,331,331,Uber,Uber
+2635,926,762,Voyager Innovations,Susquehanna International Group (SIG)
+2636,123,762,Cialfo,Susquehanna International Group (SIG)
+2637,1770,762,Zilingo,Susquehanna International Group (SIG)
+2638,926,182,Voyager Innovations,PLDT
+2639,1690,182,Rocket Internet,PLDT
+2640,1650,737,Voodoo,Tikehau Capital
+2641,1650,1567,Voodoo,SAIF Partners
+2642,680,1567,NoBroker,SAIF Partners
+2643,722,1567,BookMyShow,SAIF Partners
+2644,1726,447,Yintai Group,JD.com
+2645,1800,447,Traveloka,JD.com
+2646,1726,788,Yintai Group,Baidu
+2647,1384,1162,PhonePe,Walmart
+2648,1121,1162,Rakuten,Walmart
+2649,447,1162,JD.com,Walmart
+2650,1196,450,Omnipresent,Episode 1
+2651,1196,352,Omnipresent,Playfair Capital
+2652,668,1769,Riot Games,HAX
+2653,458,1065,Lunar,IDC Ventures
+2654,1063,1065,Taxfyle,IDC Ventures
+2655,458,1721,Lunar,Greyhound Capital
+2656,1121,1371,Rakuten,MVI (MENA Venture Investments)
+2657,1121,532,Rakuten,Japan Post Holdings
+2658,1981,907,GoTo Group,Primavera Capital Group
+2659,1981,322,GoTo Group,Abu Dhabi Investment Authority
+2660,199,322,Bandhan Bank,Abu Dhabi Investment Authority
+2661,1054,322,Citi,Abu Dhabi Investment Authority
+2662,428,894,JD Logistics,K3 Ventures
+2663,642,894,Novelship,K3 Ventures
+2664,1017,894,Tarana Wireless,K3 Ventures
+2665,1031,286,Ola,Warburg Pincus
+2666,1114,286,Gojek,Warburg Pincus
+2667,115,286,Zimperium,Warburg Pincus
+2668,521,286,Airtel,Warburg Pincus
+2669,1187,286,CrowdStrike,Warburg Pincus
+2670,69,286,Aura,Warburg Pincus
+2671,1431,286,Helix,Warburg Pincus
+2672,545,286,WuXi AppTec,Warburg Pincus
+2673,420,286,United Internet Ventures,Warburg Pincus
+2674,520,286,Phil,Warburg Pincus
+2675,1377,286,Eleanor Health,Warburg Pincus
+2676,564,122,Pocket FM,Naver
+2677,938,122,Mirae Asset Global Investments,Naver
+2678,736,122,Carousell,Naver
+2679,793,122,Emtek Group,Naver
+2680,564,1702,Pocket FM,Times Internet
+2681,872,1702,LetsVenture,Times Internet
+2682,256,571,GoStudent,Speedinvest
+2683,1328,571,Wayflyer,Speedinvest
+2684,929,571,Yokoy,Speedinvest
+2685,1835,571,Sona,Speedinvest
+2686,910,571,Khazna,Speedinvest
+2687,288,571,Bitpanda,Speedinvest
+2688,1561,1976,GrowSari,Saison Capital
+2689,768,1802,Practo,Matrix Partners India
+2690,150,1802,Ola Electric,Matrix Partners India
+2691,42,1802,ITILITE,Matrix Partners India
+2692,608,1802,FarMart,Matrix Partners India
+2693,570,1802,MoEngage,Matrix Partners India
+2694,1915,1802,Vogo,Matrix Partners India
+2695,1177,1802,Avail Finance,Matrix Partners India
+2696,747,1909,Lilium,Atomico
+2697,2113,1909,Gympass,Atomico
+2698,948,1909,ChannelEngine,Atomico
+2699,1118,823,Hike,Foxconn Technology Group
+2700,599,823,Snapdeal,Foxconn Technology Group
+2701,941,823,DigiLens,Foxconn Technology Group
+2702,792,1948,Epic Games,Bracket Capital
+2703,780,1948,Thirty Madison,Bracket Capital
+2704,2078,1948,Arcadia,Bracket Capital
+2705,489,1948,Palantir Technologies,Bracket Capital
+2706,1943,1948,Hive,Bracket Capital
+2707,1818,377,Afterpay,Mitsubishi UFJ Financial Group
+2708,1729,377,ChargeAfter,Mitsubishi UFJ Financial Group
+2709,1339,960,Blockstream,AngelList
+2710,1333,960,OPEN,AngelList
+2711,1444,960,Chingari,AngelList
+2712,1742,960,Newton School,AngelList
+2713,1114,2098,Gojek,Meta
+2714,2042,2098,Reliance Jio,Meta
+2715,315,1539,Xerox,Credit Suisse
+2716,1609,1539,Deserve,Credit Suisse
+2717,1583,1539,Brex,Credit Suisse
+2718,877,1539,Dataminr,Credit Suisse
+2719,922,1539,Lighter Capital,Credit Suisse
+2720,1067,1539,FINN,Credit Suisse
+2721,870,2005,The Boeing Company,Citibank
+2722,187,2005,The Walt Disney Company,Citibank
+2723,524,2005,Capital on Tap,Citibank
+2724,870,575,The Boeing Company,Pierce
+2725,870,1558,The Boeing Company,Inc.
+2726,576,1432,Saudi Arabia's Public Investment Fund,HSBC
+2727,1417,1432,ConsenSys,HSBC
+2728,2095,1432,Grab,HSBC
+2729,409,1432,Proxymity,HSBC
+2730,524,1432,Capital on Tap,HSBC
+2731,1782,697,MercadoLibre,PayPal
+2732,1696,879,PPRO,Eldridge
+2733,1647,879,SkyHive,Eldridge
+2734,445,879,SamCart,Eldridge
+2735,1619,879,Viral Nation,Eldridge
+2736,1185,879,CAIS,Eldridge
+2737,1696,292,PPRO,Northleaf Capital Partners
+2738,2028,292,NewSpring,Northleaf Capital Partners
+2739,1739,1971,Bitwise Industries,Western Technology Investment
+2740,594,1971,Veev,Western Technology Investment
+2741,598,1971,Affinity,Western Technology Investment
+2742,1578,1971,Finrise,Western Technology Investment
+2743,81,1971,Canary,Western Technology Investment
+2744,1449,1971,LanzaTech,Western Technology Investment
+2745,1622,1971,ANSYS,Western Technology Investment
+2746,1417,1423,ConsenSys,BNY Mellon
+2747,409,1423,Proxymity,BNY Mellon
+2748,115,1441,Zimperium,Sierra Ventures
+2749,1683,1441,Treasure Data,Sierra Ventures
+2750,496,1441,Clip,Sierra Ventures
+2751,1850,1441,Spectro Cloud,Sierra Ventures
+2752,115,1260,Zimperium,Telstra Ventures
+2753,1124,1260,Auth0,Telstra Ventures
+2754,1746,1260,Near,Telstra Ventures
+2755,1201,1260,Singular,Telstra Ventures
+2756,1683,100,Treasure Data,AME Cloud Ventures
+2757,1613,100,Zoom,AME Cloud Ventures
+2758,1218,100,Zume,AME Cloud Ventures
+2759,1482,100,Birdeye,AME Cloud Ventures
+2760,1590,100,Eat Just,AME Cloud Ventures
+2761,1683,964,Treasure Data,SBI Group
+2762,1979,964,Gojo & Company,SBI Group
+2763,400,964,finleap,SBI Group
+2764,2062,632,ShipBob,Wefunder
+2765,1713,400,Solarisbank,finleap
+2766,1713,915,Solarisbank,Banco Bilbao Vizcaya Argentaria
+2767,1119,915,Porsche,Banco Bilbao Vizcaya Argentaria
+2768,1057,1335,WME,Canada Pension Plan Investment Board
+2769,702,1335,Refinitiv,Canada Pension Plan Investment Board
+2770,549,1335,Sedgwick Claims Management Services,Canada Pension Plan Investment Board
+2771,635,1335,Altice USA,Canada Pension Plan Investment Board
+2772,150,1865,Ola Electric,Alpha Wave Global
+2773,391,1865,OfBusiness,Alpha Wave Global
+2774,503,1865,Oxyzo,Alpha Wave Global
+2775,1966,1865,Classplus,Alpha Wave Global
+2776,1919,1865,Aye Finance,Alpha Wave Global
+2777,1177,1865,Avail Finance,Alpha Wave Global
+2778,75,1865,1K Kirana Bazaar,Alpha Wave Global
+2779,1598,2095,OYO,Grab
+2780,793,2095,Emtek Group,Grab
+2781,911,1110,OneWeb,Airbus
+2782,1153,1238,blinkit,Zomato
+2783,2041,1238,UrbanPiper,Zomato
+2784,170,1238,Shiprocket,Zomato
+2785,444,992,Bambee,Alpha Edison
+2786,1864,992,Kin Insurance,Alpha Edison
+2787,518,1687,ada,Sumitomo Corporation
+2788,891,1060,Bear Robotics,Line
+2789,609,1060,Funding Societies,Line
+2790,891,1223,Bear Robotics,FuturePlay
+2791,891,1780,Bear Robotics,Cleveland Avenue
+2792,1857,1205,Arcus,Musha Ventures
+2793,746,1205,Wasoko,Musha Ventures
+2794,1026,1205,Apollo Agriculture,Musha Ventures
+2795,1480,1205,Yoco,Musha Ventures
+2796,67,488,ZestMoney,PayU
+2797,733,488,Remitly,PayU
+2798,2067,488,Treinta,PayU
+2799,67,137,ZestMoney,Zip
+2800,67,604,ZestMoney,Quona Capital
+2801,746,604,Wasoko,Quona Capital
+2802,1399,604,Rupifi,Quona Capital
+2803,36,604,JULO,Quona Capital
+2804,910,604,Khazna,Quona Capital
+2805,1273,604,IndiaMART,Quona Capital
+2806,378,604,Azimo,Quona Capital
+2807,1480,604,Yoco,Quona Capital
+2808,619,1657,Starling Bank,Qatar Investment Authority
+2809,467,1657,Fluence,Qatar Investment Authority
+2810,619,233,Starling Bank,Millennium Management
+2811,866,85,Unqork,Fin Venture Capital
+2812,1003,85,Figure,Fin Venture Capital
+2813,602,85,Onfido,Fin Venture Capital
+2814,445,85,SamCart,Fin Venture Capital
+2815,312,85,DailyPay,Fin Venture Capital
+2816,866,1365,Unqork,HOF Capital
+2817,1003,1365,Figure,HOF Capital
+2818,1592,1365,SESO,HOF Capital
+2819,1633,1365,tabby,HOF Capital
+2820,1480,1365,Yoco,HOF Capital
+2821,866,1394,Unqork,Broadridge
+2822,901,868,Trulioo,UST
+2823,901,580,Trulioo,Blumberg Capital
+2824,1569,1992,Pensando,Hewlett Packard Enterprise
+2825,2012,1114,Rebel Foods,Gojek
+2826,334,1390,Nasuni,Dell Technologies Capital
+2827,2032,1390,Netskope,Dell Technologies Capital
+2828,1321,1390,Yugabyte,Dell Technologies Capital
+2829,334,1274,Nasuni,Sixth Street
+2830,905,1274,Mindbody,Sixth Street
+2831,970,1274,ConcertAI,Sixth Street
+2832,1509,1274,Amplience,Sixth Street
+2833,57,211,Hopper,Brightspark Ventures
+2834,865,620,Northvolt,Bpifrance
+2835,1557,620,Vestiaire Collective,Bpifrance
+2836,186,620,Doctolib,Bpifrance
+2837,693,620,Dfns,Bpifrance
+2838,1035,620,Ledger,Bpifrance
+2839,1327,620,Bigblue,Bpifrance
+2840,1487,620,Talend,Bpifrance
+2841,1284,620,Deepki,Bpifrance
+2842,865,466,Northvolt,Siemens
+2843,1951,466,ChargePoint,Siemens
+2844,997,466,Alchemist Accelerator,Siemens
+2845,865,304,Northvolt,InnoEnergy
+2846,733,1896,Remitly,Barclays
+2847,312,1896,DailyPay,Barclays
+2848,763,1896,Anthemis Group,Barclays
+2849,679,112,Purplle,Mumbai Angels
+2850,1956,112,Instoried,Mumbai Angels
+2851,679,882,Purplle,Blume Ventures
+2852,818,882,GreyOrange,Blume Ventures
+2853,493,882,LambdaTest,Blume Ventures
+2854,1355,882,Medfin India,Blume Ventures
+2855,1293,882,Euler Motors,Blume Ventures
+2856,1262,1230,Livspace,IKEA
+2857,2034,68,LinkedIn,SAP
+2858,678,68,Icertis,SAP
+2859,997,68,Alchemist Accelerator,SAP
+2860,607,1412,Blockdaemon,Comcast
+2861,607,624,Blockdaemon,Voyager
+2862,625,1147,Beqom,Swisscom Ventures
+2863,929,1147,Yokoy,Swisscom Ventures
+2864,625,1077,Beqom,Sumeru Equity Partners
+2865,1487,1077,Talend,Sumeru Equity Partners
+2866,625,56,Beqom,Golub Capital
+2867,358,56,Filevine,Golub Capital
+2868,947,56,E2open,Golub Capital
+2869,1580,1934,Fundrise,Renren
+2870,1586,1934,Poplar Homes,Renren
+2871,1580,784,Fundrise,Collaborative Fund
+2872,1222,784,Camino Financial,Collaborative Fund
+2873,1580,1813,Fundrise,Guggenheim Partners
+2874,287,1082,ElasticRun,Prosus Ventures
+2875,1328,1082,Wayflyer,Prosus Ventures
+2876,1387,1082,Shipper,Prosus Ventures
+2877,1555,1082,The EVERY Company,Prosus Ventures
+2878,1623,1907,Wagestream,Ascension
+2879,745,1907,Credit Kudos,Ascension
+2880,1623,577,Wagestream,Northzone
+2881,412,577,Spring Health,Northzone
+2882,780,577,Thirty Madison,Northzone
+2883,1605,577,Forto,Northzone
+2884,590,577,fuboTV,Northzone
+2885,745,1069,Credit Kudos,TriplePoint Capital
+2886,2000,1069,NVIDIA,TriplePoint Capital
+2887,1842,2025,Volocopter,Daimler
+2888,949,2025,Bolt,Daimler
+2889,1951,2025,ChargePoint,Daimler
+2890,1146,2025,Turo,Daimler
+2891,361,2025,what3words,Daimler
+2892,839,2025,Careem,Daimler
+2893,1842,817,Volocopter,Intel
+2894,1842,1382,Volocopter,Honeywell
+2895,1842,2105,Volocopter,Continental
+2896,1117,1277,Puppet,Cisco
+2897,1361,1277,StartX (Stanford-StartX Fund),Cisco
+2898,1246,1277,Startupbootcamp,Cisco
+2899,1059,1277,Stellaris Venture Partners,Cisco
+2900,1360,698,Rivian,Amazon
+2901,339,430,Chewy,Volition Capital
+2902,2063,430,Securonix,Volition Capital
+2903,339,862,Chewy,Lone Pine Capital
+2904,851,862,Skims,Lone Pine Capital
+2905,339,1600,Chewy,Verlinvest
+2906,1027,896,Genesys,ServiceNow
+2907,675,896,ThoughtSpot,ServiceNow
+2908,1027,1930,Genesys,Hellman & Friedman
+2909,932,1930,Splunk,Hellman & Friedman
+2910,498,1331,Envestnet,Upfront Ventures
+2911,573,1331,Ring,Upfront Ventures
+2912,672,1331,Strive,Upfront Ventures
+2913,498,1999,Envestnet,Foundation Capital
+2914,1149,1999,Northstar,Foundation Capital
+2915,142,1999,Binance.US,Foundation Capital
+2916,1631,1999,League,Foundation Capital
+2917,1070,1999,Netflix,Foundation Capital
+2918,498,1188,Envestnet,Keystone Capital
+2919,1408,460,Exo,RA Capital Management
+2920,989,460,Natera,RA Capital Management
+2921,1055,460,Somatus,RA Capital Management
+2922,1643,460,Sierra Oncology,RA Capital Management
+2923,1674,460,Bristol Myers Squibb,RA Capital Management
+2924,1408,2084,Exo,TDK Ventures
+2925,1797,2084,Span.IO,TDK Ventures
+2926,1408,1823,Exo,Sony Innovation Fund
+2927,1355,1823,Medfin India,Sony Innovation Fund
+2928,941,1823,DigiLens,Sony Innovation Fund
+2929,667,900,TransUnion,Mangrove Capital Partners
+2930,1269,945,Roofstock,DoorDash
+2931,574,1033,Hello Alice,Sherpa
+2932,1864,216,Kin Insurance,Commerce Ventures
+2933,2067,216,Treinta,Commerce Ventures
+2934,319,216,Prime Trust,Commerce Ventures
+2935,712,216,Card91,Commerce Ventures
+2936,1864,80,Kin Insurance,Flourish Ventures
+2937,43,80,Alloy,Flourish Ventures
+2938,1026,80,Apollo Agriculture,Flourish Ventures
+2939,401,80,MyShubhLife,Flourish Ventures
+2940,1411,80,Dolado,Flourish Ventures
+2941,2094,80,Lendable,Flourish Ventures
+2942,1970,421,Payhawk,Greenoaks Capital
+2943,291,421,Studio,Greenoaks Capital
+2944,1717,404,Financepeer,9Unicorns Accelerator Fund
+2945,40,404,Vedantu,9Unicorns Accelerator Fund
+2946,1972,404,GOQii,9Unicorns Accelerator Fund
+2947,1574,404,Vested Finance,9Unicorns Accelerator Fund
+2948,1822,404,ReshaMandi,9Unicorns Accelerator Fund
+2949,1956,404,Instoried,9Unicorns Accelerator Fund
+2950,659,404,BluSmart Mobility,9Unicorns Accelerator Fund
+2951,1717,2091,Financepeer,Aavishkaar Venture Capital
+2952,1514,2091,AgroStar,Aavishkaar Venture Capital
+2953,2037,62,FIDEL API,Crowdcube
+2954,505,62,Miso Robotics,Crowdcube
+2955,62,62,Crowdcube,Crowdcube
+2956,1524,62,Nothing,Crowdcube
+2957,361,62,what3words,Crowdcube
+2958,2037,1744,FIDEL API,Nyca Partners
+2959,101,1744,Nova Credit,Nyca Partners
+2960,1811,1744,Canopy,Nyca Partners
+2961,731,1389,Goodlord,Highland Europe
+2962,1284,1389,Deepki,Highland Europe
+2963,412,423,Spring Health,Operator Partners
+2964,1414,423,Avi Medical,Operator Partners
+2965,412,368,Spring Health,AlleyCorp
+2966,1605,1372,Forto,Cherry Ventures
+2967,2001,1372,Mondu,Cherry Ventures
+2968,1605,164,Forto,Disruptive
+2969,590,1846,fuboTV,I2BF Global Ventures
+2970,717,2112,Xendit,East Ventures
+2971,1800,2112,Traveloka,East Ventures
+2972,36,2112,JULO,East Ventures
+2973,642,2112,Novelship,East Ventures
+2974,717,342,Xendit,Goat Capital
+2975,934,1224,Twitch,SV Angel
+2976,1463,1224,HackerRank,SV Angel
+2977,413,1224,Heavybit,SV Angel
+2978,1386,1224,Skiff,SV Angel
+2979,1875,1224,Hugging Face,SV Angel
+2980,1354,1224,Forward,SV Angel
+2981,1220,1224,Drata,SV Angel
+2982,2015,1224,Elastic,SV Angel
+2983,2067,1911,Treinta,Outbound Ventures
+2984,223,1911,Maude,Outbound Ventures
+2985,1142,1588,Squire,SB Opportunity Fund
+2986,921,1588,Subject,SB Opportunity Fund
+2987,19,1588,Welcome Tech,SB Opportunity Fund
+2988,196,1167,ShearShare,Precursor Ventures
+2989,2055,1167,Fuzzy,Precursor Ventures
+2990,1407,1167,Juniper Square,Precursor Ventures
+2991,16,1167,Encantos,Precursor Ventures
+2992,196,703,ShearShare,Capital Factory
+2993,958,703,Diligent Robotics,Capital Factory
+2994,1595,684,Truora,Propel Venture Partners
+2995,1729,684,ChargeAfter,Propel Venture Partners
+2996,2016,1945,Skill Lync,Better Capital
+2997,129,1945,Last9,Better Capital
+2998,2016,1479,Skill Lync,Iron Pillar
+2999,1000,871,Stilt,Streamlined Ventures
+3000,541,871,Forge,Streamlined Ventures
+3001,596,871,Umba,Streamlined Ventures
+3002,624,871,Voyager,Streamlined Ventures
+3003,1000,1172,Stilt,Bragiel Brothers
+3004,1387,640,Shipper,Insignia Ventures Partners
+3005,1994,640,Ajaib,Insignia Ventures Partners
+3006,811,1959,Thrive Agric,Ventures Platform
+3007,811,864,Thrive Agric,West Africa Trade Hub
+3008,1424,1894,Volopay,Winklevoss Capital
+3009,1532,1894,Hydrow,Winklevoss Capital
+3010,601,1894,Gemini,Winklevoss Capital
+3011,454,1894,Ethereum Foundation,Winklevoss Capital
+3012,1424,1216,Volopay,Access Ventures
+3013,1463,1064,HackerRank,Susquehanna Growth Equity
+3014,431,276,Gotrade,BEENEXT
+3015,680,276,NoBroker,BEENEXT
+3016,1516,276,Trell,BEENEXT
+3017,327,276,mfine,BEENEXT
+3018,962,276,Skuad,BEENEXT
+3019,401,276,MyShubhLife,BEENEXT
+3020,431,2066,Gotrade,Raptor Group
+3021,1532,2066,Hydrow,Raptor Group
+3022,431,662,Gotrade,Soma Capital
+3023,1211,662,Paragon,Soma Capital
+3024,1995,662,Fasset,Soma Capital
+3025,240,1057,Heap,WME
+3026,223,1057,Maude,WME
+3027,2085,1106,Raptor Maps,DNV GL
+3028,2085,242,Raptor Maps,Struck Capital
+3029,2085,826,Raptor Maps,Microsoft Climate Innovation Fund
+3030,1312,826,Aclima,Microsoft Climate Innovation Fund
+3031,87,912,Podium,Institutional Venture Partners
+3032,1187,912,CrowdStrike,Institutional Venture Partners
+3033,1364,912,G2,Institutional Venture Partners
+3034,1180,912,Datadog,Institutional Venture Partners
+3035,905,912,Mindbody,Institutional Venture Partners
+3036,1092,912,CircleCI,Institutional Venture Partners
+3037,1070,912,Netflix,Institutional Venture Partners
+3038,2071,1093,Mesh,Surge
+3039,243,1093,dyte,Surge
+3040,786,1093,Multiplier,Surge
+3041,1966,1093,Classplus,Surge
+3042,1516,1093,Trell,Surge
+3043,493,1093,LambdaTest,Surge
+3044,129,1093,Last9,Surge
+3045,1464,1093,OneCode,Surge
+3046,2071,1252,Mesh,Y Combinator Continuity Fund
+3047,1566,1198,Convoy,Hercules Capital
+3048,969,1198,Druva,Hercules Capital
+3049,1583,1492,Brex,Base10 Partners
+3050,1794,1492,Cottage,Base10 Partners
+3051,499,1440,Biobot Analytics,Dorm Room Fund
+3052,270,1246,Credpal,Startupbootcamp
+3053,270,1910,Credpal,VC4A
+3054,1347,130,Algolia,Twilio
+3055,167,847,Apollo.io,Sand Hill Angels
+3056,2055,847,Fuzzy,Sand Hill Angels
+3057,312,847,DailyPay,Sand Hill Angels
+3058,1815,847,Sweetgreen,Sand Hill Angels
+3059,355,847,2TM,Sand Hill Angels
+3060,167,1268,Apollo.io,Tribe Capital
+3061,2057,1268,Republic,Tribe Capital
+3062,376,1268,Kraken,Tribe Capital
+3063,170,1268,Shiprocket,Tribe Capital
+3064,633,1268,FTX US,Tribe Capital
+3065,355,1268,2TM,Tribe Capital
+3066,1329,1268,Pipe,Tribe Capital
+3067,550,953,54gene,Hack VC
+3068,1936,953,Novo,Hack VC
+3069,1845,953,Sendoso,Hack VC
+3070,1978,953,Boba Network,Hack VC
+3071,1624,953,Wintermute Trading,Hack VC
+3072,1373,513,Gem,ICONIQ Growth
+3073,2032,513,Netskope,ICONIQ Growth
+3074,1220,513,Drata,ICONIQ Growth
+3075,1513,513,Orca Security,ICONIQ Growth
+3076,2022,513,Panther Labs,ICONIQ Growth
+3077,553,1095,D-ID,AXA Venture Partners
+3078,1634,1095,Tive,AXA Venture Partners
+3079,1502,1095,SecurityScorecard,AXA Venture Partners
+3080,343,1095,Policygenius,AXA Venture Partners
+3081,553,374,D-ID,OurCrowd
+3082,1849,374,JumpCloud,OurCrowd
+3083,1746,374,Near,OurCrowd
+3084,78,374,Data.world,OurCrowd
+3085,711,374,Wave,OurCrowd
+3086,1385,374,Future Family,OurCrowd
+3087,1994,1844,Ajaib,Alpha JWC Ventures
+3088,609,1844,Funding Societies,Alpha JWC Ventures
+3089,456,1844,Sayurbox,Alpha JWC Ventures
+3090,1238,1422,Zomato,Info Edge
+3091,2041,375,UrbanPiper,Swiggy
+3092,230,375,Rapido,Swiggy
+3093,2041,1703,UrbanPiper,Axilor Ventures
+3094,473,1703,Wiz Freight,Axilor Ventures
+3095,1822,1703,ReshaMandi,Axilor Ventures
+3096,1355,1703,Medfin India,Axilor Ventures
+3097,845,1703,EnKash,Axilor Ventures
+3098,2087,8,Yandex,Almaz Capital
+3099,2087,1126,Yandex,RTP Global
+3100,2087,699,Yandex,Baring Vostok Capital Partners
+3101,1477,1808,SoftBank,Samsung Electronics
+3102,1568,1808,Yuga Labs,Samsung Electronics
+3103,941,1808,DigiLens,Samsung Electronics
+3104,1042,793,waresix,Emtek Group
+3105,563,793,PropertyGuru Group,Emtek Group
+3106,204,2069,ServiceTitan,Thoma Bravo
+3107,1370,2069,K2,Thoma Bravo
+3108,2093,244,Socure,Two Sigma Ventures
+3109,1502,244,SecurityScorecard,Two Sigma Ventures
+3110,81,244,Canary,Two Sigma Ventures
+3111,40,895,Vedantu,TAL Education Group
+3112,464,1541,Starry,IAC
+3113,1556,1541,Tinder,IAC
+3114,464,1234,Starry,Lauder Partners
+3115,473,2096,Wiz Freight,Alteria Capital
+3116,1639,2096,MediBuddy,Alteria Capital
+3117,1822,2096,ReshaMandi,Alteria Capital
+3118,327,2096,mfine,Alteria Capital
+3119,1177,2096,Avail Finance,Alteria Capital
+3120,1475,1241,Wheel,Tusk Venture Partners
+3121,1749,1241,FanDuel,Tusk Venture Partners
+3122,1306,1383,Upstox,GVK Davix Technologies
+3123,1105,616,NEAR Protocol,Amber Group
+3124,248,616,Mina,Amber Group
+3125,1181,616,RockX,Amber Group
+3126,1105,390,NEAR Protocol,ParaFi Capital
+3127,738,390,Rarible,ParaFi Capital
+3128,1993,390,OXIO,ParaFi Capital
+3129,1314,390,Aave,ParaFi Capital
+3130,601,390,Gemini,ParaFi Capital
+3131,1399,1282,Rupifi,Google for Startups
+3132,364,1282,PhableCare,Google for Startups
+3133,1333,1501,OPEN,3one4 Capital
+3134,796,1501,Licious,3one4 Capital
+3135,786,98,Multiplier,Picus Capital
+3136,1414,98,Avi Medical,Picus Capital
+3137,1067,98,FINN,Picus Capital
+3138,1903,98,Habyt,Picus Capital
+3139,818,45,GreyOrange,InnoVen Capital
+3140,1443,45,Ather Energy,InnoVen Capital
+3141,1514,45,AgroStar,InnoVen Capital
+3142,1639,45,MediBuddy,InnoVen Capital
+3143,818,1462,GreyOrange,Mithril Capital Management
+3144,254,1462,Glance,Mithril Capital Management
+3145,1947,165,Infra.Market,Navi Technologies
+3146,264,165,Bounce,Navi Technologies
+3147,1947,695,Infra.Market,CredAvenue
+3148,1046,1062,Money View,South Park Commons
+3149,92,1062,Forethought,South Park Commons
+3150,335,1476,Revolut,Seedrs
+3151,998,1637,Ignition,Real Ventures
+3152,1631,1637,League,Real Ventures
+3153,998,1442,Ignition,CIBC
+3154,1750,1442,Conversica,CIBC
+3155,958,1576,Diligent Robotics,Next Coast Ventures
+3156,1443,403,Ather Energy,HeroMotoCorp Ltd
+3157,1514,403,AgroStar,HeroMotoCorp Ltd
+3158,1602,1757,Cogoport,DST Global
+3159,288,1757,Bitpanda,DST Global
+3160,1925,1757,Tomo,DST Global
+3161,2078,1021,Arcadia,City Light Capital
+3162,1686,1021,Brightline,City Light Capital
+3163,123,1283,Cialfo,Alto Partners Multi-Family Office
+3164,962,1283,Skuad,Alto Partners Multi-Family Office
+3165,492,1283,Snapchat,Alto Partners Multi-Family Office
+3166,123,946,Cialfo,January Capital
+3167,20,1039,Glassdoor,EquityZen
+3168,986,1039,Sonos,EquityZen
+3169,709,1039,Zscaler,EquityZen
+3170,718,1039,Adaptive Biotechnologies,EquityZen
+3171,925,1927,BlockFi,SoFi
+3172,1659,1927,Partake Foods,SoFi
+3173,1510,379,Stanza Living,RBL Bank
+3174,484,2026,Xero,Valar Ventures
+3175,128,2026,Simpl,Valar Ventures
+3176,288,2026,Bitpanda,Valar Ventures
+3177,1447,2026,Shares,Valar Ventures
+3178,484,2110,Xero,Matrix Capital Management
+3179,1008,1587,Vectra,IA Ventures
+3180,413,1587,Heavybit,IA Ventures
+3181,1554,1587,Techstars,IA Ventures
+3182,128,1587,Simpl,IA Ventures
+3183,1008,2056,Vectra,Juniper Networks
+3184,997,2056,Alchemist Accelerator,Juniper Networks
+3185,424,1935,trica,Secocha Ventures
+3186,872,396,LetsVenture,Chiratae Ventures
+3187,1506,396,Uniphore,Chiratae Ventures
+3188,443,396,Kristal.AI,Chiratae Ventures
+3189,1934,307,Renren,Legend Capital
+3190,1148,1461,Atlassian,ESO Fund
+3191,186,514,Doctolib,Kerala Ventures
+3192,1514,776,AgroStar,CDC Group
+3193,379,776,RBL Bank,CDC Group
+3194,1155,776,Medikabazaar,CDC Group
+3195,1364,2034,G2,LinkedIn
+3196,1364,1006,G2,Chicago Ventures
+3197,1410,323,Birchbox,Brand Foundry Ventures
+3198,1771,323,Trace,Brand Foundry Ventures
+3199,1410,1616,Birchbox,Forerunner Ventures
+3200,771,1616,Cleo,Forerunner Ventures
+3201,291,1616,Studio,Forerunner Ventures
+3202,1916,834,Amagi Media Labs,Mayfield Fund
+3203,1200,834,Couchbase,Mayfield Fund
+3204,845,834,EnKash,Mayfield Fund
+3205,796,834,Licious,Mayfield Fund
+3206,1192,834,Tonal,Mayfield Fund
+3207,1578,834,Finrise,Mayfield Fund
+3208,192,834,Prime Venture Partners,Mayfield Fund
+3209,2030,834,Edison,Mayfield Fund
+3210,1593,880,Cloudera,In-Q-Tel
+3211,489,880,Palantir Technologies,In-Q-Tel
+3212,366,880,Lilt,In-Q-Tel
+3213,1200,1088,Couchbase,North Bridge Venture Partners & Growth Equity
+3214,1923,1088,Lucid,North Bridge Venture Partners & Growth Equity
+3215,1200,1824,Couchbase,Adams Street Partners
+3216,106,1824,Iterable,Adams Street Partners
+3217,990,1824,Five9,Adams Street Partners
+3218,1107,582,FRVR,Makers Fund
+3219,741,582,WinZO,Makers Fund
+3220,1107,1208,FRVR,Hiro Capital
+3221,1161,1498,Amplify.LA,Baroda Ventures
+3222,1161,1573,Amplify.LA,Deep Fork Capital
+3223,1161,1601,Amplify.LA,Karlin Ventures
+3224,36,1537,JULO,Gobi Partners
+3225,36,463,JULO,Skystar Capital
+3226,36,99,JULO,Credit Saison
+3227,1979,99,Gojo & Company,Credit Saison
+3228,642,2065,Novelship,iGlobe Partners
+3229,1554,794,Techstars,Foundry Group
+3230,972,794,Knock,Foundry Group
+3231,726,794,Quiq,Foundry Group
+3232,551,794,Pantheon,Foundry Group
+3233,1849,794,JumpCloud,Foundry Group
+3234,1554,294,Techstars,Mercury
+3235,223,510,Maude,True.
+3236,223,1788,Maude,CASSIUS Family
+3237,627,589,Lightning Labs,NYDIG
+3238,1821,2039,BitPay,SeedInvest
+3239,505,2039,Miso Robotics,SeedInvest
+3240,692,2039,Firefly Aerospace,SeedInvest
+3241,2116,2116,Arca,Arca
+3242,1228,2116,Galaxy Digital,Arca
+3243,726,2009,Quiq,Baird Capital
+3244,726,2052,Quiq,NEXT Frontier Capital
+3245,726,781,Quiq,Teamworthy Ventures
+3246,128,2053,Simpl,Green Visor Capital
+3247,999,380,StartEngine,Meyer Global Management
+3248,505,380,Miso Robotics,Meyer Global Management
+3249,999,892,StartEngine,BAM Ventures
+3250,206,1499,Verizon,American Rescue Plan
+3251,1412,1499,Comcast,American Rescue Plan
+3252,206,1940,Verizon,NYSERDA
+3253,874,1940,Applied Materials,NYSERDA
+3254,1106,1940,DNV GL,NYSERDA
+3255,22,1940,General Motors,NYSERDA
+3256,206,1115,Verizon,ATN International
+3257,1412,96,Comcast,Trian Fund Management
+3258,22,6,General Motors,Fannie Mae
+3259,2023,725,Terra,Binance
+3260,2057,725,Republic,Binance
+3261,1324,873,Polygon,Celsius Network
+3262,1324,1650,Polygon,Voodoo
+3263,1972,1320,GOQii,Venture Catalysts
+3264,1574,1320,Vested Finance,Venture Catalysts
+3265,1822,1320,ReshaMandi,Venture Catalysts
+3266,1956,1320,Instoried,Venture Catalysts
+3267,659,1320,BluSmart Mobility,Venture Catalysts
+3268,1972,1265,GOQii,BlackSoil
+3269,659,1265,BluSmart Mobility,BlackSoil
+3270,383,269,Figment,Ava Labs
+3271,592,269,Securitize,Ava Labs
+3272,383,355,Figment,2TM
+3273,251,355,Abra,2TM
+3274,1213,355,TC - TradersClub,2TM
+3275,383,402,Figment,Anchorage
+3276,1444,376,Chingari,Kraken
+3277,1785,376,Wyre,Kraken
+3278,319,376,Prime Trust,Kraken
+3279,1444,1009,Chingari,Protocol Labs
+3280,1391,1009,Unstoppable Domains,Protocol Labs
+3281,1807,1009,Functionland,Protocol Labs
+3282,1444,647,Chingari,White Star Capital
+3283,693,647,Dfns,White Star Capital
+3284,1851,647,The Family,White Star Capital
+3285,289,647,Science,White Star Capital
+3286,1067,647,FINN,White Star Capital
+3287,143,647,Dialogue,White Star Capital
+3288,201,443,Stockal,Kristal.AI
+3289,201,1904,Stockal,HDFC Bank
+3290,199,1904,Bandhan Bank,HDFC Bank
+3291,201,424,Stockal,trica
+3292,201,931,Stockal,Cadenza Capital Management
+3293,425,1519,Yield Guild Games Southeast Asia,LongHash Ventures
+3294,425,11,Yield Guild Games Southeast Asia,Yield Guild Games
+3295,501,715,Unbound Finance,LedgerPrime
+3296,93,715,bitsCrunch,LedgerPrime
+3297,501,1488,Unbound Finance,LD Capital
+3298,1914,1488,CoinList,LD Capital
+3299,15,370,GuildFi,DeFiance Capital
+3300,810,1417,Axie Infinity,ConsenSys
+3301,2097,1417,Community Gaming,ConsenSys
+3302,1084,1417,StarkWare Industries,ConsenSys
+3303,693,178,Dfns,Coinbase
+3304,1568,178,Yuga Labs,Coinbase
+3305,693,383,Dfns,Figment
+3306,1084,454,StarkWare Industries,Ethereum Foundation
+3307,1914,27,CoinList,Electric Capital
+3308,645,27,Magic Eden,Electric Capital
+3309,2057,1589,Republic,Ceras Ventures
+3310,1995,1589,Fasset,Ceras Ventures
+3311,592,1827,Securitize,Ripple
+3312,353,1827,Nium,Ripple
+3313,1418,1827,Coil,Ripple
+3314,592,159,Securitize,Ripio
+3315,738,348,Rarible,1kx
+3316,1785,1549,Wyre,Stellar Development Foundation
+3317,251,1549,Abra,Stellar Development Foundation
+3318,1035,2074,Ledger,Uphold
+3319,1993,1397,OXIO,FinTech Collective
+3320,1454,1397,Octane,FinTech Collective
+3321,2001,1397,Mondu,FinTech Collective
+3322,1993,777,OXIO,Multicoin Capital
+3323,376,153,Kraken,Hummingbird Ventures
+3324,1851,153,The Family,Hummingbird Ventures
+3325,376,1542,Kraken,BnkToTheFuture
+3326,696,478,Decentraland,Fabric Ventures
+3327,696,798,Decentraland,Fundamental Labs
+3328,725,798,Binance,Fundamental Labs
+3329,1932,798,Chainlink,Fundamental Labs
+3330,1098,220,Blockchain.com,LG Group
+3331,562,220,Grover,LG Group
+3332,1314,231,Aave,Framework Ventures
+3333,1314,173,Aave,Three Arrows Capital
+3334,1314,1066,Aave,Standard Crypto
+3335,62,558,Crowdcube,Balderton Capital
+3336,929,558,Yokoy,Balderton Capital
+3337,849,558,Credit Benchmark,Balderton Capital
+3338,1151,558,Sweep,Balderton Capital
+3339,1487,558,Talend,Balderton Capital
+3340,1083,558,Seedcamp,Balderton Capital
+3341,1414,558,Avi Medical,Balderton Capital
+3342,1376,558,Coronet,Balderton Capital
+3343,62,1675,Crowdcube,Molten Ventures
+3344,399,1675,Material Exchange,Molten Ventures
+3345,1697,1675,Earlybird Venture Capital,Molten Ventures
+3346,62,1030,Crowdcube,Circle
+3347,541,394,Forge,Deutsche Borse
+3348,541,395,Forge,Panorama Point Partners
+3349,1039,1832,EquityZen,Kima Ventures
+3350,584,1832,Akeneo,Kima Ventures
+3351,1039,1778,EquityZen,CRCM Ventures
+3352,1039,1839,EquityZen,Amino Capital
+3353,2070,1612,Corning,Biomedical Advanced Research and Development Authority (BARDA)
+3354,527,1699,Streamlit,Bloomberg Beta
+3355,2100,991,Snowflake,Wing Venture Capital
+3356,310,991,Obsidian Security,Wing Venture Capital
+3357,2100,0,Snowflake,Capital One
+3358,2000,1698,NVIDIA,DARPA
+3359,1546,1698,ForAllSecure,DARPA
+3360,2114,281,Nazara Technologies,ESL Gaming
+3361,989,1831,Natera,National Institutes of Health
+3362,1431,1831,Helix,National Institutes of Health
+3363,1368,1831,Mayo Clinic,National Institutes of Health
+3364,555,639,Insider,Wamda Capital
+3365,493,639,LambdaTest,Wamda Capital
+3366,839,639,Careem,Wamda Capital
+3367,1689,1676,Remote,HackerOne
+3368,1954,1049,Apple,Berkshire Hathaway
+3369,1138,1049,HP,Berkshire Hathaway
+3370,634,1049,Kroger,Berkshire Hathaway
+3371,1237,1049,Aon plc,Berkshire Hathaway
+3372,226,1474,Google,Yahoo
+3373,252,241,DataStax,Crosslink Capital
+3374,1020,241,Pandora,Crosslink Capital
+3375,1452,241,Coupa Software,Crosslink Capital
+3376,520,241,Phil,Crosslink Capital
+3377,725,1547,Binance,Vertex Ventures Southeast Asia & India
+3378,949,942,Bolt,Startup Wise Guys
+3379,943,942,Montonio,Startup Wise Guys
+3380,949,1957,Bolt,Didi
+3381,839,1957,Careem,Didi
+3382,415,638,GirnarSoft,Trifecta Capital Advisors
+3383,1071,638,Chalo,Trifecta Capital Advisors
+3384,105,638,MobiKwik,Trifecta Capital Advisors
+3385,415,1843,GirnarSoft,Tybourne Capital Management
+3386,1560,272,Electronic Arts,Sevin Rosen Funds
+3387,254,2042,Glance,Reliance Jio
+3388,1688,441,AOL,Comcast Ventures
+3389,1991,441,Selector,Comcast Ventures
+3390,1222,441,Camino Financial,Comcast Ventures
+3391,563,1892,PropertyGuru Group,REA Group
+3392,1248,235,Anaplan,Sands Capital Ventures
+3393,1419,235,Globalization Partners,Sands Capital Ventures
+3394,1248,742,Anaplan,Workday
+3395,842,1011,Climeworks,Partners Group
+3396,416,1011,Layr,Partners Group
+3397,1979,357,Gojo & Company,SBI Investment
+3398,327,357,mfine,SBI Investment
+3399,1979,2082,Gojo & Company,ANRI
+3400,184,213,Northspyre,Tamarisc Ventures
+3401,629,1428,Route,Goldcrest Capital
+3402,1112,1428,Vontive,Goldcrest Capital
+3403,629,290,Route,Pattern
+3404,1596,797,Arena.im,Incubate Fund
+3405,993,797,PlaceHolder,Incubate Fund
+3406,921,1877,Subject,Hannah Grey
+3407,225,1646,Guild Education,Rethink Education
+3408,1859,1646,Crehana,Rethink Education
+3409,1169,320,Optimal Dynamics,Fusion Fund
+3410,1169,885,Optimal Dynamics,The Westly Group
+3411,1169,30,Optimal Dynamics,Newark Venture Partners
+3412,1169,1336,Optimal Dynamics,Embark Ventures
+3413,1639,246,MediBuddy,Rebright Partners
+3414,1155,246,Medikabazaar,Rebright Partners
+3415,1124,1755,Auth0,DTCP
+3416,1017,1755,Tarana Wireless,DTCP
+3417,1124,533,Auth0,Trinity Ventures
+3418,1482,533,Birdeye,Trinity Ventures
+3419,980,1001,Electric,01 Advisors
+3420,1986,1001,Origin,01 Advisors
+3421,980,1718,Electric,Slack
+3422,1402,1255,Good Technology,McAfee
+3423,1875,1836,Hugging Face,Addition
+3424,1523,1836,Fast,Addition
+3425,1414,1836,Avi Medical,Addition
+3426,1220,1654,Drata,Alkeon Capital
+3427,1321,1654,Yugabyte,Alkeon Capital
+3428,68,1375,SAP,Elliott Management
+3429,1928,1375,Wipro Technologies,Elliott Management
+3430,68,210,SAP,EASME - EU Executive Agency for SMEs
+3431,970,1724,ConcertAI,Declaration Partners
+3432,1388,1724,Sure,Declaration Partners
+3433,970,1748,ConcertAI,AllianceBernstein
+3434,970,1759,ConcertAI,SymphonyAI
+3435,857,1571,Paysend,One Peak Partners
+3436,1284,1571,Deepki,One Peak Partners
+3437,857,1682,Paysend,InfraVia Capital Partners
+3438,200,39,NODAR,Rhapsody Venture Partners
+3439,602,308,Onfido,Augmentum Fintech
+3440,562,308,Grover,Augmentum Fintech
+3441,390,308,ParaFi Capital,Augmentum Fintech
+3442,1078,727,EvolutionIQ,First Round Capital
+3443,573,727,Ring,First Round Capital
+3444,1078,549,EvolutionIQ,Sedgwick Claims Management Services
+3445,1327,1538,Bigblue,Runa Capital
+3446,1327,2073,Bigblue,LVP
+3447,1574,565,Vested Finance,Inflection Point Ventures
+3448,712,565,Card91,Inflection Point Ventures
+3449,364,565,PhableCare,Inflection Point Ventures
+3450,659,565,BluSmart Mobility,Inflection Point Ventures
+3451,2011,1170,Upsie,Village Capital
+3452,910,1170,Khazna,Village Capital
+3453,1647,1170,SkyHive,Village Capital
+3454,1648,1170,IUNU,Village Capital
+3455,681,1170,Global Data Consortium,Village Capital
+3456,1503,1655,TradeLanes,S2G Ventures
+3457,1648,1655,IUNU,S2G Ventures
+3458,1503,515,TradeLanes,Bread and Butter Ventures (fka The Syndicate Fund)
+3459,1503,1521,TradeLanes,Closed Loop Partners
+3460,1503,2,TradeLanes,Innova Memphis
+3461,1014,311,Pixxel,Creative Destruction Lab (CDL)
+3462,1014,504,Pixxel,Seraphim Capital
+3463,560,1851,Preply,The Family
+3464,560,819,Preply,Hoxton Ventures
+3465,560,795,Preply,All Iron Ventures
+3466,828,1190,Nautilus Labs,SYSTEMIQ
+3467,828,1692,Nautilus Labs,Quiet Capital
+3468,828,1761,Nautilus Labs,TMV
+3469,705,653,Dapio,Flutterwave
+3470,1207,389,EnrichHER,Lighthouse Labs RVA
+3471,1207,519,EnrichHER,Fearless Fund
+3472,1207,952,EnrichHER,Techstars Anywhere Accelerator
+3473,522,1171,Gig Wage,Revolution
+3474,1923,1171,Lucid,Revolution
+3475,1815,1171,Sweetgreen,Revolution
+3476,1787,1171,TemperPack,Revolution
+3477,522,1545,Gig Wage,Green Dot
+3478,1797,1885,Span.IO,FootPrint Coalition
+3479,1630,1885,Turntide Technologies,FootPrint Coalition
+3480,1630,408,Turntide Technologies,Breakthrough Energy Ventures
+3481,1630,605,Turntide Technologies,BMW i Ventures
+3482,594,1398,Veev,Zeev Ventures
+3483,1176,1398,DataRails,Zeev Ventures
+3484,509,968,Notarize,Realogy Holdings
+3485,509,1872,Notarize,Lennar Corporation
+3486,1794,1259,Cottage,DivcoWest
+3487,183,1551,Shadowfax,Eight Roads Ventures
+3488,678,1551,Icertis,Eight Roads Ventures
+3489,1946,1551,OTA Insight,Eight Roads Ventures
+3490,570,1551,MoEngage,Eight Roads Ventures
+3491,44,1551,Doceree,Eight Roads Ventures
+3492,1291,1551,Amenitiz,Eight Roads Ventures
+3493,2063,1551,Securonix,Eight Roads Ventures
+3494,346,1551,Toothsi,Eight Roads Ventures
+3495,545,1551,WuXi AppTec,Eight Roads Ventures
+3496,2083,1551,Moneybox,Eight Roads Ventures
+3497,814,1551,Northern Arc,Eight Roads Ventures
+3498,611,1551,Noogata,Eight Roads Ventures
+3499,525,1281,AiFi,Zabka Polska
+3500,1635,437,Celona,Cervin
+3501,708,437,EdCast,Cervin
+3502,343,583,Policygenius,Global Atlantic
+3503,1071,1905,Chalo,Raine Ventures
+3504,316,1905,Perlego,Raine Ventures
+3505,2055,1393,Fuzzy,Eniac Ventures
+3506,1943,1393,Hive,Eniac Ventures
+3507,520,1393,Phil,Eniac Ventures
+3508,1901,1019,Apartment List,Janus Henderson Investors
+3509,209,1019,IntelyCare,Janus Henderson Investors
+3510,1901,104,Apartment List,Canaan Partners
+3511,1746,104,Near,Canaan Partners
+3512,1137,104,Cuyana,Canaan Partners
+3513,1901,1236,Apartment List,Nimble Ventures
+3514,1901,881,Apartment List,Industry Ventures
+3515,453,610,Whatfix,F-Prime Capital
+3516,1638,610,Embark,F-Prime Capital
+3517,1946,610,OTA Insight,F-Prime Capital
+3518,570,610,MoEngage,F-Prime Capital
+3519,44,610,Doceree,F-Prime Capital
+3520,453,1059,Whatfix,Stellaris Venture Partners
+3521,2090,1059,Mamaearth,Stellaris Venture Partners
+3522,1915,1059,Vogo,Stellaris Venture Partners
+3523,327,1059,mfine,Stellaris Venture Partners
+3524,121,1323,Qure AI,MassMutual Ventures
+3525,105,1656,MobiKwik,NET1 UEPS Technologies Inc.
+3526,105,995,MobiKwik,American Express Ventures
+3527,908,995,Extend,American Express Ventures
+3528,1746,944,Near,Global Brain Corporation
+3529,456,944,Sayurbox,Global Brain Corporation
+3530,993,944,PlaceHolder,Global Brain Corporation
+3531,2090,557,Mamaearth,Sofina
+3532,1465,557,Typeform,Sofina
+3533,2090,1632,Mamaearth,Fireside Ventures
+3534,2036,481,Digit Insurance,Fairfax Financial Holdings
+3535,1668,481,Blackberry,Fairfax Financial Holdings
+3536,1768,1854,Emeritus,CPP Investments
+3537,170,835,Shiprocket,Razorpay
+3538,106,1565,Iterable,645 Ventures
+3539,2022,1565,Panther Labs,645 Ventures
+3540,608,391,FarMart,OfBusiness
+3541,23,391,UpScalio,OfBusiness
+3542,608,872,FarMart,LetsVenture
+3543,364,872,PhableCare,LetsVenture
+3544,659,872,BluSmart Mobility,LetsVenture
+3545,1164,669,Blavity,MaC Venture Capital
+3546,27,669,Electric Capital,MaC Venture Capital
+3547,1164,135,Blavity,Harlem Capital Partners
+3548,410,135,Compt,Harlem Capital Partners
+3549,1164,1880,Blavity,Base Ventures
+3550,1407,1878,Juniper Square,Zigg Capital
+3551,1112,1878,Vontive,Zigg Capital
+3552,1925,1878,Tomo,Zigg Capital
+3553,1407,1840,Juniper Square,OVO Fund
+3554,291,1840,Studio,OVO Fund
+3555,829,88,DraftKings,Major League Soccer
+3556,1355,283,Medfin India,Kotak Investment Advisors
+3557,845,1640,EnKash,Ascent Capital
+3558,379,1640,RBL Bank,Ascent Capital
+3559,2042,1023,Reliance Jio,ICICI Bank
+3560,950,1307,UpGrad,IIFL Finance
+3561,796,1307,Licious,IIFL Finance
+3562,1506,1307,Uniphore,IIFL Finance
+3563,1555,381,The EVERY Company,IndieBio
+3564,1555,710,The EVERY Company,SOSV
+3565,884,710,rocketship.vc,SOSV
+3566,1555,1893,The EVERY Company,UpHonest Capital
+3567,298,870,SparkCognition,The Boeing Company
+3568,298,1183,SparkCognition,US Department of Energy
+3569,466,1183,Siemens,US Department of Energy
+3570,1382,1183,Honeywell,US Department of Energy
+3571,755,1183,American Axle & Manufacturing,US Department of Energy
+3572,298,1758,SparkCognition,Energize Ventures
+3573,298,1660,SparkCognition,Hearst Ventures
+3574,289,1660,Science,Hearst Ventures
+3575,417,874,SES,Applied Materials
+3576,417,22,SES,General Motors
+3577,218,889,Rent the Runway,Highland Capital Partners
+3578,1182,889,Shift,Highland Capital Partners
+3579,876,889,Huntress,Highland Capital Partners
+3580,1422,1644,Info Edge,Lightbox
+3581,1431,1368,Helix,Mayo Clinic
+3582,977,833,Gogoro,Generation Investment Management
+3583,483,833,o9 Solutions,Generation Investment Management
+3584,977,740,Gogoro,Engie
+3585,977,1620,Gogoro,HTC
+3586,1716,656,BlueVoyant,Fiserv
+3587,182,1862,PLDT,U.S. Trade and Development Agency
+3588,665,1883,Xpressbees,Investcorp
+3589,1816,277,Nreal,iQiyi
+3590,1621,1094,PolySign,Cowen Digital
+3591,1621,1653,PolySign,Cowen Group
+3592,1621,987,PolySign,Brevan Howard Asset Management
+3593,540,284,Gro Intelligence,One Planet Group
+3594,778,1740,Mojo Vision,PTC
+3595,2029,1628,Branch,Canvas Ventures
+3596,2029,701,Branch,Pear VC
+3597,598,701,Affinity,Pear VC
+3598,1998,61,Evernow,Refactor Capital
+3599,1811,1206,Canopy,EPIC Ventures
+3600,1811,3,Canopy,NewView Capital
+3601,443,1024,Kristal.AI,Amit Gupta
+3602,1465,1918,Typeform,Point Nine
+3603,1291,1918,Amenitiz,Point Nine
+3604,943,1955,Montonio,Superangel
+3605,943,626,Montonio,Tera Ventures
+3606,1305,542,KnowBe4,Elephant
+3607,1486,542,Triple Whale,Elephant
+3608,1305,1984,KnowBe4,TenEleven Ventures
+3609,1305,591,KnowBe4,March Capital
+3610,802,1400,GoDaddy,Starboard Value
+3611,1749,1258,FanDuel,Piton Capital
+3612,718,330,Adaptive Biotechnologies,Senator Investment Group
+3613,1228,330,Galaxy Digital,Senator Investment Group
+3614,718,189,Adaptive Biotechnologies,Rock Springs Capital
+3615,1674,189,Bristol Myers Squibb,Rock Springs Capital
+3616,718,1868,Adaptive Biotechnologies,ARK Investment Management
+3617,718,1292,Adaptive Biotechnologies,Viking Global Investors
+3618,1113,1210,Sanofi,Evotec
+3619,1151,1395,Sweep,La Famiglia
+3620,1146,956,Turo,Intact Financial Corporation
+3621,1745,1145,SpinLaunch,Neotribe Ventures
+3622,2002,1145,Theta Lake,Neotribe Ventures
+3623,1745,949,SpinLaunch,Bolt
+3624,1192,949,Tonal,Bolt
+3625,1665,949,Omni,Bolt
+3626,1481,949,Sense,Bolt
+3627,1745,654,SpinLaunch,Alphabet
+3628,707,392,LifeMine Therapeutics,GlaxoSmithKline
+3629,707,1706,LifeMine Therapeutics,Merck
+3630,1766,1871,DNAnexus,Northpond Ventures
+3631,1377,1871,Eleanor Health,Northpond Ventures
+3632,1766,545,DNAnexus,WuXi AppTec
+3633,1766,1326,DNAnexus,Regeneron
+3634,361,1304,what3words,Aramex International
+3635,1192,644,Tonal,L Catterton
+3636,1536,644,The Honest Company,L Catterton
+3637,1532,644,Hydrow,L Catterton
+3638,35,644,FLASH,L Catterton
+3639,712,682,Card91,Point72 Ventures
+3640,712,1988,Card91,EMVC
+3641,325,1484,Zeta,Sodexo
+3642,651,363,Yanolja,Sky Lake Investment
+3643,47,205,Pax8,Blue Cloud Ventures
+3644,47,474,Pax8,Catalyst Investors
+3645,2113,1104,Gympass,Kaszek
+3646,369,674,Neuron23,Perceptive Advisors
+3647,302,674,ReViral,Perceptive Advisors
+3648,369,324,Neuron23,Redmile Group
+3649,374,1531,OurCrowd,United Overseas Bank
+3650,374,185,OurCrowd,UOB Venture
+3651,908,732,Extend,Graph Ventures
+3652,672,732,Strive,Graph Ventures
+3653,908,1379,Extend,Lightbank
+3654,1638,1594,Embark,Section 32
+3655,371,1973,Twingate,Green Bay Ventures
+3656,1482,529,Birdeye,Accel-KKR
+3657,1482,475,Birdeye,World Innovation Lab (WiL)
+3658,1735,1007,Natural Fiber Welding,Advantage Capital
+3659,683,1007,Medtronic,Advantage Capital
+3660,1454,1774,Octane,Third Prime
+3661,1787,1774,TemperPack,Third Prime
+3662,2039,1774,SeedInvest,Third Prime
+3663,1913,1508,Cart.com,Clearco
+3664,1487,700,Talend,Idinvest Partners
+3665,1251,700,Deezer,Idinvest Partners
+3666,1753,700,Schneider Electric,Idinvest Partners
+3667,257,700,October,Idinvest Partners
+3668,1083,472,Seedcamp,Venrex
+3669,1946,472,OTA Insight,Venrex
+3670,1083,1544,Seedcamp,DN Capital
+3671,144,1544,Everli,DN Capital
+3672,1376,628,Coronet,Jerusalem Venture Partners (JVP)
+3673,1376,1276,Coronet,MizMaa Ventures
+3674,1376,1485,Coronet,Sound Ventures
+3675,1835,1437,Sona,Novator
+3676,585,1437,Nord Security,Novator
+3677,910,2094,Khazna,Lendable
+3678,288,1806,Bitpanda,Jump Capital
+3679,29,1806,LinkSquares,Jump Capital
+3680,71,1806,Zipmex,Jump Capital
+3681,288,1624,Bitpanda,Wintermute Trading
+3682,711,670,Wave,RBC Capital
+3683,1631,670,League,RBC Capital
+3684,311,670,Creative Destruction Lab (CDL),RBC Capital
+3685,1631,569,League,Manulife Financial
+3686,1946,1034,OTA Insight,Spectrum Equity
+3687,570,1975,MoEngage,Steadview Capital
+3688,615,1975,Nykaa,Steadview Capital
+3689,379,1975,RBL Bank,Steadview Capital
+3690,1915,1031,Vogo,Ola
+3691,327,192,mfine,Prime Venture Partners
+3692,1771,1841,Trace,NextGen Venture Partners
+3693,1771,1161,Trace,Amplify.LA
+3694,1273,265,IndiaMART,WestBridge Capital
+3695,1582,265,IndiQube,WestBridge Capital
+3696,1273,51,IndiaMART,Amadeus Capital Partners
+3697,1937,51,FiveAI,Amadeus Capital Partners
+3698,1750,1041,Conversica,Providence Equity Partners
+3699,212,1041,Hulu,Providence Equity Partners
+3700,1750,1317,Conversica,Morgan Stanley Expansion Capital
+3701,175,1322,Vytalize Health,KittyHawk Ventures
+3702,612,1989,Sophos,TA Associates
+3703,883,1989,IFS,TA Associates
+3704,1370,1989,K2,TA Associates
+3705,53,1989,Bigpoint,TA Associates
+3706,883,1128,IFS,EQT
+3707,427,1128,Dojo,EQT
+3708,883,578,IFS,Hg
+3709,1370,1773,K2,Azure Capital Partners
+3710,1991,1773,Selector,Azure Capital Partners
+3711,1370,103,K2,FTV Capital
+3712,53,1730,Bigpoint,GMT Capital
+3713,53,190,Bigpoint,Peacock Equity
+3714,19,739,Welcome Tech,TTV Capital
+3715,445,739,SamCart,TTV Capital
+3716,19,1173,Welcome Tech,Crosscut Ventures
+3717,19,52,Welcome Tech,Next Play Capital
+3718,1664,884,Sary,rocketship.vc
+3719,1664,197,Sary,MSA Capital
+3720,144,1359,Everli,360 Capital
+3721,144,548,Everli,United Ventures
+3722,1830,1257,Altibbi,Hikma Ventures
+3723,50,1257,Click Therapeutics,Hikma Ventures
+3724,1830,1906,Altibbi,Global Ventures
+3725,1830,1518,Altibbi,DASH Ventures
+3726,1876,1618,BoostUp.ai,Correlation Ventures
+3727,155,1618,Kaiyo,Correlation Ventures
+3728,1132,1618,Mercato,Correlation Ventures
+3729,1876,480,BoostUp.ai,NGP Capital
+3730,1737,480,Network18,NGP Capital
+3731,1876,340,BoostUp.ai,Bethnal Green Ventures
+3732,1876,1714,BoostUp.ai,Benhamou Global Ventures
+3733,1978,1941,Boba Network,Huobi
+3734,1978,1209,Boba Network,BitMart
+3735,1182,1005,Shift,Lithia Motors
+3736,1055,140,Somatus,Optum Ventures
+3737,981,140,LetsGetChecked,Optum Ventures
+3738,615,13,Nykaa,Max Ventures and Industries
+3739,1624,172,Wintermute Trading,Kenetic
+3740,1624,920,Wintermute Trading,FBG Capital
+3741,1181,920,RockX,FBG Capital
+3742,2103,2061,Laiye,Lightspeed China Partners
+3743,1732,1491,Lianluo,F&G Venture
+3744,1532,1795,Hydrow,Activant Capital
+3745,1809,1795,Bolttech,Activant Capital
+3746,35,890,FLASH,Austin Ventures
+3747,35,359,FLASH,Geekdom Fund
+3748,851,799,Skims,Thrive Capital
+3749,876,1319,Huntress,SaaS Ventures
+3750,876,821,Huntress,Forgepoint Capital
+3751,1530,821,Attivo Networks,Forgepoint Capital
+3752,876,728,Huntress,Blu Venture Investors
+3753,165,1195,Navi Technologies,Gaja Capital
+3754,379,24,RBL Bank,ICICI Lombard General Insurance
+3755,1568,1709,Yuga Labs,MoonPay
+3756,1568,1309,Yuga Labs,Genies
+3757,941,131,DigiLens,Niantic
+3758,941,2070,DigiLens,Corning
+3759,1962,916,Silver Lake,Dyal Capital Partners
+3760,1274,916,Sixth Street,Dyal Capital Partners
+3761,299,916,H.I.G. Capital,Dyal Capital Partners
+3762,734,916,ICONIQ Capital,Dyal Capital Partners
+3763,56,916,Golub Capital,Dyal Capital Partners
+3764,1756,576,Reliance Retail,Saudi Arabia's Public Investment Fund
+3765,1210,1833,Evotec,Gilde Healthcare
+3766,1210,2076,Evotec,Omega Funds
+3767,1647,523,SkyHive,Accenture Ventures
+3768,114,523,Interos,Accenture Ventures
+3769,409,2013,Proxymity,State Street
+3770,942,1803,Startup Wise Guys,European regional development fund (ERDF)
+3771,846,5,Saphyre,BNP Paribas
+3772,524,5,Capital on Tap,BNP Paribas
+3773,846,1263,Saphyre,HCAP Partners
+3774,1643,465,Sierra Oncology,OrbiMed
+3775,302,465,ReViral,OrbiMed
+3776,1643,1278,Sierra Oncology,Vivo Capital
+3777,1674,1278,Bristol Myers Squibb,Vivo Capital
+3778,1643,825,Sierra Oncology,Frazier Healthcare Partners
+3779,1643,476,Sierra Oncology,Capital Midwest Fund
+3780,702,982,Refinitiv,Blackstone Group
+3781,913,982,NCR,Blackstone Group
+3782,55,982,Great Hill Partners,Blackstone Group
+3783,2102,982,BC Partners,Blackstone Group
+3784,962,649,Skuad,Mindlance
+3785,401,1979,MyShubhLife,Gojo & Company
+3786,401,1175,MyShubhLife,Patamar Capital
+3787,741,1118,WinZO,Hike
+3788,772,526,Stax,Fulcrum Equity Partners
+3789,772,471,Stax,Greater Sum Ventures
+3790,976,266,Vestar Capital Partners,Antares Capital
+3791,1923,1459,Lucid,Sopris Capital Associates
+3792,445,17,SamCart,George Kaiser Family Foundation
+3793,624,863,Voyager,Moving Capital
+3794,624,1505,Voyager,Stifel Financial
+3795,1447,1201,Shares,Singular
+3796,1044,1201,Tinybird,Singular
+3797,1447,341,Shares,Red Sea Ventures
+3798,1690,1606,Rocket Internet,Access Industries
+3799,1334,1606,Selina,Access Industries
+3800,1251,1606,Deezer,Access Industries
+3801,1690,420,Rocket Internet,United Internet Ventures
+3802,1411,1168,Dolado,Norte Ventures
+3803,1866,1061,Sydecar,Hustle Fund
+3804,1866,1670,Sydecar,Deciens Capital
+3805,48,120,Zilch,Ventura Capital
+3806,48,149,Zilch,dmg ventures
+3807,787,149,Hambro Perks Ltd.,dmg ventures
+3808,48,512,Zilch,Gauss Ventures
+3809,805,831,WonderFi,Argo Blockchain
+3810,805,517,WonderFi,Alameda Research
+3811,805,1493,WonderFi,Canaccord Genuity Group
+3812,1648,84,IUNU,Astanor Ventures
+3813,1452,1122,Coupa Software,BlueRun Ventures
+3814,1781,1122,Li Auto,BlueRun Ventures
+3815,1048,1420,Demandbase,Adobe
+3816,1645,1707,unico IDtech,SOFTBANK Latin America Ventures
+3817,1645,2038,unico IDtech,Igah Ventures.
+3818,840,1429,Lenovo,Legend Holdings
+3819,840,117,Lenovo,Chinese Academy Of Sciences
+3820,840,1860,Lenovo,The Parent Company
+3821,1859,706,Crehana,Wayra
+3822,1907,706,Ascension,Wayra
+3823,1859,544,Crehana,Alive Ventures
+3824,1652,350,Evisort,Village Global
+3825,1436,350,Brightside Health,Village Global
+3826,1652,1734,Evisort,Rough Draft Ventures
+3827,1652,1136,Evisort,M12 - Microsoft's Venture Fund
+3828,1291,1226,Amenitiz,BACKED VC
+3829,1291,743,Amenitiz,Otium Capital
+3830,1378,1235,Plex,Klass Capital
+3831,1378,1902,Plex,Intercap
+3832,114,495,Interos,Broadway Angels
+3833,698,1688,Amazon,AOL
+3834,302,606,ReViral,Andera Partners
+3835,302,1313,ReViral,New Leaf Venture Partners
+3836,209,1295,IntelyCare,Longitude Capital
+3837,209,666,IntelyCare,Kaiser Permanente Ventures
+3838,209,561,IntelyCare,Endeavour Vision
+3839,1017,1615,Tarana Wireless,I Squared Capital
+3840,1017,648,Tarana Wireless,DIRECTV
+3841,355,1782,2TM,MercadoLibre
+3842,355,1213,2TM,TC - TradersClub
+3843,1044,386,Tinybird,Crane Venture Partners
+3844,677,1469,ProtonMail,European Commission
+3845,677,975,ProtonMail,MIT Venture Mentoring Service (MIT VMS)
+3846,622,1672,Team8,Nokia
+3847,681,702,Global Data Consortium,Refinitiv
+3848,681,547,Global Data Consortium,VilCap Investments
+3849,1176,268,DataRails,Qumra Capital
+3850,1176,1308,DataRails,Vertex Ventures Israel
+3851,29,315,LinkSquares,Xerox
+3852,29,1232,LinkSquares,Hyperplane Venture Capital
+3853,29,528,LinkSquares,Touchdown Ventures
+3854,1956,158,Instoried,EXPERT DOJO
+3855,2039,767,SeedInvest,Great Oaks Venture Capital
+3856,2039,807,SeedInvest,Scout Ventures
+3857,2039,1705,SeedInvest,Krillion Ventures
+3858,1996,839,SWVL Technologies,Careem
+3859,1996,306,SWVL Technologies,Autotech Ventures
+3860,1996,985,SWVL Technologies,Oman Technology Fund
+3861,1996,902,SWVL Technologies,BECO Capital
+3862,2027,1070,Roku,Netflix
+3863,2027,1458,Roku,News Corp
+3864,2027,1402,Roku,Good Technology
+3865,708,1212,EdCast,Stanford University
+3866,1361,1212,StartX (Stanford-StartX Fund),Stanford University
+3867,1810,1231,Society Brands,i80 | Group
+3868,922,1231,Lighter Capital,i80 | Group
+3869,922,1819,Lighter Capital,National Australia Bank (NAB)
+3870,137,1819,Zip,National Australia Bank (NAB)
+3871,922,1804,Lighter Capital,Voyager Capital
+3872,1063,1247,Taxfyle,Ocean Azul Partners
+3873,1063,1627,Taxfyle,Fuel Venture Capital
+3874,1329,1504,Pipe,Okta
+3875,1329,537,Pipe,HubSpot
+3876,137,1869,Zip,Westpac
+3877,137,12,Zip,Victory Park Capital
+3878,346,1186,Toothsi,IIFL Wealth Management
+3879,346,2044,Toothsi,Stride Ventures
+3880,545,2028,WuXi AppTec,NewSpring
+3881,1494,2028,ExecOnline,NewSpring
+3882,2083,939,Moneybox,Breega
+3883,2083,787,Moneybox,Hambro Perks Ltd.
+3884,1903,787,Habyt,Hambro Perks Ltd.
+3885,2083,1985,Moneybox,Samos Investments
+3886,814,338,Northern Arc,LeapFrog Investments
+3887,814,1829,Northern Arc,Standard Chartered Bank
+3888,814,1433,Northern Arc,Kotak Mahindra Bank
+3889,611,622,Noogata,Team8
+3890,296,622,Cyberpion,Team8
+3891,1076,867,Zillow,Legg Mason
+3892,1076,1109,Zillow,PAR Capital Management
+3893,932,1933,Splunk,August Capital
+3894,1070,618,Netflix,Comdisco Ventures
+3895,1850,388,Spectro Cloud,WestWave Capital
+3896,1850,1879,Spectro Cloud,T-Mobile Ventures
+3897,1850,816,Spectro Cloud,Boldstart Ventures
+3898,1285,191,Cushman & Wakefield,Santander Bank
+3899,1285,1599,Cushman & Wakefield,Vanke
+3900,410,414,Compt,Impellent Ventures
+3901,1481,1753,Sense,Schneider Electric
+3902,2030,337,Edison,U.S. Venture Partners
+3903,296,337,Cyberpion,U.S. Venture Partners
+3904,297,671,AMC Theatres,Mudrick Capital Management
+3905,1919,227,Aye Finance,responsAbility
+3906,524,966,Capital on Tap,TriplePoint Venture Growth
+3907,524,455,Capital on Tap,Pollen Street Capital
+3908,1334,1111,Selina,Abraaj Group
+3909,1251,1814,Deezer,Orange
+3910,1251,1219,Deezer,Kingdom Holding Company
+3911,1377,1805,Eleanor Health,Echo Health Ventures
+3912,400,967,finleap,IONIQ
+3913,400,1629,finleap,Hannover Re
+3914,400,1977,finleap,MS&AD Ventures
+3915,400,854,finleap,Ping An Global Voyager
+3916,2118,1448,Cyara,PeakSpan Capital
+3917,1889,1448,Stylitics,PeakSpan Capital
+3918,2118,2045,Cyara,K1 Investment Management
+3919,14,2045,TokenEx,K1 Investment Management
+3920,311,959,Creative Destruction Lab (CDL),Bank of Montreal
+3921,311,1731,Creative Destruction Lab (CDL),Government of Canada
+3922,23,751,UpScalio,468 Capital
+3923,23,63,UpScalio,Kingsway Capital
+3924,23,1010,UpScalio,Heliad Equity Partners
+3925,1700,1056,re:cap,Project A Ventures
+3926,1529,658,Ampere Computing,Oracle
+3927,1529,1489,Ampere Computing,Arm Holdings
+3928,1312,932,Aclima,Splunk
+3929,257,74,October,Partech
+3930,584,74,Akeneo,Partech
+3931,556,74,Weglot,Partech
+3932,399,74,Material Exchange,Partech
+3933,990,74,Five9,Partech
+3934,257,1163,October,European Investment Bank
+3935,1672,1163,Nokia,European Investment Bank
+3936,1814,1163,Orange,European Investment Bank
+3937,1712,1163,Ericsson,European Investment Bank
+3938,1528,1540,GridX,Moore Strategic Ventures
+3939,318,1540,InCred,Moore Strategic Ventures
+3940,1528,1325,GridX,Sunfox Capital
+3941,390,147,ParaFi Capital,9Yards Capital
+3942,1931,147,8VC,9Yards Capital
+3943,71,152,Zipmex,MindWorks Capital
+3944,71,1184,Zipmex,TNB AURA
+3945,71,567,Zipmex,Plan B Media
+3946,1807,1669,Functionland,DFINITY
+3947,1807,1548,Functionland,Outlier Ventures
+3948,1807,1942,Functionland,DoraHacks
+3949,748,860,Infor,Golden Gate Capital
+3950,1002,486,Optimove,Israel Growth Partners
+3951,584,1939,Akeneo,Alven
+3952,1889,922,Stylitics,Lighter Capital
+3953,399,470,Material Exchange,Inventure
+3954,399,477,Material Exchange,Norrsken VC
+3955,399,119,Material Exchange,Day One Capital
+3956,990,761,Five9,City National Bank
+3957,990,1012,Five9,Hummer Winblad Venture Partners
+3958,1809,2035,Bolttech,Alma Mundi Ventures
+3959,1991,462,Selector,Atlantic Bridge
+3960,1991,1242,Selector,SineWave Ventures
+3961,1991,1340,Selector,Two Bear Capital
+3962,1222,1667,Camino Financial,Community Investment Management
+3963,1222,333,Camino Financial,DILA Capital
+3964,1222,1603,Camino Financial,Impact America Fund
+3965,180,996,Telefonica,Barclays Investment Bank
+3966,180,1952,Telefonica,BBVA Ventures
+3967,601,1790,Gemini,Marcy Venture Partners
+3968,1659,1790,Partake Foods,Marcy Venture Partners
+3969,601,2058,Gemini,Mogo
+3970,454,384,Ethereum Foundation,KR1
+3971,1361,559,StartX (Stanford-StartX Fund),Groupon
+3972,139,1471,Warner Music Group,Tencent Music Entertainment
+3973,549,419,Sedgwick Claims Management Services,Caisse de Depot et Placement du Quebec
+3974,1637,419,Real Ventures,Caisse de Depot et Placement du Quebec
+3975,873,419,Celsius Network,Caisse de Depot et Placement du Quebec
+3976,143,419,Dialogue,Caisse de Depot et Placement du Quebec
+3977,873,1760,Celsius Network,gumi Cryptos Capital (gCC)
+3978,873,1799,Celsius Network,WestCap
+3979,873,1626,Celsius Network,Disrupt Ventures
+3980,873,79,Celsius Network,Alpha Sigma Capital
+3981,635,2102,Altice USA,BC Partners
+3982,1353,2102,IMA Group,BC Partners
+3983,2074,1418,Uphold,Coil
+3984,2074,511,Uphold,Hard Yaka
+3985,2074,924,Uphold,Venovate
+3986,1494,1131,ExecOnline,ABS Capital Partners
+3987,1494,1820,ExecOnline,Washington Post
+3988,2003,1472,Ankr,Mapleblock Capital
+3989,1181,2117,RockX,Matrixport
+3990,1181,1710,RockX,IMO Ventures
+3991,1246,764,Startupbootcamp,GoBeyond
+3992,1221,764,Kae Capital,GoBeyond
+3993,764,764,GoBeyond,GoBeyond
+3994,1246,124,Startupbootcamp,LVenture Group
+3995,723,255,Visa,TNB Financial Services
+3996,1038,961,Emitwise,ArcTern Ventures
+3997,1038,60,Emitwise,Social Impact Capital
+3998,1476,260,Seedrs,Faber
+3999,1476,237,Seedrs,Woodford Investment Management
+4000,1281,765,Zabka Polska,European Bank for Reconstruction and Development
+4001,1471,21,Tencent Music Entertainment,Spotify
+4002,568,229,Sol Global investments,Aphria
+4003,817,1963,Intel,Arthur Rock & Co
+4004,1995,1204,Fasset,Liberty City Ventures
+4005,75,1221,1K Kirana Bazaar,Kae Capital
+4006,1937,1525,FiveAI,Notion Capital
+4007,1937,1240,FiveAI,Kindred Capital
+4008,1937,1775,FiveAI,Trustbridge Partners
+4009,1903,405,Habyt,Inveready
+4010,1672,1036,Nokia,Nordic Investment Bank
+4011,1712,1036,Ericsson,Nordic Investment Bank
+4012,1341,1037,Arzeda,Universal Materials Incubator
+4013,1350,134,Axis Bank,Court Square Capital Partners
+4014,1350,326,Axis Bank,Life Insurance Corporation of India
+4015,1350,1738,Axis Bank,Karur Vysya Bank
+4016,271,2008,IRI,New Mountain Capital
+4017,271,976,IRI,Vestar Capital Partners
+4018,683,1895,Medtronic,Trade Capital Funding
+4019,1509,623,Amplience,Octopus Ventures
+4020,1509,1772,Amplience,Northstar Ventures
+4021,1509,1015,Amplience,Columbia Lake Partners
+4022,1740,1318,PTC,Rockwell Automation
+4023,1293,843,Euler Motors,Moglix
+4024,1293,1704,Euler Motors,Emergent Ventures
+4025,852,1316,Neiman Marcus Group,Farfetch
+4026,948,502,ChannelEngine,INKEF Capital
+4027,1054,1135,Citi,ValueAct Capital
+4028,212,187,Hulu,The Walt Disney Company
+4029,212,321,Hulu,WarnerMedia
+4030,296,154,Cyberpion,Hyperwise Ventures
+4031,692,273,Firefly Aerospace,XBTO Group
+4032,692,1451,Firefly Aerospace,AE Industrial Partners
+4033,692,309,Firefly Aerospace,Tank Stream Ventures
+4034,763,1662,Anthemis Group,Pivot Investment Partners
+4035,1456,1662,Fenway Summer Ventures,Pivot Investment Partners
+4036,763,800,Anthemis Group,Migdal Insurance and Financial Holdings
+4037,1659,1617,Partake Foods,CircleUp
+4038,1659,1776,Partake Foods,Backstage Capital
+4039,1659,194,Partake Foods,Shawn Carter
+4040,853,1404,Argo AI,Ford Motor
+4041,853,221,Argo AI,Volkswagen Group
+4042,756,86,Novartis,Bill & Melinda Gates Foundation
+4043,1368,18,Mayo Clinic,U.S. Department of Defense
+4044,1137,299,Cuyana,H.I.G. Capital
+4045,1137,566,Cuyana,InterWest Partners
+4046,1326,971,Regeneron,U.S. Department of Health & Human Services
+4047,2094,1677,Lendable,FMO
+4048,318,1677,InCred,FMO
+4049,2091,1677,Aavishkaar Venture Capital,FMO
+4050,2094,1456,Lendable,Fenway Summer Ventures
+4051,2094,4,Lendable,US Angel Investors
+4052,2094,345,Lendable,Omidyar Network
+4053,1296,2054,Home365,UpWest
+4054,1296,28,Home365,J-Ventures
+4055,1296,954,Home365,Viola Growth
+4056,500,2048,QueQ,Bon Angels Venture Partners
+4057,1781,118,Li Auto,ByteDance
+4058,1781,1726,Li Auto,Yintai Group
+4059,1781,1762,Li Auto,Matrix Partners China
+4060,1781,163,Li Auto,Source Code Capital
+4061,1586,2092,Poplar Homes,XG Ventures
+4062,1586,2072,Poplar Homes,Crescent Cove Advisors
+4063,1060,1367,Line,Mizuho Bank
+4064,1706,238,Merck,Gavi
+4065,1941,1982,Huobi,ZhenFund
+4066,1941,116,Huobi,Node Capital
+4067,2091,554,Aavishkaar Venture Capital,Triodos Investment Management
+4068,2091,1300,Aavishkaar Venture Capital,Shell Foundation
+4069,1198,856,Hercules Capital,AloStar
+4070,1519,162,LongHash Ventures,Fenbushi Capital
+4071,1209,162,BitMart,Fenbushi Capital
+4072,1519,735,LongHash Ventures,Hashkey
+4073,1209,328,BitMart,Alpha Square Group
+4074,416,1497,Layr,Holmes Murphy & Associates
+4075,416,1004,Layr,Sandbox Industries
+4076,416,804,Layr,Hudson Structured Capital Management
+4077,2028,1711,NewSpring,17Capital LLP
+4078,1343,297,Hycroft Mining,AMC Theatres
+4079,316,1517,Perlego,Founders Factory
+4080,290,1315,Pattern,Knox Lane
+4081,1458,641,News Corp,Liberty Media
+4082,2058,1680,Mogo,Fortress Investment Group
+4083,2115,1680,BigBear.ai,Fortress Investment Group
+4084,2115,973,BigBear.ai,Highbridge Capital Management
+4085,292,202,Northleaf Capital Partners,Great West Lifeco
+4086,292,1289,Northleaf Capital Partners,Mackenzie Investments
+4087,111,1081,OneValley,Brand Capital International
+4088,111,1990,OneValley,SuRo Capital
+4089,617,1990,NewLake Capital Partners,SuRo Capital
+4090,389,490,Lighthouse Labs RVA,Activation Capital
+4091,389,2079,Lighthouse Labs RVA,GO Virginia
+4092,227,2010,responsAbility,Calvert Impact Capital
+4093,227,179,responsAbility,Alecta
+4094,1872,822,Lennar Corporation,East West Bank
+4095,1576,228,Next Coast Ventures,Renaissance Venture Capital
+4096,586,228,Atlas Venture,Renaissance Venture Capital
+4097,985,2080,Oman Technology Fund,Queno
+4098,88,451,Major League Soccer,National Black Bank Foundation
+4099,1841,1900,NextGen Venture Partners,Hammerstone
+4100,1708,257,JCDecaux,October
+4101,740,257,Engie,October
+4102,13,534,Max Ventures and Industries,New York Life Insurance
+4103,1419,1087,Globalization Partners,TDR Capital
+4104,1228,1130,Galaxy Digital,Nz Funds
+4105,1049,203,Berkshire Hathaway,Pershing Square Capital Management
+4106,358,1013,Filevine,StepStone Group
+4107,358,655,Filevine,Album VC
+4108,358,222,Filevine,Signal Peak Ventures
+4109,2033,579,Endeavor,Swicorp
+4110,940,760,Blockchain Capital,Tally Capital
+4111,1507,808,gener8tor,American Family Ventures
+4112,1507,1425,gener8tor,CSA Partners LLC
+4113,801,1311,Carmoola,VentureFriends
+4114,801,1089,Carmoola,InMotion Ventures
+4115,1725,1099,Accenture,Youth Business International
+4116,9,1370,Fyllo,K2
+4117,9,568,Fyllo,Sol Global investments
+4118,9,438,Fyllo,ArrowMark Partners
+4119,9,1921,Fyllo,Phyto Partners
+4120,50,1570,Click Therapeutics,Boehringer Ingelheim
+4121,50,774,Click Therapeutics,Health Catalyst Capital
+4122,50,2049,Click Therapeutics,Sanofi Ventures
+4123,1932,1058,Chainlink,Limitless Crypto Investments
+4124,1286,1708,Eurazeo,JCDecaux
+4125,1436,1047,Brightside Health,Mousse Partners
+4126,1436,1912,Brightside Health,Bullpen Capital
+4127,1483,415,CollegeDekho,GirnarSoft
+4128,1483,749,CollegeDekho,Winter Capital Advisors
+4129,752,2114,BITKRAFT Ventures,Nazara Technologies
+4130,336,1953,Deutsche Bank,HNA Group
+4131,336,660,Deutsche Bank,Cerberus Capital Management
+4132,1413,1679,Buyk,Fort Ross Ventures
+4133,1413,70,Buyk,LVL1 Group
+4134,750,70,Columbia Care,LVL1 Group
+4135,1413,1243,Buyk,CM Ventures
+4136,750,617,Columbia Care,NewLake Capital Partners
+4137,211,855,Brightspark Ventures,Kensington Capital Partners Limited
+4138,2025,1143,Daimler,Zhejiang Geely Holding Group
+4139,2025,1796,Daimler,BAIC Group
+4140,1150,2081,Elemental Excelerator,Chan Zuckerberg Initiative
+4141,1150,1926,Elemental Excelerator,United States Navy
+4142,158,1108,EXPERT DOJO,Bay Wharf Capital
+4143,158,280,EXPERT DOJO,VDOSH
+4144,306,755,Autotech Ventures,American Axle & Manufacturing
+4145,306,770,Autotech Ventures,Allison Transmission Holdings
+4146,160,1673,Aleph Holding,Twitter
+4147,1304,285,Aramex International,ADQ
+4148,544,979,Alive Ventures,The SCAN Foundation
+4149,1310,646,Bossa Nova Investimentos,OSINOVA
+4150,1517,1294,Founders Factory,Aviva Investors
+4151,1517,10,Founders Factory,GMG Ventures
+4152,1942,157,DoraHacks,Bitmain
+4153,1942,790,DoraHacks,ArkStream Capital
+4154,1942,151,DoraHacks,8 Decimal Capital
+4155,1868,1837,ARK Investment Management,Nikko AssetManagement
+4156,281,1473,ESL Gaming,Omnes Capital
